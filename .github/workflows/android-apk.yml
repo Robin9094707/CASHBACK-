@@ -1,0 +1,42 @@
+name: Android APK
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['data/**', 'README.md', 'docs/**']
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: android-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build:
+    name: Build installable Samsung APK
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: android-actions/setup-android@v3
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.14.3'
+      - name: Build APK
+        run: gradle --no-daemon assembleRelease
+      - name: Name APK
+        run: cp app/build/outputs/apk/release/app-release.apk Jessicas-Cashback.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Jessicas-Cashback-APK
+          path: Jessicas-Cashback.apk
+          retention-days: 90
+      - name: Publish direct APK download
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view android-latest >/dev/null 2>&1 || gh release create android-latest --title "Jessicas Cashback · Android" --notes "Installierbare Android-App. APK herunterladen und auf Android 8 oder neuer installieren. Aktionsdaten werden automatisch aktualisiert."
+          gh release upload android-latest Jessicas-Cashback.apk --clobber

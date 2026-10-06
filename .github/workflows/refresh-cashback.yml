@@ -1,0 +1,36 @@
+name: Refresh live cashback
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['scripts/**', '.github/workflows/refresh-cashback.yml']
+permissions:
+  contents: write
+concurrency:
+  group: cashback-feed
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r scripts/requirements.txt
+      - id: refresh
+        continue-on-error: true
+        run: python scripts/refresh_feed.py
+      - name: Save feed or visible source error
+        run: |
+          git config user.name "Cashback Feed"
+          git config user.email "cashback-feed@users.noreply.github.com"
+          git add data/deals.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh public cashback feed"
+          git pull --rebase origin main
+          git push
+      - name: Report source failure
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
