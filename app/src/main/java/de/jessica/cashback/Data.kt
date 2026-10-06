@@ -71,5 +71,5 @@ class CashbackViewModel(app:Application):AndroidViewModel(app) {
     fun entry(deal:Deal)=state.entries[deal.id] ?: Entry(deal,amountCents=deal.amountCents)
     fun save(e:Entry) { store.save(e); reload() }
     fun settings(s:Settings) { store.settings(s); reload() }
-    fun custom(title:String,url:String,storeName:String,amount:Int,deadline:String) { val deal=Deal("own-"+UUID.randomUUID(),title,url=url,stores=listOf(storeName).filter { it.isNotBlank() },deadline=deadline,amountCents=amount); save(Entry(deal,favorite=true,amountCents=amount)) }
+    fun custom(title:String,url:String,storeName:String,amount:Int,deadline:String,kind:String) { val deal=Deal("own-"+UUID.randomUUID(),title,kind=kind,reward=if(kind=="Gratis testen") "100 %" else if(kind=="Coupons") "Coupon" else "Cashback",url=url,stores=listOf(storeName).filter { it.isNotBlank() },deadline=deadline,amountCents=amount); save(Entry(deal,favorite=true,amountCents=amount)) }
 }
