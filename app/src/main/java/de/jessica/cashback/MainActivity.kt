@@ -59,7 +59,7 @@ private val Emerald=Color(0xFF006B59)
 private val Mint=Color(0xFFCBF5A2)
 private val Lavender=Color(0xFFE9DEFF)
 private val stores=listOf("Alle", "dm", "Rossmann", "Lidl", "Aldi", "Netto", "REWE", "EDEKA", "Kaufland", "Müller", "Amazon", "eBay", "Apotheke")
-private val statuses=listOf("Merkliste","Gekauft","Eingereicht","Erstattet","Abgelehnt")
+val statuses=listOf("Merkliste","Gekauft","Eingereicht","Erstattet","Abgelehnt")
 fun money(cents:Int)=NumberFormat.getCurrencyInstance(Locale.GERMANY).format(cents/100.0)
 fun dateText(value:String)=runCatching { LocalDate.parse(value).format(DateTimeFormatter.ofPattern("dd.MM.yyyy")) }.getOrDefault("Unbekannt")
 fun Context.openUrl(url:String) {

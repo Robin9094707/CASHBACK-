@@ -57,7 +57,7 @@ def parse(html):
             continue
         kind = 'Gratis testen' if re.search(r'100\s*%|gratis.testen|kostenlos.testen', title, re.I) else 'Cashback'
         stores = [s for s in STORES if re.search(r'(?<!\w)' + re.escape(s) + r'(?!\w)', desc + ' ' + title, re.I)]
-        conditions = re.search(r'\[Teilnahmebedingungen\]\((https://[^\s)]+)\)', desc, re.I)
+        conditions = re.search(r'\[Teilnahmebedingungen\]\((https://[^\s]+)\)', desc, re.I)
         amount = re.search(r'(?:maximal\w* (?:Rückerstattung|Erstattung)|bis zu|max\.)[^\d\n]{0,30}(\d+[,.]\d{2})\s*€', desc, re.I)
         image_obj = value(obj, 'image', {})
         image_url = value(image_obj, 'url') if isinstance(image_obj, dict) else ''
