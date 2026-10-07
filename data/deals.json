@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T15:55:29.042966+00:00",
-  "lastSuccessAt": "2026-10-07T15:55:29.042966+00:00",
+  "generatedAt": "2026-10-07T17:25:10.673058+00:00",
+  "lastSuccessAt": "2026-10-07T17:25:10.673058+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-07T15:55:29.042966+00:00"
+      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-07T15:55:29.042966+00:00"
+      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-07T15:55:29.042966+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-07T15:55:29.042966+00:00"
+      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-07T15:55:29.042966+00:00"
+      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
     }
   ],
   "deals": [
