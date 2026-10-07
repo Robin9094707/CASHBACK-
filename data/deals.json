@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T17:25:10.673058+00:00",
-  "lastSuccessAt": "2026-10-07T17:25:10.673058+00:00",
+  "generatedAt": "2026-10-07T23:03:49.539756+00:00",
+  "lastSuccessAt": "2026-10-07T23:03:49.539756+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
+      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
+      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
+      "count": 1,
+      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-07T17:25:10.673058+00:00"
+      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
     }
   ],
   "deals": [
@@ -1418,34 +1418,79 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-dc2a046fd38d17525e",
-      "title": "Milka Weihnachts-Schoki bei Amazon mit 3€ Cashback – Prime Deal Days Finale heute! 😱",
+      "id": "public-183ac484f856c7bf00",
+      "title": "🎮 GRATIS: Nintendo Switch 2 + 125GB 5G Telekom Allnet für 25€/Monat (Congstar Allnet Flat M)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/nintendo-switch-2-congstar-allnet-flat-m/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/nintendo-switch-2-congstar-allnet-flat-m/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-07T18:59:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-7861e5a0095e6edf01",
+      "title": "Telekom Magenta Zuhause L mit bis zu 530€ LogiTel-Cashback + 100€ Online-Bonus (effektiv ab 24,74€/Monat)",
       "kind": "Cashback",
       "reward": "Cashback",
-      "url": "https://www.dealdoktor.de/milka-weihnachts-schoki-cashback/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/milka-weihnachts-schoki-cashback/",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/telekom-magenta-zuhause-l-logitel-cashback/1605359",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/telekom-magenta-zuhause-l-logitel-cashback/1605359",
       "conditionsUrl": "",
-      "image": "https://www.kostenlos.de/app/uploads/2026/10/Milka_Amazon-750x302.jpeg",
-      "stores": [
-        "Amazon"
-      ],
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/telekom-magenta-zuhause-l-logitel-cashback-600x400.jpg",
+      "stores": [],
       "facts": [
-        "Milka-Cashback: 3€ zurück ab 6€ Einkaufswert für Milka Weihnachtsprodukte ✅",
-        "Aktionszeitraum Cashback: Läuft noch bis 27.12.2026 , aber das Kontingent ist wöchentlich begrenzt – also lieber schnell sein! 📅",
-        "Teilnahmen: Bis zu 3x pro Haushalt und IBAN möglich (max. 9€ Cashback!)",
-        "Cashback-Wert: 3€ erhaltet ihr, wenn ihr Milka Weihnachtsprodukte im Wert von mindestens 6€ kauft. Es ist ein Teil-Cashback, keine volle Erstattung.",
-        "Mehrfach teilnehmen: Ihr könnt bis zu 3x pro Haushalt , E-Mail-Adresse und IBAN mitmachen. So sichert ihr euch bis zu 9€ Cashback ! Wichtig: Jeder Kassenbon bzw. jede Online-Rechnung zählt nur einmal. Für jede weitere Teilnahme braucht ihr einen neuen Kaufbeleg.",
-        "Kontingent beachten: Der Veranstalter begrenzt das Cashback-Kontingent wöchentlich. In den Spitzenwochen im Oktober (KW 40-42) gibt es zwar bis zu 13.000 Plätze pro Woche , aber kurz vor Weihnachten sind es nur noch 500. Seid also frühzeitig dran , um eure Chance zu nutzen! 😱"
+        "💰 Bonus: 385€ LogiTel-Cashback + 100€ Telekom Online-Bonus",
+        "📺 Varianten: mit MagentaTV Smart, SmartStream oder MegaStream und 475€, 500€ bzw. 530€ Cashback",
+        "– 385€ LogiTel-Cashback",
+        "📺 Magenta Zuhause L mit MagentaTV Smart für 60,95€/Monat ab dem 7. Monat – 475€ Cashback – effektiv 29,24€/Monat Inklusive MagentaTV Smart mit über 150 Sendern in HD.",
+        "🎬 Magenta Zuhause L mit MagentaTV SmartStream für 65,95€/Monat ab dem 7. Monat – 500€ Cashback – effektiv 31,95€/Monat Inklusive Netflix und Disney+, jeweils im Standard-Abo mit Werbung.",
+        "🍿 Magenta Zuhause L mit MagentaTV MegaStream für 79,95€/Monat ab dem 7. Monat – 530€ Cashback – effektiv 41,20€/Monat Inklusive über 160 Sendern in HD, Apple TV+, RTL+ Premium, Netflix Standard und Disney+ Standard."
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 300,
-      "published": "2026-10-07T15:10:36+00:00",
+      "amountCents": 0,
+      "published": "2026-10-07T19:45:10+00:00",
       "verified": false,
       "cities": [],
-      "category": "Lebensmittel",
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-b35047c7955bcdff6d",
+      "title": "Kostenlose FLORIN+ Mastercard mit 50€ Gutschein",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/florin-mastercard/1605320",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/florin-mastercard/1605320",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/florin_banner-600x210.jpg",
+      "stores": [],
+      "facts": [
+        "📅 Angebot gültig bis: Aktionszeitraum läuft vom 01.10.2026 bis 15.11.2026.",
+        "Kreditkarte beantragen: Den Online-Antrag für die FLORIN+ Mastercard im Aktionszeitraum (01.10.–15.11.2026) ausfüllen."
+      ],
+      "purchasePeriod": "Aktionszeitraum läuft vom 01.10.2026 bis 15.11.2026",
+      "purchaseEnd": "2026-11-15",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-07T19:20:09+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
