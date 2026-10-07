@@ -19,6 +19,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.draw.clip
+import androidx.compose.foundation.shape.RoundedCornerShape
 import coil.compose.AsyncImage
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -41,10 +43,13 @@ import java.util.UUID
     ModalBottomSheet(onDismissRequest=onDismiss,sheetState=rememberModalBottomSheetState(skipPartiallyExpanded=true)) {
         Column(Modifier.fillMaxWidth().verticalScroll(rememberScrollState()).padding(horizontal=24.dp).padding(bottom=40.dp),verticalArrangement=Arrangement.spacedBy(16.dp)) {
             Row(verticalAlignment=Alignment.CenterVertically) { AssistChip(onClick={},label={Text(deal.kind)});Spacer(Modifier.weight(1f));IconButton(onClick={onSave(entry.copy(favorite=!entry.favorite))}) {Icon(if(entry.favorite) Icons.Rounded.Favorite else Icons.Rounded.FavoriteBorder,"Favorit ändern")};IconButton(onClick={context.startActivity(Intent.createChooser(Intent(Intent.ACTION_SEND).setType("text/plain").putExtra(Intent.EXTRA_TEXT,deal.title+"\n"+deal.url),"Aktion teilen"))}) {Icon(Icons.Rounded.Share,"Aktion teilen")} }
+            ProductImage(deal,Modifier.fillMaxWidth().height(230.dp).clip(RoundedCornerShape(28.dp)))
             Text(deal.title,style=MaterialTheme.typography.headlineMedium)
             Text(if(deal.amountCents>0) "${deal.reward} · maximal ${money(deal.amountCents)} laut Quelle" else deal.reward,style=MaterialTheme.typography.titleLarge,color=MaterialTheme.colorScheme.primary)
-            if(deal.url.isNotBlank()) Button(onClick={context.openUrl(deal.url)},modifier=Modifier.fillMaxWidth().heightIn(min=56.dp)) {Text("Zur Aktion / Teilnahme starten");Spacer(Modifier.width(8.dp));Icon(Icons.AutoMirrored.Rounded.OpenInNew,null,Modifier.size(20.dp))}
+            if(deal.url.isNotBlank()) Button(onClick={context.openUrl(deal.url)},modifier=Modifier.fillMaxWidth().heightIn(min=56.dp)) {Text(if(deal.source=="SPARWELT" || deal.source=="Eigene Aktion") "Zur Aktion / Teilnahme starten" else "Zum Aktionsbericht");Spacer(Modifier.width(8.dp));Icon(Icons.AutoMirrored.Rounded.OpenInNew,null,Modifier.size(20.dp))}
             Notice("Vor dem Kauf auf der Aktionsseite prüfen: genaues Produkt, zugelassener Händler, Aktionspackung, Kontingent und Teilnahmeberechtigung. Der Link kann einen Anbieter- oder Affiliate-Redirect der Quelle enthalten.",Icons.Rounded.VerifiedUser)
+            if(deal.evidence.isNotBlank()) Text(deal.evidence,style=MaterialTheme.typography.bodySmall,color=MaterialTheme.colorScheme.onSurfaceVariant)
+            if(deal.cities.isNotEmpty()) AssistChip(onClick={},label={Text("Lokal: "+deal.cities.joinToString(" · "))})
             Text("Zeitraum & Bedingungen",style=MaterialTheme.typography.titleLarge)
             if(deal.purchasePeriod.isNotBlank()) Text(deal.purchasePeriod) else Text("Kaufzeitraum: nicht bekannt")
             Text("Einreichungsfrist: ${dateText(deal.deadline)}",fontWeight=FontWeight.SemiBold)

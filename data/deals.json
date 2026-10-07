@@ -1,14 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T08:37:13.679447+00:00",
-  "lastSuccessAt": "2026-10-07T08:37:13.679447+00:00",
+  "generatedAt": "2026-10-07T15:52:43.694053+00:00",
+  "lastSuccessAt": "2026-10-07T15:52:43.694053+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 45
+      "count": 45,
+      "updatedAt": "2026-10-07T15:52:43.694053+00:00"
+    },
+    {
+      "name": "DealDoktor",
+      "url": "https://www.dealdoktor.de/themenwelten/gratis/",
+      "status": "ok",
+      "count": 11,
+      "updatedAt": "2026-10-07T15:52:43.694053+00:00"
+    },
+    {
+      "name": "DealDoktor RSS",
+      "url": "https://www.dealdoktor.de/feed/",
+      "status": "ok",
+      "count": 1,
+      "updatedAt": "2026-10-07T15:52:43.694053+00:00"
+    },
+    {
+      "name": "MonsterDealz",
+      "url": "https://www.monsterdealz.de/feed/",
+      "status": "ok",
+      "count": 0,
+      "updatedAt": "2026-10-07T15:52:43.694053+00:00"
+    },
+    {
+      "name": "Kostenlos.de",
+      "url": "https://www.kostenlos.de/feed/",
+      "status": "ok",
+      "count": 2,
+      "updatedAt": "2026-10-07T15:52:43.694053+00:00"
     }
   ],
   "deals": [
@@ -33,7 +62,10 @@
       "reward": "100 %",
       "amountCents": 499,
       "published": "2026-10-05T06:51:12.745Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6379",
@@ -56,7 +88,13 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-10-05T06:39:01.772Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
+      "otherSources": [
+        "DealDoktor"
+      ]
     },
     {
       "id": "sparwelt-6370",
@@ -79,7 +117,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-10-02T09:51:31.702Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6367",
@@ -102,12 +143,18 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-10-02T09:37:13.520Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
+      "otherSources": [
+        "DealDoktor"
+      ]
     },
     {
       "id": "sparwelt-6312",
       "title": "yfood kaufen, Geld zurück bekommen",
-      "kind": "Cashback",
+      "kind": "Gratis testen",
       "source": "SPARWELT",
       "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
       "url": "https://yfood-gratis-testen.de/",
@@ -122,10 +169,13 @@
       "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 28.09.2026 bis 24.12.2026",
       "purchaseEnd": "2026-12-24",
       "deadline": "",
-      "reward": "Cashback",
+      "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-28T05:55:54.315Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6326",
@@ -148,7 +198,10 @@
       "reward": "100 %",
       "amountCents": 269,
       "published": "2026-09-29T06:40:56.498Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6311",
@@ -171,7 +224,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-28T05:41:19.899Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6198",
@@ -194,7 +250,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-15T11:01:10.966Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6182",
@@ -217,7 +276,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-15T06:39:37.911Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6180",
@@ -241,7 +303,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-15T06:01:15.654Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6181",
@@ -264,7 +329,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-15T06:09:48.841Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Tierbedarf",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6149",
@@ -288,7 +356,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-11T08:33:00.002Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5185",
@@ -311,7 +382,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-06-18T11:32:20.741Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6033",
@@ -334,7 +408,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-03T14:06:36.761Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6029",
@@ -358,7 +435,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-03T13:24:56.863Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6002",
@@ -382,7 +462,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-03T12:03:50.208Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5977",
@@ -406,7 +489,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-01T11:23:30.540Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-3141",
@@ -430,7 +516,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-01T07:12:18.020Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5962",
@@ -454,7 +543,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-01T05:56:21.652Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5914",
@@ -478,7 +570,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-08-30T22:02:00.002Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5902",
@@ -502,7 +597,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-08-24T12:26:33.508Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5891",
@@ -526,7 +624,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-08-21T05:47:29.083Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5791",
@@ -549,7 +650,10 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-08-03T12:37:10.806Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5780",
@@ -572,7 +676,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-08-03T08:07:15.881Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-4515",
@@ -594,7 +701,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-04-15T13:07:36.119Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6413",
@@ -616,7 +726,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-10-06T11:03:20.585Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6400",
@@ -639,7 +752,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-10-06T07:37:52.516Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Tierbedarf",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6399",
@@ -661,7 +777,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-10-06T07:15:13.171Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6382",
@@ -684,7 +803,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-10-05T07:46:45.541Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6351",
@@ -706,7 +828,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-30T14:12:41.319Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6276",
@@ -729,7 +854,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-23T11:49:33.308Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6278",
@@ -752,7 +880,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-23T11:55:47.294Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6258",
@@ -774,7 +905,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-23T06:30:27.745Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6236",
@@ -799,7 +933,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-21T07:17:00.003Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Drogerie",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6218",
@@ -822,7 +959,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-18T06:37:09.153Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6143",
@@ -846,7 +986,13 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-11T06:31:40.998Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
+      "otherSources": [
+        "SPARWELT"
+      ]
     },
     {
       "id": "sparwelt-6032",
@@ -870,7 +1016,10 @@
       "reward": "Cashback",
       "amountCents": 219,
       "published": "2026-09-03T13:24:36.675Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5997",
@@ -894,7 +1043,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-03T11:35:55.415Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5967",
@@ -917,7 +1069,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-09-01T06:53:51.018Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5875",
@@ -941,7 +1096,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-08-14T13:03:40.255Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5874",
@@ -965,7 +1123,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-08-14T12:48:14.423Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5806",
@@ -988,7 +1149,10 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-08-04T15:06:06.978Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5517",
@@ -1013,35 +1177,15 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-07-09T15:09:40.921Z",
-      "verified": false
-    },
-    {
-      "id": "sparwelt-5142",
-      "title": "JACOBS Ganze Bohne - 3€ Cashback",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.jacobskaffee.de/aktionen/versuni/",
-      "conditionsUrl": "https://www.jacobskaffee.de/aktionen/versuni/teilnahmebedingungen/",
-      "image": "uploads/jacobs_8c5e68b8ee.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum: Ab sofort bis zum 31.12.2026",
-        "Teilnahmeschluss: jeweils 30 Tage nach Kauf und spätestens am 31.12.2026",
-        "Aktionsprodukte: Alle 1000g JACOBS ganze Bohne Produkte"
-      ],
-      "purchasePeriod": "Aktionszeitraum: Ab sofort bis zum 31.12.2026",
-      "purchaseEnd": "2026-12-31",
-      "deadline": "2026-12-31",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-06-02T09:44:59.250Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6237",
       "title": "Dreh & Gewinn-Aktion mit FELIX Little Extras: Prämie oder Geld zurück",
-      "kind": "Cashback",
+      "kind": "Gratis testen",
       "source": "SPARWELT",
       "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
       "url": "https://www.purina.de/felix/testen?sv1=affiliate&sv_campaign_id=88787&awc=80230_1789808902_c67ba725c53860f52058c1cd6140f4f8",
@@ -1057,10 +1201,312 @@
       "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 21.09. bis 01.11.2026",
       "purchaseEnd": "2026-11-01",
       "deadline": "2026-11-15",
-      "reward": "Cashback",
+      "reward": "100 %",
       "amountCents": 0,
       "published": "2026-09-21T07:57:20.720Z",
-      "verified": false
+      "verified": false,
+      "cities": [],
+      "category": "Tierbedarf",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
+    {
+      "id": "public-46aa41f8c6ca1a5dc0",
+      "title": "🚨 Perfekt fürs Wichteln oder für Kleinkram 💸 30% auf alles bei Amazon Haul",
+      "kind": "Coupons",
+      "reward": "30 %",
+      "url": "https://www.dealdoktor.de/gutschein-fuer-amazon-haul/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/gutschein-fuer-amazon-haul/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/amazon_haul_-300x300.jpeg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-07T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-1568f3c6f441e3fa83",
+      "title": "Düsseldorf (lokal): 10.000 Reibekuchen für den guten Zweck",
+      "kind": "Lokal",
+      "reward": "Lokaler Hinweis",
+      "url": "https://www.dealdoktor.de/user-deals/duesseldorf-lokal-10-000-reibekuchen-fuer-den-guten-zweck/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/duesseldorf-lokal-10-000-reibekuchen-fuer-den-guten-zweck/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/RK-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-06T00:00:00+02:00",
+      "verified": false,
+      "cities": [
+        "Düsseldorf"
+      ],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-dea8b35aa5260115e3",
+      "title": "Song Contest EINE WELT ALBUM Vol.6 - CD kostenlos bestellbar!!",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/song-contest-eine-welt-album-vol-6-cd-kostenlos-bestellbar/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/song-contest-eine-welt-album-vol-6-cd-kostenlos-bestellbar/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/csm_Song-Contest_EINE-WELT-Album_Vol6_cfdb2c951d-300x251.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-06T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-b5aebd5ac98a7b393a",
+      "title": "Gratis Ohrstöpsel zum Einschlafen - AOK (national!)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-ohrstoepsel-zum-einschlafen-aok-national/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-ohrstoepsel-zum-einschlafen-aok-national/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Gratis_Ohrstoepsel_bei_der_AOK-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "2026-10-11",
+      "amountCents": 0,
+      "published": "2026-10-06T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-4567c009db655fc393",
+      "title": "Fehler? Mafia III kostenlos für PS5 (und PS4)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/fehler-mafia-iii-kostenlos-fuer-ps5-und-ps4/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/fehler-mafia-iii-kostenlos-fuer-ps5-und-ps4/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Bildschirmfoto_2026-10-06_um_15.23.43-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-06T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-19815bb471851ee829",
+      "title": "Paulaner Cola Gratis bei Edeka Südwest [personalisiert]",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/paulaner-cola-gratis-bei-edeka-suedwest-personalisiert/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/paulaner-cola-gratis-bei-edeka-suedwest-personalisiert/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/528e3cbec60341f45e37d69f52067c6bcdc6d65da4fb8e99ce40ee12339e3d0e-300x300.jpg",
+      "stores": [
+        "EDEKA"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-05T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-30767f2ad6d5615cd8",
+      "title": "GeloRevoice Gratisprobe zum mitnehmen!",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gelorevoice-gratisprobe-zum-mitnehmen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gelorevoice-gratisprobe-zum-mitnehmen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/2848570_1-300x300.jpg",
+      "stores": [
+        "Apotheke"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-05T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-0e480ad1a63acdbc74",
+      "title": "Kostenloses Hörbuch von der Baumhausbande: Ela! – Mutmach-Geschichten mit Herz - Für Kinder ab 4 Jahren",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/kostenloses-hoerbuch-von-der-baumhausbande-ela-mutmach-geschichten-mit-herz-kinder-ab-4-jahren/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/kostenloses-hoerbuch-von-der-baumhausbande-ela-mutmach-geschichten-mit-herz-kinder-ab-4-jahren/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/ela-mutmach-geschichten-mit-herz-mp3-bernd-reheuser-300x300.jpeg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-05T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-e1be3e49667935fb82",
+      "title": "Edeka APP: Coca-Cola light + Koffeinfrei gratis (NordWest)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/edeka-app-coca-cola-light-koffeinfrei-gratis-nordwest/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/edeka-app-coca-cola-light-koffeinfrei-gratis-nordwest/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/cola-300x300.jpg",
+      "stores": [
+        "EDEKA"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-05T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-dc2a046fd38d17525e",
+      "title": "Milka Weihnachts-Schoki bei Amazon mit 3€ Cashback – Prime Deal Days Finale heute! 😱",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.dealdoktor.de/milka-weihnachts-schoki-cashback/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/milka-weihnachts-schoki-cashback/",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/Milka_Amazon-750x302.jpeg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "Milka-Cashback: 3€ zurück ab 6€ Einkaufswert für Milka Weihnachtsprodukte ✅",
+        "Aktionszeitraum Cashback: Läuft noch bis 27.12.2026 , aber das Kontingent ist wöchentlich begrenzt – also lieber schnell sein! 📅",
+        "Teilnahmen: Bis zu 3x pro Haushalt und IBAN möglich (max. 9€ Cashback!)",
+        "Cashback-Wert: 3€ erhaltet ihr, wenn ihr Milka Weihnachtsprodukte im Wert von mindestens 6€ kauft. Es ist ein Teil-Cashback, keine volle Erstattung.",
+        "Mehrfach teilnehmen: Ihr könnt bis zu 3x pro Haushalt , E-Mail-Adresse und IBAN mitmachen. So sichert ihr euch bis zu 9€ Cashback ! Wichtig: Jeder Kassenbon bzw. jede Online-Rechnung zählt nur einmal. Für jede weitere Teilnahme braucht ihr einen neuen Kaufbeleg.",
+        "Kontingent beachten: Der Veranstalter begrenzt das Cashback-Kontingent wöchentlich. In den Spitzenwochen im Oktober (KW 40-42) gibt es zwar bis zu 13.000 Plätze pro Woche , aber kurz vor Weihnachten sind es nur noch 500. Seid also frühzeitig dran , um eure Chance zu nutzen! 😱"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 300,
+      "published": "2026-10-07T15:10:36+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-d41344d0d7da8beb4b",
+      "title": "Milka bei Amazon kaufen & 3€ Cashback kassieren",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.kostenlos.de/milka-amazon",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/milka-amazon",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/Milka_Amazon-750x302.jpeg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "Milka-Cashback: 3€ zurück ab 6€ Einkaufswert Aktionszeitraum bis 27.12.2026 bis zu 3 Teilnahmen pro Haushalt und IBAN kein Aktionssticker notwendig",
+        "Aktionszeitraum bis 27.12.2026",
+        "bis zu 3 Teilnahmen pro Haushalt und IBAN",
+        "3€ gibt es ab 6€ Einkaufswert an Milka-Weihnachtsprodukten. Es ist also ein Teil-Cashback und keine komplette Erstattung.",
+        "Bis zu 3 Teilnahmen pro Haushalt, E-Mail-Adresse und IBAN sind erlaubt, also bis zu 9€ zurück. Jeder Kassenbon zählt aber nur einmal, für mehrere Teilnahmen braucht ihr getrennte Bons bzw. in diesem Fall getrennte Rechnungen.",
+        "Das Kontingent ist wöchentlich begrenzt. In den Spitzenwochen im Oktober (KW 40 bis 42) gibt es bis zu 13.000 Plätze pro Woche, kurz vor Weihnachten nur noch 500. Früh dran zu sein lohnt sich also."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 300,
+      "published": "2026-10-07T14:15:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ec0d9376b8b299431d",
+      "title": "Milka 3€ Cashback auf Weihnachtsartikel – nur Teil-Cashback!",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.kostenlos.de/milka-weihnachten-cashback",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/milka-weihnachten-cashback",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/Milka_Weihnachtswichteln-750x273.jpeg",
+      "stores": [],
+      "facts": [
+        "Aktionszeitraum: 14.09. – 27.12.2026",
+        "max. Erstattung: 3 Teilnahmen pro Haushalt & IBAN je 3,00€ Cashback ab 6,00€ Einkaufswert",
+        "je 3,00€ Cashback ab 6,00€ Einkaufswert",
+        "Kontingent: max. 60.000 Erstattungen mit wöchentlichem Limit",
+        "Zu den Teilnahmebedingungen",
+        "Mehrfachteilnahme möglich: Ihr könnt bis zu 3-mal pro Haushalt, E-Mail-Adresse und IBAN an der Aktion teilnehmen. Beachtet aber, dass jeder Kassenbon nur einmalig eingereicht werden darf. Wenn ihr die Aktion mehrfach nutzen möchtet, müsst ihr die Produkte also auf getrennten Kassenbons kaufen."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 300,
+      "published": "2026-10-07T13:05:09+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     }
   ]
 }

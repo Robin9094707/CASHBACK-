@@ -19,6 +19,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r scripts/requirements.txt
+      - name: Check public source adapters
+        run: python -m unittest discover -s scripts -p 'test_*.py'
       - id: refresh
         continue-on-error: true
         run: python scripts/refresh_feed.py
