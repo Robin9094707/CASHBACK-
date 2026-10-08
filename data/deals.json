@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-07T23:03:49.539756+00:00",
-  "lastSuccessAt": "2026-10-07T23:03:49.539756+00:00",
+  "generatedAt": "2026-10-08T06:00:07.356681+00:00",
+  "lastSuccessAt": "2026-10-08T06:00:07.356681+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
+      "updatedAt": "2026-10-08T06:00:07.356681+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
+      "updatedAt": "2026-10-08T06:00:07.356681+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
+      "updatedAt": "2026-10-08T06:00:07.356681+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-08T06:00:07.356681+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-07T23:03:49.539756+00:00"
+      "updatedAt": "2026-10-08T06:00:07.356681+00:00"
     }
   ],
   "deals": [
@@ -1434,6 +1434,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-07T18:59:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-3aa33fa3cfa02796d4",
+      "title": "Degusta Box: Halloween-Box mit 12 Produkten + 3 Gratis-Produkten für 9,99€",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/haushalt-garten/lebensmittel/degusta-box-halloween-3-gratis-produkte/1605317",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/lebensmittel/degusta-box-halloween-3-gratis-produkte/1605317",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/degusta-box-halloween-3-gratis-produkte-600x600.jpg",
+      "stores": [],
+      "facts": [
+        "3️⃣ Als Neukunde registrieren und Bestellung abschließen"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-08T05:30:04+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
