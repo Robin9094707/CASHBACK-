@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T19:56:20.678329+00:00",
-  "lastSuccessAt": "2026-10-08T19:56:20.678329+00:00",
+  "generatedAt": "2026-10-09T00:21:47.476344+00:00",
+  "lastSuccessAt": "2026-10-09T00:21:47.476344+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 46,
-      "updatedAt": "2026-10-08T19:56:20.678329+00:00"
+      "updatedAt": "2026-10-09T00:21:47.476344+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-08T19:56:20.678329+00:00"
+      "updatedAt": "2026-10-09T00:21:47.476344+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-08T19:56:20.678329+00:00"
+      "updatedAt": "2026-10-09T00:21:47.476344+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-08T19:56:20.678329+00:00"
+      "count": 5,
+      "updatedAt": "2026-10-09T00:21:47.476344+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-08T19:56:20.678329+00:00"
+      "updatedAt": "2026-10-09T00:21:47.476344+00:00"
     }
   ],
   "deals": [
@@ -1236,6 +1236,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-38a62b5c4e7456e99a",
+      "title": "Thalia Nikolausaktion 2026: Gestaltet einen Nikolausstiefel und Thalia befüllt ihn gratis",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/thalia-nikolausaktion-2026-gestaltet-einen-nikolausstiefel-und-thalia-befuellt-ihn-gratis/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/thalia-nikolausaktion-2026-gestaltet-einen-nikolausstiefel-und-thalia-befuellt-ihn-gratis/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/thalia-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-08T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-a41d842229b9bf551a",
       "title": "Gratis Socken beim Kauf von Voelkel Ingwer Shots",
       "kind": "Gratisartikel",
@@ -1396,30 +1418,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-19815bb471851ee829",
-      "title": "Paulaner Cola Gratis bei Edeka Südwest [personalisiert]",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/paulaner-cola-gratis-bei-edeka-suedwest-personalisiert/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/paulaner-cola-gratis-bei-edeka-suedwest-personalisiert/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/528e3cbec60341f45e37d69f52067c6bcdc6d65da4fb8e99ce40ee12339e3d0e-300x300.jpg",
-      "stores": [
-        "EDEKA"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-05T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-981e8d28a2d1dd5a20",
       "title": "60€ Cashback + 6 Monate GRATIS 🏆 MagentaTV MegaStream: Netflix, Disney+, Apple TV+ & RTL+",
       "kind": "Cashback",
@@ -1488,6 +1486,28 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-08T15:45:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-08T20:22:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
