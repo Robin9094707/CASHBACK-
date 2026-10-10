@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T22:36:27.774031+00:00",
-  "lastSuccessAt": "2026-10-09T22:36:27.774031+00:00",
+  "generatedAt": "2026-10-10T05:49:32.733642+00:00",
+  "lastSuccessAt": "2026-10-10T05:49:32.733642+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 46,
-      "updatedAt": "2026-10-09T22:36:27.774031+00:00"
+      "count": 45,
+      "updatedAt": "2026-10-10T05:49:32.733642+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-09T22:36:27.774031+00:00"
+      "updatedAt": "2026-10-10T05:49:32.733642+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-09T22:36:27.774031+00:00"
+      "updatedAt": "2026-10-10T05:49:32.733642+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-09T22:36:27.774031+00:00"
+      "updatedAt": "2026-10-10T05:49:32.733642+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-09T22:36:27.774031+00:00"
+      "updatedAt": "2026-10-10T05:49:32.733642+00:00"
     }
   ],
   "deals": [
@@ -247,32 +247,6 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6182",
-      "title": "Alpenhain Opflanzda gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://opflanzda-testen.de/",
-      "conditionsUrl": "https://opflanzda-testen.de/terms",
-      "image": "uploads/Deals/opflanzda_dab7b0de30.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 10.09.2026 – 09.10.2026",
-        "Einlöseschluss: 16.10.2026",
-        "Aktionsprodukt: Alpenhain Opflanzda-Aufstrich"
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 10.09.2026 – 09.10.2026",
-      "purchaseEnd": "2026-10-09",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-09-15T06:39:37.911Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1230,6 +1204,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-e24111d57acd51f49b",
+      "title": "Google AI Plus (Gemini) 12 Monate gratis für Studis und Azubis (statt 4,99€/Monat)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/google-ai-plus-gemini-12-monate-gratis-fuer-studis-und-azubis-statt-499e-monat/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/google-ai-plus-gemini-12-monate-gratis-fuer-studis-und-azubis-statt-499e-monat/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/gemini-studis-1x1-v2-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-10T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-1568f3c6f441e3fa83",
       "title": "Düsseldorf (lokal): 10.000 Reibekuchen für den guten Zweck",
       "kind": "Lokal",
@@ -1431,28 +1427,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c684530bb2198e2c39",
-      "title": "claro Spültabs gratis testen Aktion: bis zu 4,99€ Cashback sichern! 🫧",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/claro-spueltabs-gratis-testen-bis-zu-499-e-cashback-sichern/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/claro-spueltabs-gratis-testen-bis-zu-499-e-cashback-sichern/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/09/1786361920803claroheadermobil538x522px202606803-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 499,
-      "published": "2026-10-09T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Haushalt",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
