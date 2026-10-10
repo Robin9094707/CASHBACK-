@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T18:33:33.214526+00:00",
-  "lastSuccessAt": "2026-10-10T18:33:33.214526+00:00",
+  "generatedAt": "2026-10-10T23:32:03.929362+00:00",
+  "lastSuccessAt": "2026-10-10T23:32:03.929362+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-10T18:33:33.214526+00:00"
+      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 9,
-      "updatedAt": "2026-10-10T18:33:33.214526+00:00"
+      "count": 8,
+      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-10T18:33:33.214526+00:00"
+      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-10T18:33:33.214526+00:00"
+      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-10T18:33:33.214526+00:00"
+      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
     }
   ],
   "deals": [
@@ -1314,30 +1314,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-1568f3c6f441e3fa83",
-      "title": "Düsseldorf (lokal): 10.000 Reibekuchen für den guten Zweck",
-      "kind": "Lokal",
-      "reward": "Lokaler Hinweis",
-      "url": "https://www.dealdoktor.de/user-deals/duesseldorf-lokal-10-000-reibekuchen-fuer-den-guten-zweck/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/duesseldorf-lokal-10-000-reibekuchen-fuer-den-guten-zweck/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/RK-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-09T00:00:00+02:00",
-      "verified": false,
-      "cities": [
-        "Düsseldorf"
-      ],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-8e41caefaa1036bb69",
       "title": "Nur noch kurze Zeit! ⏰ Zirkulin Vital Mikronährstoff Super Greens gratis testen! 😀",
       "kind": "Gratis testen",
@@ -1364,28 +1340,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-e45147dd6cf1e75f42",
-      "title": "Studenten rund um Köln aufgepasst - gratis STUDENTENTÜTE bei IKEA sichern!",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/studenten-rund-um-koeln-aufgepasst-gratis-studententuete-bei-ikea-sichern/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/studenten-rund-um-koeln-aufgepasst-gratis-studententuete-bei-ikea-sichern/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/09/2844590_1-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-09T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-6a208a5309ecab961f",
       "title": "Sachkunde Kinderbücher gratis Bestellen",
       "kind": "Gratisartikel",
@@ -1395,6 +1349,28 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/sachkunde-kinderbuecher-gratis-bestellen/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/10/Unbenannt-3-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-09T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-18db5a990607cead99",
+      "title": "Solero gratis testen: Solero bon bon im Snackformat! Täglich 500 Teilnahmen! 🌞",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-testen-solero-bon-bon-im-snackformat-taeglich-500-teilnahmen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-testen-solero-bon-bon-im-snackformat-taeglich-500-teilnahmen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/09/IMG_5569-300x300.jpeg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
@@ -1474,6 +1450,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-10T15:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-5f1fba498af4ac0993",
+      "title": "⏰ *TOP* Weight Watchers Angebot: 12 Monate mit 75% Rabatt ab 6,25€/Monat",
+      "kind": "Coupons",
+      "reward": "75 %",
+      "url": "https://www.monsterdealz.de/shopping/weight-watchers/1143688",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/weight-watchers/1143688",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/weight-watchers-angebot-hero-0926-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "📅 Aktionszeitraum: 11. bis 15. Oktober 2026, 23:59 Uhr; danach wieder Dauer-Aktion mit 10€ (BASIS) bzw. 18€ (BASIS+) im Monat"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-10T22:02:14+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1593,30 +1593,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-10T13:30:22+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-75893c35828bbc0a63",
-      "title": "Geheimnis Blackthorn Castle: Point-and-Click-Rätselspiel für Android gratis",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/geheimnis-blackthorn-castle-android-gratis/1606655",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/geheimnis-blackthorn-castle-android-gratis/1606655",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/geheimnis-blackthorn-castle-gratis-600x600.jpg",
-      "stores": [],
-      "facts": [
-        "🔒 Behalte ich das Spiel nach der Aktion? Ja, was ihr im Aktionszeitraum für 0€ „kauft“, bleibt dauerhaft mit eurem Google-Konto verknüpft."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-10T12:15:41+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
