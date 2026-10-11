@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-10T23:32:03.929362+00:00",
-  "lastSuccessAt": "2026-10-10T23:32:03.929362+00:00",
+  "generatedAt": "2026-10-11T05:43:27.476787+00:00",
+  "lastSuccessAt": "2026-10-11T05:43:27.476787+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
+      "updatedAt": "2026-10-11T05:43:27.476787+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 8,
-      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
+      "count": 10,
+      "updatedAt": "2026-10-11T05:43:27.476787+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
+      "updatedAt": "2026-10-11T05:43:27.476787+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
+      "updatedAt": "2026-10-11T05:43:27.476787+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-10T23:32:03.929362+00:00"
+      "updatedAt": "2026-10-11T05:43:27.476787+00:00"
     }
   ],
   "deals": [
@@ -1202,6 +1202,52 @@
       "cities": [],
       "category": "Tierbedarf",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
+    {
+      "id": "public-b7507aaf5f159dbb05",
+      "title": "GRATIS LIND MINI PRALINÉS PER Post versenden bei Kauf von LIND MINI PRALINÉS",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-lind-mini-pralines-per-post-versenden-bei-kauf-von-lind-mini-pralines/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-lind-mini-pralines-per-post-versenden-bei-kauf-von-lind-mini-pralines/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/933a8a5d0b15737870e283bd152c89e55d88b495b684a3d71f3642667fa7efe7-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-11T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-5f54106c0350bd16f8",
+      "title": "Gratis ein Brot aus dem Backshop (ab 75 Euro Einkaufswert) in der Lidl App!",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-ein-brot-aus-dem-backshop-ab-75-euro-einkaufswert-in-der-lidl-app/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-ein-brot-aus-dem-backshop-ab-75-euro-einkaufswert-in-der-lidl-app/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/a36de36884382d1e7d8c8880f92f41637ea6920a583ec967c1320c99cdb1c21c-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-11T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
       "id": "public-b29a4f4726b2e55e05",
