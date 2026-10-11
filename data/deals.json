@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T18:52:59.530771+00:00",
-  "lastSuccessAt": "2026-10-11T18:52:59.530771+00:00",
+  "generatedAt": "2026-10-11T23:38:38.470535+00:00",
+  "lastSuccessAt": "2026-10-11T23:38:38.470535+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 45,
-      "updatedAt": "2026-10-11T18:52:59.530771+00:00"
+      "count": 44,
+      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-11T18:52:59.530771+00:00"
+      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-11T18:52:59.530771+00:00"
+      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-11T18:52:59.530771+00:00"
+      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-11T18:52:59.530771+00:00"
+      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
     }
   ],
   "deals": [
@@ -221,32 +221,6 @@
       "verified": false,
       "cities": [],
       "category": "Drogerie",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6198",
-      "title": "Solero bon bon Cashback",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://aktionen.oca-services.com/teilnahmeformular/langnese/de-de/solero-cashback#/",
-      "conditionsUrl": "https://aktionen.oca-services.com/teilnahmebedingungen/langnese/de-de/solero-cashback#/",
-      "image": "uploads/Deals/solero_145966c118.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 14.09. – 11.10.2026",
-        "Aktionsprodukte: Solero bon bon Exotic, 12 Stk., Solero bon bon Strawberry, 12 Stk.",
-        "Limit: Die Aktion ist im Kaufzeitraum auf täglich 500 Teilnahmen limitiert. Das Tageskontingent wird an jedem Aktionstag um ca. 08:00 Uhr freigeschaltet. Die jeweils noch verfügbaren Teilnahmen sind per Zähler auf der Aktionsseite einzusehen, bis das Kontingent erreicht wurde."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 14.09. – 11.10.2026",
-      "purchaseEnd": "2026-10-11",
-      "deadline": "",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-09-15T11:01:10.966Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1228,28 +1202,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-b7507aaf5f159dbb05",
-      "title": "GRATIS LIND MINI PRALINÉS PER Post versenden bei Kauf von LIND MINI PRALINÉS",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-lind-mini-pralines-per-post-versenden-bei-kauf-von-lind-mini-pralines/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-lind-mini-pralines-per-post-versenden-bei-kauf-von-lind-mini-pralines/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/933a8a5d0b15737870e283bd152c89e55d88b495b684a3d71f3642667fa7efe7-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-11T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-5f54106c0350bd16f8",
       "title": "Gratis ein Brot aus dem Backshop (ab 75 Euro Einkaufswert) in der Lidl App!",
       "kind": "Gratisartikel",
@@ -1384,6 +1336,32 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-8e41caefaa1036bb69",
+      "title": "Nur noch kurze Zeit! ⏰ Zirkulin Vital Mikronährstoff Super Greens gratis testen! 😀",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/zirkulin-vital-mikronaehrstoff-super-greens-gratis-testen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/zirkulin-vital-mikronaehrstoff-super-greens-gratis-testen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/09/681469eba29d4822f32700ad89ada8db5888831ec69a3726f84e3c6cbf8b0a56-300x300.png",
+      "stores": [
+        "dm",
+        "Rossmann",
+        "Müller"
+      ],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum vom 28.09.2026 bis 11.10.2026",
+      "purchaseEnd": "2026-10-11",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-09T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-67e3886cb9e02a5a0a",
       "title": "🚗 Verivox: Kfz Versicherung wechseln + 60€ BestChoice-/Amazon.de-Gutschein",
       "kind": "Coupons",
@@ -1458,6 +1436,28 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-11T19:55:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-a569aede54d607f079",
       "title": "Battlefield 6 Free Trial: vom 14. bis 19. Oktober kostenlos auf PC und PS5 spielen",
       "kind": "Gratisartikel",
@@ -1499,33 +1499,6 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-b2c4a19c857dc0945e",
-      "title": "Lidl Plus Roulette: Coupons, Gratis-Artikel und 6.000 Gratis-Einkäufe gewinnen",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/lidl-plus-roulette-gratis-einkaeufe-oktober/1607859",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/lidl-plus-roulette-gratis-einkaeufe-oktober/1607859",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/lidl-plus-roulette-oktober-2026-600x400.jpg",
-      "stores": [
-        "Lidl"
-      ],
-      "facts": [
-        "💶 Preis: kostenlose Teilnahme mit der Lidl Plus App",
-        "⏰ Gültig bis: Aktionszeitraum 19.10. bis 24.10.2026"
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-11T12:45:36+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
