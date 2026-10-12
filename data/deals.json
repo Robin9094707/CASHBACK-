@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T23:38:38.470535+00:00",
-  "lastSuccessAt": "2026-10-11T23:38:38.470535+00:00",
+  "generatedAt": "2026-10-12T05:53:42.613404+00:00",
+  "lastSuccessAt": "2026-10-12T05:53:42.613404+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
+      "updatedAt": "2026-10-12T05:53:42.613404+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
+      "updatedAt": "2026-10-12T05:53:42.613404+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
+      "updatedAt": "2026-10-12T05:53:42.613404+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
+      "updatedAt": "2026-10-12T05:53:42.613404+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-11T23:38:38.470535+00:00"
+      "updatedAt": "2026-10-12T05:53:42.613404+00:00"
     }
   ],
   "deals": [
@@ -143,7 +143,10 @@
       "verified": false,
       "cities": [],
       "category": "Haushalt",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
+      "otherSources": [
+        "DealDoktor"
+      ]
     },
     {
       "id": "sparwelt-6312",
@@ -1330,32 +1333,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-10T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-8e41caefaa1036bb69",
-      "title": "Nur noch kurze Zeit! ⏰ Zirkulin Vital Mikronährstoff Super Greens gratis testen! 😀",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/zirkulin-vital-mikronaehrstoff-super-greens-gratis-testen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/zirkulin-vital-mikronaehrstoff-super-greens-gratis-testen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/09/681469eba29d4822f32700ad89ada8db5888831ec69a3726f84e3c6cbf8b0a56-300x300.png",
-      "stores": [
-        "dm",
-        "Rossmann",
-        "Müller"
-      ],
-      "facts": [],
-      "purchasePeriod": "Aktionszeitraum vom 28.09.2026 bis 11.10.2026",
-      "purchaseEnd": "2026-10-11",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-09T00:00:00+02:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
