@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T15:56:12.092152+00:00",
-  "lastSuccessAt": "2026-10-13T15:56:12.092152+00:00",
+  "generatedAt": "2026-10-13T21:13:42.521377+00:00",
+  "lastSuccessAt": "2026-10-13T21:13:42.521377+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-13T15:56:12.092152+00:00"
+      "updatedAt": "2026-10-13T21:13:42.521377+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 12,
-      "updatedAt": "2026-10-13T15:56:12.092152+00:00"
+      "count": 11,
+      "updatedAt": "2026-10-13T21:13:42.521377+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-13T15:56:12.092152+00:00"
+      "updatedAt": "2026-10-13T21:13:42.521377+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-13T15:56:12.092152+00:00"
+      "updatedAt": "2026-10-13T21:13:42.521377+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-13T15:56:12.092152+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-13T21:13:42.521377+00:00"
     }
   ],
   "deals": [
@@ -168,10 +168,7 @@
       "verified": false,
       "cities": [],
       "category": "Haushalt",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "DealDoktor"
-      ]
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6312",
@@ -1456,126 +1453,141 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-eace11fe24c5f57a6f",
-      "title": "🎄 Eis.de Erotik-Adventskalender 2026: Exklusiv 15 % Rabatt auf Deluxe & Premium mit unserem Code",
+      "id": "public-fd0706464cb0e69c17",
+      "title": "Endet 🚨 adidas Mid Season Sale mit bis zu 30% Rabatt auf ausgewählte Artikel – z.B. adidas SL 72 RS für 55€ (statt 75€)",
       "kind": "Coupons",
-      "reward": "15 %",
-      "url": "https://www.dealdoktor.de/eis-de-erotik-adventskalender-2026/",
+      "reward": "30 %",
+      "url": "https://www.dealdoktor.de/adidas-mid-season-sale/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/eis-de-erotik-adventskalender-2026/",
+      "sourceUrl": "https://www.dealdoktor.de/adidas-mid-season-sale/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Bildschirmfoto_2026-10-13_um_15.38.32-540x400.jpg",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/adidas-sl-72-rs-blue-core-white-better-scarlet-750x356.jpg",
       "stores": [],
-      "facts": [
-        "Aktionszeitraum: 09.10.2026 bis 18.11.2026"
-      ],
-      "purchasePeriod": "Aktionszeitraum: 09.10.2026 bis 18.11.2026",
-      "purchaseEnd": "2026-11-18",
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-13T13:48:41+00:00",
+      "published": "2026-10-13T18:30:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-4818444e023471a395",
-      "title": "*5€ GUTSCHEIN* WestLotto (NRW) Local Hero Bingo!: Lotterie mit bis zu 3 Mio. € Jackpot",
+      "id": "public-b35047c7955bcdff6d",
+      "title": "Kostenlose FLORIN+ Mastercard mit 50€ Gutschein",
       "kind": "Coupons",
       "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/gewinnspiele/westlotto-local-hero-bingo/1589273",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/florin-mastercard/1605320",
       "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/gewinnspiele/westlotto-local-hero-bingo/1589273",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/florin-mastercard/1605320",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/09/westlotto-local-hero-bingo-600x400.jpg",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/florin_banner-600x210.jpg",
       "stores": [],
       "facts": [
-        "📅 Aktionszeitraum: ab sofort – 31.12.2026",
-        "🎟️ Teilnahme: online nur mit WestLotto-Kundenkonto, Spielteilnahme erst ab 18 Jahren"
+        "📅 Angebot gültig bis: Aktionszeitraum läuft vom 01.10.2026 bis 15.11.2026.",
+        "Kreditkarte beantragen: Den Online-Antrag für die FLORIN+ Mastercard im Aktionszeitraum (01.10.–15.11.2026) ausfüllen."
+      ],
+      "purchasePeriod": "Aktionszeitraum läuft vom 01.10.2026 bis 15.11.2026",
+      "purchaseEnd": "2026-11-15",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-13T20:22:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-3aa33fa3cfa02796d4",
+      "title": "Degusta Box: Halloween-Box mit 12 Produkten + 3 Gratis-Produkten für 9,99€",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/haushalt-garten/lebensmittel/degusta-box-halloween-3-gratis-produkte/1605317",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/lebensmittel/degusta-box-halloween-3-gratis-produkte/1605317",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/degusta-box-halloween-3-gratis-produkte-600x600.jpg",
+      "stores": [],
+      "facts": [
+        "3️⃣ Als Neukunde registrieren und Bestellung abschließen"
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-13T11:29:00+00:00",
+      "published": "2026-10-13T19:03:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-d5931a00195bc0ad02",
-      "title": "💥 Magenta TV Gutscheincode: Streaming-Bundles ab effektiv 7,21€/Monat + bis zu 70€ Cashback – Netflix, Disney & mehr zum Bestpreis",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.monsterdealz.de/medien-streaming/magentatv/1380470",
+      "id": "public-5f1fba498af4ac0993",
+      "title": "⏰ *TOP* Weight Watchers Angebot: 12 Monate mit 75% Rabatt ab 6,25€/Monat",
+      "kind": "Coupons",
+      "reward": "75 %",
+      "url": "https://www.monsterdealz.de/shopping/weight-watchers/1143688",
       "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/magentatv/1380470",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/weight-watchers/1143688",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/logitel-magentatv-megastream-70-euro-cashback-600x241.jpg",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/weight-watchers-angebot-hero-0926-600x400.jpg",
       "stores": [],
       "facts": [
-        "💶 Cashback: 25€ bis 70€ über LogiTel – 70€ gibt es aktuell auf den MegaStream",
-        "📺 MagentaTV MegaStream – effektiv 19,58€/Monat (mit 70€ Aktions-Cashback)",
-        "🎁 Bonus: 25€ bis 70€ Cashback – erste Telekom-Rechnung bei Logitel einreichen",
-        "3️⃣ Den Cashback nach den Vorgaben von LogiTel beantragen – je nach Paket gibt es 25€ bis 70€ zurück aufs Konto.",
-        "❓ Gibt es aktuell einen Magenta TV Gutscheincode? Einen klassischen Code zum Einlösen bietet die Telekom nur selten an. Günstiger fahrt ihr mit den laufenden Aktions-Bundles ab effektiv 7,21€/Monat plus Cashback.",
-        "❓ Funktioniert ein Magenta TV Rabattcode oder Magenta TV Gutschein Code? Aktuell ist kein Rabattcode nötig – der Vorteil steckt in den 6 Freimonaten plus 25€ bis 70€ Cashback über LogiTel."
+        "📅 Aktionszeitraum: 11. bis 15. Oktober 2026, 23:59 Uhr; danach wieder Dauer-Aktion mit 10€ (BASIS) bzw. 18€ (BASIS+) im Monat"
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 7000,
-      "published": "2026-10-13T10:22:54+00:00",
+      "amountCents": 0,
+      "published": "2026-10-13T18:42:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-8a43946c2e3897ea7d",
-      "title": "*15€ BONUS / 8€ GEWINN / 2 MONATE GRATIS* allmobil Flat Basic 35 Flex Allnet-Flat im VF-Netz für 6,99€/Monat (mtl. kündbar, 0€ AG)",
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
       "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/allmobil-flat-basic/1537567",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
       "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/allmobil-flat-basic/1537567",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/07/logitelbanner-10-600x251.jpg",
-      "stores": [
-        "Amazon"
-      ],
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-13T08:44:00+00:00",
+      "published": "2026-10-13T17:19:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-ddfed7675ae7a5cc49",
-      "title": "💳 4.000 PAYBACK Punkte = 40€ für kostenlose Amex",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/payback-amex-kreditkarte/848336",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/payback-amex-kreditkarte/848336",
+      "id": "public-25cb30c3137674859f",
+      "title": "Samsung-Produkte super günstig bei MediaMarkt + Chance auf 50€ Gutschein",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.kostenlos.de/samsung-mediamarkt-gewinnspiel",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/samsung-mediamarkt-gewinnspiel",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/payback-amex-kreditkarte-4000-punkte-600x400.jpg",
-      "stores": [
-        "dm"
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/50_MediaMarkt_Gutschein_gewinnen-750x300.png",
+      "stores": [],
+      "facts": [
+        "Teilnahmezeitraum: bis 14.10.2026"
       ],
-      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-13T08:35:47+00:00",
+      "published": "2026-10-08T13:51:19+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
