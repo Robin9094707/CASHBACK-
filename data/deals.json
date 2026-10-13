@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T22:57:11.876955+00:00",
-  "lastSuccessAt": "2026-10-12T22:57:11.876955+00:00",
+  "generatedAt": "2026-10-13T06:45:33.131817+00:00",
+  "lastSuccessAt": "2026-10-13T06:45:33.131817+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-12T22:57:11.876955+00:00"
+      "updatedAt": "2026-10-13T06:45:33.131817+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-12T22:57:11.876955+00:00"
+      "updatedAt": "2026-10-13T06:45:33.131817+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-12T22:57:11.876955+00:00"
+      "updatedAt": "2026-10-13T06:45:33.131817+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-12T22:57:11.876955+00:00"
+      "count": 6,
+      "updatedAt": "2026-10-13T06:45:33.131817+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-12T22:57:11.876955+00:00"
+      "updatedAt": "2026-10-13T06:45:33.131817+00:00"
     }
   ],
   "deals": [
@@ -1407,6 +1407,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-11T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-04206f6d5e5ec62d39",
+      "title": "Readly Zeitschriften-Flatrate 100 Tage kostenlos über die Lidl Plus App",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/readly-100-tage-kostenlos-lidl-plus/1608444",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/readly-100-tage-kostenlos-lidl-plus/1608444",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/readly-100-tage-kostenlos-lidl-plus-600x400.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-13T05:33:28+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
