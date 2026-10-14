@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T18:37:01.018377+00:00",
-  "lastSuccessAt": "2026-10-14T18:37:01.018377+00:00",
+  "generatedAt": "2026-10-14T23:12:20.564822+00:00",
+  "lastSuccessAt": "2026-10-14T23:12:20.564822+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-14T18:37:01.018377+00:00"
+      "updatedAt": "2026-10-14T23:12:20.564822+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-14T18:37:01.018377+00:00"
+      "updatedAt": "2026-10-14T23:12:20.564822+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-14T18:37:01.018377+00:00"
+      "updatedAt": "2026-10-14T23:12:20.564822+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-10-14T18:37:01.018377+00:00"
+      "count": 7,
+      "updatedAt": "2026-10-14T23:12:20.564822+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-14T18:37:01.018377+00:00"
+      "updatedAt": "2026-10-14T23:12:20.564822+00:00"
     }
   ],
   "deals": [
@@ -1500,6 +1500,37 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-14T17:30:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-95e828e9a439909ec2",
+      "title": "⏰ finanzen.net zero Depot mit bis zu 240€ Cashback für Neukunden",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/finanzen-net-zero-depot-240-euro-cashback/1601021",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/finanzen-net-zero-depot-240-euro-cashback/1601021",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/finanzen-net-zero-depot-cashback-600x400.jpg",
+      "stores": [
+        "Netto"
+      ],
+      "facts": [
+        "💶 Preis: 0€ Depotgebühr, bis zu 240€ Cashback (20€ je Monat, max. 12 Monate)",
+        "⏰ Gültig bis: Registrierung bis einschließlich 15.10.2026",
+        "💡 Besonderheit: Gutscheincode: CASHBACK2026 muss bei der Registrierung eingegeben werden – nachträglich wird er nicht berücksichtigt",
+        "1️⃣ Depot eröffnen und bei der Registrierung den Promocode eintragen.",
+        "4️⃣ Auszahlung: Das Cashback landet jeweils bis zum 15. des Folgemonats auf eurem Cash-Konto.",
+        "❓ Wie bekomme ich die 240€ Cashback bei finanzen.net zero? Depot als Neukunde eröffnen, den Promocode bei der Registrierung eingeben und dann jeden Monat die Mindestzahl an Trades erfüllen – pro Monat gibt es 20€, maximal 12 Monate lang."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 24000,
+      "published": "2026-10-14T20:29:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
