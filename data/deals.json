@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T21:20:43.838310+00:00",
-  "lastSuccessAt": "2026-10-15T21:20:43.838310+00:00",
+  "generatedAt": "2026-10-16T00:22:48.485720+00:00",
+  "lastSuccessAt": "2026-10-16T00:22:48.485720+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 45,
-      "updatedAt": "2026-10-15T21:20:43.838310+00:00"
+      "count": 43,
+      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-15T21:20:43.838310+00:00"
+      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-15T21:20:43.838310+00:00"
+      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-10-15T21:20:43.838310+00:00"
+      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-15T21:20:43.838310+00:00"
+      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
     }
   ],
   "deals": [
@@ -546,33 +546,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-5902",
-      "title": "Centrum gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.erlebe-haleon.de/deals/centrum/",
-      "conditionsUrl": "",
-      "image": "uploads/centrum_3d47c7df9b.jpg",
-      "stores": [
-        "Apotheke"
-      ],
-      "facts": [
-        "Aktionszeitraum: 24.08.-15.10.2026",
-        "Teilnahmeschluss: 15.10.2026"
-      ],
-      "purchasePeriod": "Aktionszeitraum: 24.08.-15.10.2026",
-      "purchaseEnd": "2026-10-15",
-      "deadline": "2026-10-15",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-08-24T12:26:33.508Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-5891",
       "title": "100% Cashback auf eine Flasche Lipton Sensations!",
       "kind": "Gratis testen",
@@ -907,34 +880,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-6236",
-      "title": "o.b. 3€ Geld-zurück Aktion",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.ob.de/rabatt-aktion",
-      "conditionsUrl": "https://www.ob.de/geld-zurueck-aktion-allg-teilnahmebedingungen",
-      "image": "uploads/Deals/ob_a7a4d96ab2.jpg",
-      "stores": [
-        "dm"
-      ],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 15.09. bis 15.10.2026",
-        "Aktionsprodukte: Alle o.b. Packungsgrößen und Saugstärken, erworben in einer teilnehmenden dm-Filiale.",
-        "Limit: Die Aktion ist auf 1.000 Einlösungen pro Tag begrenzt."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 15.09. bis 15.10.2026",
-      "purchaseEnd": "2026-10-15",
-      "deadline": "",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-09-21T07:17:00.003Z",
-      "verified": false,
-      "cities": [],
-      "category": "Drogerie",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-6218",
       "title": "2 Packungen Teekanne Ländertee kaufen, 2€ Cashback sichern!",
       "kind": "Cashback",
@@ -1206,6 +1151,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-15d7bb6e5eda03b7aa",
+      "title": "600 Nackenkissen und 10 Paris-Reisen von Lidl geschenkt [Berlin]",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/600-nackenkissen-und-10-paris-reisen-von-lidl-geschenkt-berlin/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/600-nackenkissen-und-10-paris-reisen-von-lidl-geschenkt-berlin/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/1000111033-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-16T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-390d4a6d07ccb5208b",
       "title": "Pepsi, Schwip Schwap & 7UP gratis testen – bis zu 2,78 € Cashback sichern",
       "kind": "Gratis testen",
@@ -1383,31 +1352,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-e02ebd9f3788122f65",
-      "title": "[100 % Cashback] Rexona Maximum Protection Deocreme bei Rossmann, Müller & Budni gratis testen",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/100-cashback-rexona-maximum-protection-deocreme-bei-rossmann-mueller-budni-gratis-testen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/100-cashback-rexona-maximum-protection-deocreme-bei-rossmann-mueller-budni-gratis-testen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/IMG_6990-300x300.jpeg",
-      "stores": [
-        "Rossmann",
-        "Müller"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-14T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Drogerie",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
