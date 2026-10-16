@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T18:02:17.593060+00:00",
-  "lastSuccessAt": "2026-10-16T18:02:17.593060+00:00",
+  "generatedAt": "2026-10-16T21:05:22.745937+00:00",
+  "lastSuccessAt": "2026-10-16T21:05:22.745937+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-16T18:02:17.593060+00:00"
+      "updatedAt": "2026-10-16T21:05:22.745937+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-16T18:02:17.593060+00:00"
+      "updatedAt": "2026-10-16T21:05:22.745937+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-16T18:02:17.593060+00:00"
+      "count": 0,
+      "updatedAt": "2026-10-16T21:05:22.745937+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-16T18:02:17.593060+00:00"
+      "updatedAt": "2026-10-16T21:05:22.745937+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-16T18:02:17.593060+00:00"
+      "updatedAt": "2026-10-16T21:05:22.745937+00:00"
     }
   ],
   "deals": [
@@ -1406,22 +1406,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-f7c422269c64acfae5",
-      "title": "Mit Kombivorteil eff. GRATIS: Apple iPhone 18 Pro (256GB) für 719€ + 70GB 5G/LTE Allnet für 34,99€/Monat + 120€ Startguthaben (Vodafone Smart Lite)",
+      "id": "public-49fee8763d7c8ddae6",
+      "title": "waipu.tv Start Jahrespaket mit Stick + 1 Jahr TVdirekt gratis für 4,99€/Monat",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/apple-iphone-18-pro-vodafone-smart-lite/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/apple-iphone-18-pro-vodafone-smart-lite/",
+      "url": "https://www.monsterdealz.de/medien-streaming/waipu-tv-tvdirekt-start-jahrespaket/1608369",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/waipu-tv-tvdirekt-start-jahrespaket/1608369",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/09/iPhone_18_Pro_Handytarif-750x315.png",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/waipu-tv-start-tvdirekt-banner-600x300.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-16T16:00:00+00:00",
+      "published": "2026-10-16T19:07:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1478,28 +1478,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-16T16:37:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-fe876071938262dd1b",
-      "title": "⏰ Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
-      "kind": "Gratisartikel",
-      "reward": "80 %",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-16T11:33:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
