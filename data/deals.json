@@ -1,46 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T00:22:48.485720+00:00",
-  "lastSuccessAt": "2026-10-16T00:22:48.485720+00:00",
+  "generatedAt": "2026-10-16T07:07:36.470440+00:00",
+  "lastSuccessAt": "2026-10-16T07:07:36.470440+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 43,
-      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
+      "count": 44,
+      "updatedAt": "2026-10-16T07:07:36.470440+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
+      "updatedAt": "2026-10-16T07:07:36.470440+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
+      "count": 0,
+      "updatedAt": "2026-10-16T07:07:36.470440+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
+      "count": 7,
+      "updatedAt": "2026-10-16T07:07:36.470440+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-16T00:22:48.485720+00:00"
+      "updatedAt": "2026-10-16T07:07:36.470440+00:00"
     }
   ],
   "deals": [
+    {
+      "id": "sparwelt-6521",
+      "title": "Pepsi gratis testen",
+      "kind": "Gratis testen",
+      "source": "SPARWELT",
+      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
+      "url": "https://www.pepsi-gratistesten.de/",
+      "conditionsUrl": "https://www.pepsi-gratistesten.de/#terms",
+      "image": "uploads/Deals/pepsi_b2617d2c38.jpg",
+      "stores": [],
+      "facts": [
+        "Aktionszeitraum/Kaufzeitraum: 15.10.2026 bis 15.12.2026",
+        "Aktionsprodukte: 1,0l PET Mehrweg Pepsi Zero, Pepsi-Cola, Schwip Schwap Original, Schwip Schwap Zero, Schwip Schwap Orange, 7up.",
+        "Limit: 500 Einlösungen pro Tag."
+      ],
+      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 15.10.2026 bis 15.12.2026",
+      "purchaseEnd": "2026-12-15",
+      "deadline": "",
+      "reward": "100 %",
+      "amountCents": 0,
+      "published": "2026-10-16T05:23:48.684Z",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
     {
       "id": "sparwelt-6489",
       "title": "TULIP Bacon gratis testen",
@@ -1355,29 +1381,49 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-981e8d28a2d1dd5a20",
-      "title": "Jetzt sogar 70€ Cashback + 6 Monate GRATIS 🤩🏆 MagentaTV MegaStream: Netflix, Disney+, Apple TV+ & RTL+",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.dealdoktor.de/magentatv-megastream-logitel/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/magentatv-megastream-logitel/",
+      "id": "public-0fa85e8d43d278ee0e",
+      "title": "⏰ *ANKÜNDIGUNG* MediaMarkt & Saturn: MwSt. geschenkt am 17. & 18.10. – 15,97% Rabatt auf Top-Technik",
+      "kind": "Coupons",
+      "reward": "97 %",
+      "url": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/MagentaTV_Megastream.png",
-      "stores": [],
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/mediamarkt-saturn-mwst-geschenkt-17-18-oktober-2026-600x400.jpg",
+      "stores": [
+        "Amazon"
+      ],
       "facts": [
-        "Telekom MagentaTV MegaStream inkl. Netflix, Disney+, Apple TV+ & RTL+ für effektiv 19,58€/Monat 0€ Grundgebühr in den ersten 6 Monaten Danach 30€/Monat (07.–24. Monat) + 70€ Cashback von LogiTel Effektivpreis: nur 19,58€/Monat über 24 Monate Über 180 TV-Sender, davon 160 in HD Inklusive Netflix, Dis",
-        "+ 70€ Cashback von LogiTel",
-        "Alte Aktionen anzeigen Telekom MagentaTV MegaStream inkl. Netflix, Disney+, Apple TV+ & RTL+ für effektiv 20€/Monat 0€ Grundgebühr in den ersten 6 Monaten Danach 30€/Monat (07.–24. Monat) + 60€ Cashback von LogiTel Effektivpreis: nur 20€/Monat über 24 Monate Über 180 TV-Sender, davon 160 in HD Inklu",
-        "Telekom MagentaTV MegaStream inkl. Netflix, Disney+, Apple TV+ & RTL+ für effektiv 20€/Monat 0€ Grundgebühr in den ersten 6 Monaten Danach 30€/Monat (07.–24. Monat) + 60€ Cashback von LogiTel Effektivpreis: nur 20€/Monat über 24 Monate Über 180 TV-Sender, davon 160 in HD Inklusive Netflix, Disney+, ",
-        "+ 60€ Cashback von LogiTel",
-        "Telekom MagentaTV MegaStream inkl. Netflix, Disney+, Apple TV+ & RTL+ für effektiv 20,42€/Monat 0€ Grundgebühr in den ersten 6 Monaten Danach 30€/Monat (07.–24. Monat) 50€ Cashback von LogiTel Effektivpreis: nur 20,42€/Monat über 24 Monate Über 180 TV-Sender, davon 160 in HD Inklusive Netflix, Disne"
+        "1️⃣ Kostenlos bei myMediaMarkt oder mySaturn registrieren, falls noch nicht geschehen.",
+        "❓ Brauche ich ein Kundenkonto für die MwSt.-Aktion? Ja. Den Abzug bekommen nur registrierte myMediaMarkt- bzw. mySaturn-Kunden, und der rabattierte Preis ist nur eingeloggt sichtbar. Die Mitgliedschaft ist kostenlos."
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 7000,
-      "published": "2026-10-15T16:30:00+00:00",
+      "amountCents": 0,
+      "published": "2026-10-16T07:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-163433a3bc72fca6db",
+      "title": "Pox Nora Strategie-Kartenspiel kostenlos für PS4 und PS Vita",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/pox-nora-kostenlos-ps4-ps-vita/1609552",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/pox-nora-kostenlos-ps4-ps-vita/1609552",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/pox-nora-ps4-600x600.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-16T06:04:10+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
