@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T00:27:47.504486+00:00",
-  "lastSuccessAt": "2026-10-17T00:27:47.504486+00:00",
+  "generatedAt": "2026-10-17T06:55:10.865126+00:00",
+  "lastSuccessAt": "2026-10-17T06:55:10.865126+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-17T00:27:47.504486+00:00"
+      "updatedAt": "2026-10-17T06:55:10.865126+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-10-17T00:27:47.504486+00:00"
+      "updatedAt": "2026-10-17T06:55:10.865126+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-17T00:27:47.504486+00:00"
+      "updatedAt": "2026-10-17T06:55:10.865126+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-17T00:27:47.504486+00:00"
+      "count": 4,
+      "updatedAt": "2026-10-17T06:55:10.865126+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-17T00:27:47.504486+00:00"
+      "updatedAt": "2026-10-17T06:55:10.865126+00:00"
     }
   ],
   "deals": [
@@ -1400,6 +1400,33 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-16T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-0fa85e8d43d278ee0e",
+      "title": "🔥 *JETZT LIVE* MediaMarkt & Saturn: MwSt. geschenkt bis 18.10. – 15,97% Rabatt auf Top-Technik",
+      "kind": "Coupons",
+      "reward": "97 %",
+      "url": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/mediamarkt-saturn-mwst-geschenkt-17-18-oktober-2026-600x400.jpg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "1️⃣ Kostenlos bei myMediaMarkt oder mySaturn registrieren, falls noch nicht geschehen.",
+        "❓ Brauche ich ein Kundenkonto für die MwSt.-Aktion? Ja. Den Abzug bekommen nur registrierte myMediaMarkt- bzw. mySaturn-Kunden, und der rabattierte Preis ist nur eingeloggt sichtbar. Die Mitgliedschaft ist kostenlos."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T04:04:35+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
