@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T15:31:31.946183+00:00",
-  "lastSuccessAt": "2026-10-17T15:31:31.946183+00:00",
+  "generatedAt": "2026-10-17T18:29:09.340237+00:00",
+  "lastSuccessAt": "2026-10-17T18:29:09.340237+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-17T15:31:31.946183+00:00"
+      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 12,
-      "updatedAt": "2026-10-17T15:31:31.946183+00:00"
+      "count": 13,
+      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-17T15:31:31.946183+00:00"
+      "count": 1,
+      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-10-17T15:31:31.946183+00:00"
+      "count": 4,
+      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-17T15:31:31.946183+00:00"
+      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
     }
   ],
   "deals": [
@@ -1177,8 +1177,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-1f2cd1d7d723b7189c",
+      "title": "Neues Forscher Magazin für Neugierige kostenlos bestellbar!!",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/neues-forscher-magazin-fuer-neugierige-kostenlos-bestellbar/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/neues-forscher-magazin-fuer-neugierige-kostenlos-bestellbar/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/31885_forscher-Magazin_Herbst_2026-299x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-ce1c5a509768a01806",
-      "title": "Kostenlose Comics, Broschüren und Infomaterial beim BVHK",
+      "title": "Kostenlose Comics, Broschüren und Infomaterial für Familien beim Bundesverband Herzkranke Kinder e.V.",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
       "url": "https://www.dealdoktor.de/user-deals/kostenlose-comics-broschueren-und-infomaterial-beim-bvhk/",
@@ -1195,7 +1217,7 @@
       "published": "2026-10-17T00:00:00+02:00",
       "verified": false,
       "cities": [],
-      "category": "Weitere",
+      "category": "Lebensmittel",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
@@ -1452,29 +1474,53 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-32c6fccf6801eba1ea",
-      "title": "Ipsos iSay: Umfragen beantworten & Gutscheine verdienen!",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/ipsos-i-say/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/ipsos-i-say/",
+      "id": "public-c5a5461b562da40436",
+      "title": "🔥 70€ Bonus für die kostenlose Florin+ Mastercard",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2025/01/Ipsos_iSay.jpg",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/FLORIN_70_Bonusangebot-600x314.jpg",
       "stores": [
-        "Penny",
+        "Rossmann",
+        "Netto",
         "Amazon"
       ],
       "facts": [
-        "Bei Ipsos iSay registrieren (dauert nur wenige Sekunden)",
-        "🛠 Gibt es Probleme bei der Anmeldung? Einige Nutzer berichten von Problemen bei der Eingabe der Telefonnummer während der Registrierung.",
-        "Einige Nutzer berichten von Problemen bei der Eingabe der Telefonnummer während der Registrierung."
+        "Für den 50€ BestChoice-Gutschein von Florin+: Nur für Neukunden , ab 18 Jahren und mit Wohnsitz in Deutschland . Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen. Karte nach Erhalt aktivieren . Innerhalb von 28 Tagen nach Aktivierung mindestens 150€ Umsatz machen (nicht b",
+        "Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen."
+      ],
+      "purchasePeriod": "Aktionszeitraum 01.10.2026 bis 15.11.2026",
+      "purchaseEnd": "2026-11-15",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T18:22:38+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-600968657aea7d281b",
+      "title": "*Ab 22.10.2026* Sker Ritual: Koop-Horror-Shooter für PC kostenlos im Epic Games Store",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/sker-ritual-epic-games-gratis-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "🔒 Bleibt Sker Ritual nach der Aktion in meiner Bibliothek? Ja, wer das Spiel im Aktionszeitraum einlöst, behält es dauerhaft."
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-17T13:22:00+00:00",
+      "published": "2026-10-17T16:11:39+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1523,77 +1569,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-17T12:23:27+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-4a7d33d0d53a642a18",
-      "title": "Burnhard: Black Weeks – 27% Rabatt",
-      "kind": "Coupons",
-      "reward": "27 %",
-      "url": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/burnhard-black-november/1376141",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/burnhard-black-november/1376141",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/burnhard-black-weeks-27-rabatt-600x400.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T11:12:10+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-1db5487aea570c87cd",
-      "title": "lastminute: Bis zu 135€ Rabatt dank Gutschein sichern",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/hobby-freizeit/urlaub-reisen-hotel-fluege/lastminute-bis-zu-100e-rabatt-dank-gutschein-sichern/1606157",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/hobby-freizeit/urlaub-reisen-hotel-fluege/lastminute-bis-zu-100e-rabatt-dank-gutschein-sichern/1606157",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/lastminute-gutschein-6-prozent-rabatt-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "🚚 Einlösung: einmal pro Buchung, nicht mit anderen Gutscheinen, Cashback- oder Plus-Angeboten kombinierbar",
-        "❓ Kann ich mehrere lastminute Gutscheine kombinieren? Nein. Pro Buchung lässt sich genau ein Rabattcode einlösen, und keiner ist mit Cashback-, Plus- oder anderen Rabattaktionen kombinierbar."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T10:00:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-ef6288d48463542be3",
-      "title": "eBay Außenleuchten-Sale: 35% Rabatt auf Eglo, Philips und Lutec per Code",
-      "kind": "Coupons",
-      "reward": "35 %",
-      "url": "https://www.monsterdealz.de/haushalt-garten/ebay-aussenleuchten-sale-eglo-philips-lutec/1610288",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/ebay-aussenleuchten-sale-eglo-philips-lutec/1610288",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/ebay-aussenleuchten-35-prozent-rabatt-600x400.jpg",
-      "stores": [
-        "eBay"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T09:44:29+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
