@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T18:29:09.340237+00:00",
-  "lastSuccessAt": "2026-10-17T18:29:09.340237+00:00",
+  "generatedAt": "2026-10-17T22:16:47.754569+00:00",
+  "lastSuccessAt": "2026-10-17T22:16:47.754569+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
+      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
+      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
+      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
+      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-17T18:29:09.340237+00:00"
+      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
     }
   ],
   "deals": [
@@ -142,10 +142,7 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "DealDoktor"
-      ]
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6370",
@@ -1177,6 +1174,50 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-bd7fc030c8a29a8850",
+      "title": "PERRY RHODAN Nr. 3400 - Hörbuch gratis zum Download (statt 8,95€)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/perry-rhodan-nr-3400-hoerbuch-gratis-zum-download-statt-895e/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/perry-rhodan-nr-3400-hoerbuch-gratis-zum-download-statt-895e/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/PR3400_Der_ewige_Sturz_shop_1920x1920-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-85956e19ad302af0bb",
+      "title": "Gratis Vismed Augentropfen Probenpaket",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-vismed-augentropfen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-vismed-augentropfen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/2f8f45d358816a96bd88629aaaecd09c2e08bdeb1563a7f65141b08a1a5d0461-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-1f2cd1d7d723b7189c",
       "title": "Neues Forscher Magazin für Neugierige kostenlos bestellbar!!",
       "kind": "Gratisartikel",
@@ -1426,30 +1467,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-15d7bb6e5eda03b7aa",
-      "title": "600 Nackenkissen und 10 Paris-Reisen von Lidl geschenkt [Berlin]",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/600-nackenkissen-und-10-paris-reisen-von-lidl-geschenkt-berlin/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/600-nackenkissen-und-10-paris-reisen-von-lidl-geschenkt-berlin/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/1000111033-300x300.jpg",
-      "stores": [
-        "Lidl"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-16T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-c4066c4035222d4637",
       "title": "51% Rabatt! 😀 Emsa Frischhaltedosen 3er-Set Clip & Close für nur 8,39€!",
       "kind": "Coupons",
@@ -1468,6 +1485,33 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-17T15:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-9a605dd37584ac9c4b",
+      "title": "⏰😎 250€ Bonus für kostenloses Tide Geschäftskonto",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/tide/1367631",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/tide/1367631",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/tide-geschaeftskonto-250-euro-aktion-600x473.jpg",
+      "stores": [],
+      "facts": [
+        "💡 Besonderheit: bei der Registrierung Gutscheincode: SPARTIDE250 eingeben – alternativ bis 7 Tage nach Eröffnung über den In-App-Chat",
+        "Den Aktionscode bei der Registrierung eintragen",
+        "🎁 Wie bekomme ich den Tide Bonus? Konto bis 31.10.2026 eröffnen, den Aktionscode bei der Registrierung eingeben und innerhalb von 30 Tagen mindestens 500€ per Tide Card bezahlen.",
+        "🔑 Kann ich den Tide Promo Code nachträglich eingeben? Ja, laut Teilnahmebedingungen bis 7 Tage nach Kontoeröffnung über den In-App-Chat."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-17T19:48:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1545,30 +1589,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-17T15:11:34+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-3832971788169391ed",
-      "title": "⏰ W5 Wäscheständer ausziehbar (20 m) für 15,94€ – Preisfehler mit Lidl Plus Coupon",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/preisfehler/lidl-w5-waeschestaender-ausziehbar-20m-preisfehler/1610501",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/preisfehler/lidl-w5-waeschestaender-ausziehbar-20m-preisfehler/1610501",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/lidl-w5-waeschestaender-ausziehbar-20m-600x600.jpg",
-      "stores": [
-        "Lidl"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T12:23:27+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
