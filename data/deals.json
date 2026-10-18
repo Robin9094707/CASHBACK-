@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T22:16:47.754569+00:00",
-  "lastSuccessAt": "2026-10-17T22:16:47.754569+00:00",
+  "generatedAt": "2026-10-18T00:04:42.597638+00:00",
+  "lastSuccessAt": "2026-10-18T00:04:42.597638+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
+      "updatedAt": "2026-10-18T00:04:42.597638+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
+      "count": 14,
+      "updatedAt": "2026-10-18T00:04:42.597638+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
+      "updatedAt": "2026-10-18T00:04:42.597638+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
+      "updatedAt": "2026-10-18T00:04:42.597638+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-17T22:16:47.754569+00:00"
+      "updatedAt": "2026-10-18T00:04:42.597638+00:00"
     }
   ],
   "deals": [
@@ -1174,6 +1174,52 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-b56ced7eb248e1c3ff",
+      "title": "Gratis Sportyfeel Creamy Protein Bar (ab 10 Euro Einkaufswert) in der Lidl App! Evtl. personalisiert",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-sportyfeel-creamy-protein-bar-ab-10-euro-einkaufswert-in-der-lidl-app-evtl-personalisiert/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-sportyfeel-creamy-protein-bar-ab-10-euro-einkaufswert-in-der-lidl-app-evtl-personalisiert/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/374dec7c8890cd64d8ac86e22f6468f56ef6942ebb90e78e8f69e5ece057b5a9-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-13dcb4bdea084e6d01",
+      "title": "Gratis 2 Flaschen Weißenoher Glocken in der Logo App",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-2-flaschen-weissenoher-glocken-in-der-logo-app/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-2-flaschen-weissenoher-glocken-in-der-logo-app/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/77c25f22d38b17031022ef97f758253d0ef818d35d51d2fcf9e373063989bba2-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-bd7fc030c8a29a8850",
       "title": "PERRY RHODAN Nr. 3400 - Hörbuch gratis zum Download (statt 8,95€)",
       "kind": "Gratisartikel",
@@ -1432,28 +1478,6 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/ab-23-11-bis-zu-2-bahnland-bayern-kalender-2027-gratis-bestellen/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/10/bbom-04-2025-news3-header-1920x680px-cr-brb-dietmardenger-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-16T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-2ebdd13cae60424aa4",
-      "title": "Hamburger Abendblatt 4 Wochen Gratis-Lesen nach Umfrage [selbstkündigend]",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/hamburger-abendblatt-4-wochen-gratis-lesen-nach-umfrage-selbstkuendigend/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/hamburger-abendblatt-4-wochen-gratis-lesen-nach-umfrage-selbstkuendigend/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/960x608_baustellen_2-300x300.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
