@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T18:37:32.464948+00:00",
-  "lastSuccessAt": "2026-10-18T18:37:32.464948+00:00",
+  "generatedAt": "2026-10-18T22:24:42.822544+00:00",
+  "lastSuccessAt": "2026-10-18T22:24:42.822544+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 44,
-      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
+      "count": 43,
+      "updatedAt": "2026-10-18T22:24:42.822544+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
+      "updatedAt": "2026-10-18T22:24:42.822544+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
+      "updatedAt": "2026-10-18T22:24:42.822544+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-18T22:24:42.822544+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
+      "updatedAt": "2026-10-18T22:24:42.822544+00:00"
     }
   ],
   "deals": [
@@ -299,32 +299,6 @@
       "verified": false,
       "cities": [],
       "category": "Haushalt",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6181",
-      "title": "3€ Cashback auf PERFECT FIT Katzenfutter",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://promomo-perfectfit.de/",
-      "conditionsUrl": "https://promomo-perfectfit.de/terms",
-      "image": "uploads/Deals/perfectfit_7c4dc842be.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 07.09. – 18.10.2026",
-        "Aktionsprodukte: Es nehmen alle PERFECT FIT™ ® Produkte an der Aktion teil.",
-        "Limit: Die Gesamt-Teilnehmerzahl ist auf 6.000 Teilnahmen im Gesamtzeitraum und auf 1.000 Teilnahmen pro Woche limitiert."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 07.09. – 18.10.2026",
-      "purchaseEnd": "2026-10-18",
-      "deadline": "",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-09-15T06:09:48.841Z",
-      "verified": false,
-      "cities": [],
-      "category": "Tierbedarf",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1541,33 +1515,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-18T09:35:16+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-d43268863b76c1ad00",
-      "title": "Rossmann App-Coupons: 20 % auf WELEDA, ISANA & mehr plus 10 % auf alles",
-      "kind": "Coupons",
-      "reward": "20 %",
-      "url": "https://www.monsterdealz.de/mode-beauty/rossmann-coupons-weleda-isana-10-prozent/1610468",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/mode-beauty/rossmann-coupons-weleda-isana-10-prozent/1610468",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/rossmann-app-coupons-600x600.jpg",
-      "stores": [
-        "Rossmann"
-      ],
-      "facts": [
-        "1️⃣ ROSSMANN-App kostenlos laden und am besten registrieren – dann gibt es mehr 10-%-Coupons.",
-        "🔟 Wie oft gibt es den 10-%-Coupon bei Rossmann? Laut ROSSMANN mit Registrierung vier Stück alle zwei Monate, ohne Registrierung zwei."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-18T07:35:15+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
