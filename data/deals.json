@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T11:00:59.160891+00:00",
-  "lastSuccessAt": "2026-10-18T11:00:59.160891+00:00",
+  "generatedAt": "2026-10-18T15:50:13.832418+00:00",
+  "lastSuccessAt": "2026-10-18T15:50:13.832418+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
+      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
+      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
+      "count": 1,
+      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
+      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
     }
   ],
   "deals": [
@@ -1491,6 +1491,55 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-9c0f9c75de528527bf",
+      "title": "Lindt bei QVC: Schokolade mit gratis Versand und 10€ Neukundenrabatt",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/qvc-lindt/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/qvc-lindt/",
+      "conditionsUrl": "",
+      "image": "https://qvc.scene7.com/is/image/QVC/d2/8/66/851466_gmt.102?wid=600&hei=600",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T12:33:33+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-0fa85e8d43d278ee0e",
+      "title": "🔥 *JETZT LIVE* MediaMarkt & Saturn: MwSt. geschenkt bis 18.10. – 15,97% Rabatt auf Top-Technik",
+      "kind": "Coupons",
+      "reward": "97 %",
+      "url": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/mediamarkt-saturn-mwst-geschenkt-oktober-2026/1593509",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/mediamarkt-saturn-mwst-geschenkt-17-18-oktober-2026-600x400.jpg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "1️⃣ Kostenlos bei myMediaMarkt oder mySaturn registrieren, falls noch nicht geschehen.",
+        "❓ Brauche ich ein Kundenkonto für die MwSt.-Aktion? Ja. Den Abzug bekommen nur registrierte myMediaMarkt- bzw. mySaturn-Kunden, und der rabattierte Preis ist nur eingeloggt sichtbar. Die Mitgliedschaft ist kostenlos."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T13:06:26+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-d082e4d06474fe46a3",
       "title": "*Ab 22.10.2026* Home – A Unique Horror Adventure: Pixel-Horrorspiel für PC kostenlos bei Epic",
       "kind": "Gratisartikel",
@@ -1536,55 +1585,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-18T07:35:15+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c2c36df3d5bf995a8b",
-      "title": "YouTube Premium 3 Monate gratis für Xiaomi-Nutzer (Neukunden)",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/youtube-premium-xiaomi-3-monate-gratis/1610464",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/youtube-premium-xiaomi-3-monate-gratis/1610464",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/youtube-premium-xiaomi-3-monate-gratis-600x600.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-18T06:22:40+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-9a605dd37584ac9c4b",
-      "title": "⏰😎 250€ Bonus für kostenloses Tide Geschäftskonto",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/tide/1367631",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/tide/1367631",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/tide-geschaeftskonto-250-euro-aktion-600x473.jpg",
-      "stores": [],
-      "facts": [
-        "💡 Besonderheit: bei der Registrierung Gutscheincode: SPARTIDE250 eingeben – alternativ bis 7 Tage nach Eröffnung über den In-App-Chat",
-        "Den Aktionscode bei der Registrierung eintragen",
-        "🎁 Wie bekomme ich den Tide Bonus? Konto bis 31.10.2026 eröffnen, den Aktionscode bei der Registrierung eingeben und innerhalb von 30 Tagen mindestens 500€ per Tide Card bezahlen.",
-        "🔑 Kann ich den Tide Promo Code nachträglich eingeben? Ja, laut Teilnahmebedingungen bis 7 Tage nach Kontoeröffnung über den In-App-Chat."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T19:48:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
