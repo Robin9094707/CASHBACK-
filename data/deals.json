@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T15:50:13.832418+00:00",
-  "lastSuccessAt": "2026-10-18T15:50:13.832418+00:00",
+  "generatedAt": "2026-10-18T18:37:32.464948+00:00",
+  "lastSuccessAt": "2026-10-18T18:37:32.464948+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
+      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 14,
-      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
+      "count": 13,
+      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
+      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
+      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-18T15:50:13.832418+00:00"
+      "updatedAt": "2026-10-18T18:37:32.464948+00:00"
     }
   ],
   "deals": [
@@ -1469,44 +1469,27 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-e684ca2aa4742e3144",
-      "title": "Ab 23.11 bis zu 2 Bahnland Bayern Kalender 2027 gratis bestellen",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/ab-23-11-bis-zu-2-bahnland-bayern-kalender-2027-gratis-bestellen/",
+      "id": "public-67e3886cb9e02a5a0a",
+      "title": "🚗 Verivox: Kfz Versicherung wechseln + 60€ BestChoice-/Amazon.de-Gutschein",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/verivox-kfz-bonus-deal/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/ab-23-11-bis-zu-2-bahnland-bayern-kalender-2027-gratis-bestellen/",
+      "sourceUrl": "https://www.dealdoktor.de/verivox-kfz-bonus-deal/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/bbom-04-2025-news3-header-1920x680px-cr-brb-dietmardenger-300x300.jpg",
-      "stores": [],
-      "facts": [],
+      "image": "https://www.dealdoktor.de/app/uploads/2026/08/Bildschirmfoto_2026-10-02_um_08.29.03-721x400.jpg",
+      "stores": [
+        "Rossmann",
+        "Amazon"
+      ],
+      "facts": [
+        "Während der Registrierung nicht auf anderen Seiten surfen (sonst kann es sein, dass euch euer Bonus nicht richtig zugeordnet werden kann)"
+      ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-16T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-9c0f9c75de528527bf",
-      "title": "Lindt bei QVC: Schokolade mit gratis Versand und 10€ Neukundenrabatt",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/qvc-lindt/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/qvc-lindt/",
-      "conditionsUrl": "",
-      "image": "https://qvc.scene7.com/is/image/QVC/d2/8/66/851466_gmt.102?wid=600&hei=600",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-18T12:33:33+00:00",
+      "published": "2026-10-18T18:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
