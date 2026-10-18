@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T04:28:48.245030+00:00",
-  "lastSuccessAt": "2026-10-18T04:28:48.245030+00:00",
+  "generatedAt": "2026-10-18T11:00:59.160891+00:00",
+  "lastSuccessAt": "2026-10-18T11:00:59.160891+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 44,
-      "updatedAt": "2026-10-18T04:28:48.245030+00:00"
+      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-10-18T04:28:48.245030+00:00"
+      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-18T04:28:48.245030+00:00"
+      "count": 0,
+      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-18T04:28:48.245030+00:00"
+      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-18T04:28:48.245030+00:00"
+      "updatedAt": "2026-10-18T11:00:59.160891+00:00"
     }
   ],
   "deals": [
@@ -1491,24 +1491,73 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-c4066c4035222d4637",
-      "title": "51% Rabatt! 😀 Emsa Frischhaltedosen 3er-Set Clip & Close für nur 8,39€!",
-      "kind": "Coupons",
-      "reward": "51 %",
-      "url": "https://www.dealdoktor.de/emsa-frischhaltedosen-set/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/emsa-frischhaltedosen-set/",
+      "id": "public-d082e4d06474fe46a3",
+      "title": "*Ab 22.10.2026* Home – A Unique Horror Adventure: Pixel-Horrorspiel für PC kostenlos bei Epic",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/home-unique-horror-adventure-kostenlos-epic-games/1610466",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/home-unique-horror-adventure-kostenlos-epic-games/1610466",
       "conditionsUrl": "",
-      "image": "",
-      "stores": [
-        "Amazon"
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/home-unique-horror-adventure-epic-gratis-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "🔒 Bleibt Home nach der Aktion in meiner Bibliothek? Ja, wer das Spiel im Aktionszeitraum einlöst, behält es dauerhaft."
       ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T09:35:16+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-d43268863b76c1ad00",
+      "title": "Rossmann App-Coupons: 20 % auf WELEDA, ISANA & mehr plus 10 % auf alles",
+      "kind": "Coupons",
+      "reward": "20 %",
+      "url": "https://www.monsterdealz.de/mode-beauty/rossmann-coupons-weleda-isana-10-prozent/1610468",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/mode-beauty/rossmann-coupons-weleda-isana-10-prozent/1610468",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/rossmann-app-coupons-600x600.jpg",
+      "stores": [
+        "Rossmann"
+      ],
+      "facts": [
+        "1️⃣ ROSSMANN-App kostenlos laden und am besten registrieren – dann gibt es mehr 10-%-Coupons.",
+        "🔟 Wie oft gibt es den 10-%-Coupon bei Rossmann? Laut ROSSMANN mit Registrierung vier Stück alle zwei Monate, ohne Registrierung zwei."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-18T07:35:15+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-c2c36df3d5bf995a8b",
+      "title": "YouTube Premium 3 Monate gratis für Xiaomi-Nutzer (Neukunden)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/youtube-premium-xiaomi-3-monate-gratis/1610464",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/youtube-premium-xiaomi-3-monate-gratis/1610464",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/youtube-premium-xiaomi-3-monate-gratis-600x600.jpg",
+      "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-17T15:00:00+00:00",
+      "published": "2026-10-18T06:22:40+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1536,83 +1585,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-17T19:48:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c5a5461b562da40436",
-      "title": "🔥 70€ Bonus für die kostenlose Florin+ Mastercard",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/FLORIN_70_Bonusangebot-600x314.jpg",
-      "stores": [
-        "Rossmann",
-        "Netto",
-        "Amazon"
-      ],
-      "facts": [
-        "Für den 50€ BestChoice-Gutschein von Florin+: Nur für Neukunden , ab 18 Jahren und mit Wohnsitz in Deutschland . Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen. Karte nach Erhalt aktivieren . Innerhalb von 28 Tagen nach Aktivierung mindestens 150€ Umsatz machen (nicht b",
-        "Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen."
-      ],
-      "purchasePeriod": "Aktionszeitraum 01.10.2026 bis 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T18:22:38+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-600968657aea7d281b",
-      "title": "*Ab 22.10.2026* Sker Ritual: Koop-Horror-Shooter für PC kostenlos im Epic Games Store",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/sker-ritual-epic-games-gratis-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "🔒 Bleibt Sker Ritual nach der Aktion in meiner Bibliothek? Ja, wer das Spiel im Aktionszeitraum einlöst, behält es dauerhaft."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T16:11:39+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-41c22855d70f520785",
-      "title": "Anker MagGo Powerbank 2 Pro + Nano 45W Ladegerät gratis für 109,99€",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/elektronik-computer/anker-maggo-powerbank-2-pro-nano-45w-ladegeraet/1610437",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/anker-maggo-powerbank-2-pro-nano-45w-ladegeraet/1610437",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/anker-maggo-powerbank-2-pro-a110r-600x600.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-17T15:11:34+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
