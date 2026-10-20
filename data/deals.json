@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-19T23:38:23.213557+00:00",
-  "lastSuccessAt": "2026-10-19T23:38:23.213557+00:00",
+  "generatedAt": "2026-10-20T04:46:44.127690+00:00",
+  "lastSuccessAt": "2026-10-20T04:46:44.127690+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-19T23:38:23.213557+00:00"
+      "updatedAt": "2026-10-20T04:46:44.127690+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-10-19T23:38:23.213557+00:00"
+      "updatedAt": "2026-10-20T04:46:44.127690+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-19T23:38:23.213557+00:00"
+      "updatedAt": "2026-10-20T04:46:44.127690+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-19T23:38:23.213557+00:00"
+      "count": 4,
+      "updatedAt": "2026-10-20T04:46:44.127690+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-19T23:38:23.213557+00:00"
+      "updatedAt": "2026-10-20T04:46:44.127690+00:00"
     }
   ],
   "deals": [
@@ -1590,6 +1590,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-19T16:32:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-43d2eabb47cc43e481",
+      "title": "GetHigh.EXE: Parkour-Plattformer kostenlos im Epic Games Store",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/gethigh-exe-kostenlos-epic-games-store/1611509",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/gethigh-exe-kostenlos-epic-games-store/1611509",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/gethigh-exe-epic-games-kostenlos-600x600.jpg",
+      "stores": [],
+      "facts": [
+        "🎮 Bleibt GetHigh.EXE nach der Aktion in meiner Bibliothek? Ja. Wer das Spiel im Aktionszeitraum über „Holen“ einlöst, behält es dauerhaft in seinem Epic-Games-Account."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-20T04:33:49+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
