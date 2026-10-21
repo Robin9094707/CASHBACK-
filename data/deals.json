@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T21:35:28.101873+00:00",
-  "lastSuccessAt": "2026-10-20T21:35:28.101873+00:00",
+  "generatedAt": "2026-10-21T00:36:42.590786+00:00",
+  "lastSuccessAt": "2026-10-21T00:36:42.590786+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-20T21:35:28.101873+00:00"
+      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-10-20T21:35:28.101873+00:00"
+      "count": 12,
+      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-20T21:35:28.101873+00:00"
+      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-20T21:35:28.101873+00:00"
+      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-20T21:35:28.101873+00:00"
+      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
     }
   ],
   "deals": [
@@ -1404,28 +1404,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-a70318ff7ad21be333",
-      "title": "[Regional] Gratis Eintritt für alle zum Kinderfest am 20.10.26 im Naturkundemuseum Berlin!",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/regional-gratis-eintritt-fuer-alle-zum-kinderfest-am-20-10-26-im-naturkundemuseum-berlin/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/regional-gratis-eintritt-fuer-alle-zum-kinderfest-am-20-10-26-im-naturkundemuseum-berlin/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/1633952301109-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-20T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
