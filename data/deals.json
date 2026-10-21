@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T00:36:42.590786+00:00",
-  "lastSuccessAt": "2026-10-21T00:36:42.590786+00:00",
+  "generatedAt": "2026-10-21T07:36:36.293949+00:00",
+  "lastSuccessAt": "2026-10-21T07:36:36.293949+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
+      "updatedAt": "2026-10-21T07:36:36.293949+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
+      "updatedAt": "2026-10-21T07:36:36.293949+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-21T07:36:36.293949+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
+      "updatedAt": "2026-10-21T07:36:36.293949+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-21T00:36:42.590786+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-21T07:36:36.293949+00:00"
     }
   ],
   "deals": [
@@ -1204,28 +1204,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "public-64db47b9180f220e33",
-      "title": "Lilli Beck: Früher war mehr Weihnachtsglück (eBook) GRATIS bei Thalia",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/frueher-war-mehr-weihnachtsglueck-ebook-gratis/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/frueher-war-mehr-weihnachtsglueck-ebook-gratis/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/DealDoktor_Thalia_Gratis-eBook_Weihnachtsglueck_1200x1200-300x300.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-20T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-5128fdab680733f668",
       "title": "Gratis Anker Powerbank (10.000 mAh) bei Telekom Magenta Moments! [für Telekomkunden]",
       "kind": "Gratisartikel",
@@ -1235,6 +1213,31 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-anker-powerbank-telekom-magenta-moments/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/10/Telekom_Magenta_Moments_gratis_Powerbank-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-21T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen",
+      "otherSources": [
+        "Kostenlos.de"
+      ]
+    },
+    {
+      "id": "public-64db47b9180f220e33",
+      "title": "Lilli Beck: Früher war mehr Weihnachtsglück (eBook) GRATIS bei Thalia",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/frueher-war-mehr-weihnachtsglueck-ebook-gratis/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/frueher-war-mehr-weihnachtsglueck-ebook-gratis/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/DealDoktor_Thalia_Gratis-eBook_Weihnachtsglueck_1200x1200-300x300.png",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
@@ -1473,6 +1476,28 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-3364c5c5c64e77004f",
+      "title": "LEGO Gratis-Sets: Halloween-Skelett, Bilderrahmen oder Star Wars Kamino zur Bestellung geschenkt",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/lego-gratis-sets/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/lego-gratis-sets/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-21T06:40:21+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-e48dfa274ae6a5c6e2",
       "title": "💥 Die Top Deals des Tages – z.B. Gratis Anker Powerbank für Telekom-Kunden",
       "kind": "Gratisartikel",
@@ -1495,51 +1520,24 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-5bc51369480155e374",
-      "title": "Apple iPhone 17 Pro (256GB) für 379€ + 50GB LTE/5G Allnet für 44,99€/Monat + 150€ Wechselbonus + 100€ Cashback (freenet Telekom)",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.dealdoktor.de/apple-iphone-17-pro-freenet-telekom/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/apple-iphone-17-pro-freenet-telekom/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Apple_iPhone_17_Pro_Handyvertrag-682x400.png",
-      "stores": [],
-      "facts": [
-        "Apple iPhone 17 Pro (256GB) für 379€ + 50GB LTE/5G Allnet für 44,99€/Monat Wert des Handys: 1.149€ 150€ Wechselbonus 100€ Cashback Gesamtkosten: 1.213,71€ (mit Bonus) => effektiv 2,70€ pro Monat",
-        "100€ Cashback",
-        "– 100€ Cashback"
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 10000,
-      "published": "2026-10-20T17:04:25+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-8d5609b90d49fe5f6b",
-      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
+      "id": "public-ba2dadfc436e5993e5",
+      "title": "⏰ *TIPP* eBay: 10% Rabatt auf Reifen, Kompletträder und Felgen",
       "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "reward": "10 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/kfz-leasing/ebay-10-rabatt-auf-reifen-komplettraeder-und-felgen/1600267",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/kfz-leasing/ebay-10-rabatt-auf-reifen-komplettraeder-und-felgen/1600267",
       "conditionsUrl": "",
-      "image": "",
-      "stores": [],
-      "facts": [
-        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
-        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/ebaybanner-600x155.jpg",
+      "stores": [
+        "eBay"
       ],
+      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-20T16:30:00+00:00",
+      "published": "2026-10-21T07:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1617,24 +1615,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-600968657aea7d281b",
-      "title": "*Ab 22.10.2026* Sker Ritual: Koop-Horror-Shooter für PC kostenlos im Epic Games Store",
+      "id": "public-6cbf34799c2e97eaaf",
+      "title": "Gratis in den Serengeti-Park Hodenhagen dank Antenne Niedersachsen",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sker-ritual-kostenlos-epic-games-store/1610462",
+      "url": "https://www.kostenlos.de/serengeti-park-antenne-niedersachsen",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/serengeti-park-antenne-niedersachsen",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/sker-ritual-epic-games-gratis-600x400.jpg",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/Serengeti_Park_Antenne_Niedersachsen-750x300.png",
       "stores": [],
-      "facts": [
-        "🔒 Bleibt Sker Ritual nach der Aktion in meiner Bibliothek? Ja, wer das Spiel im Aktionszeitraum einlöst, behält es dauerhaft."
-      ],
+      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-20T15:00:00+00:00",
+      "published": "2026-10-21T06:42:52+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1657,28 +1653,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-20T18:00:14+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-dae988923c1050720a",
-      "title": "IKEA Halloween: Gratis-Eis, Coupons und Süßes im Kostüm",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.kostenlos.de/ikea-halloween",
-      "source": "Kostenlos.de",
-      "sourceUrl": "https://www.kostenlos.de/ikea-halloween",
-      "conditionsUrl": "",
-      "image": "https://www.kostenlos.de/app/uploads/2026/10/Halloween-Aktionen_IKEA-750x279.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-20T11:48:54+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
