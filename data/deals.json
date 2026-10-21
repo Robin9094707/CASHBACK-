@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T18:36:24.890586+00:00",
-  "lastSuccessAt": "2026-10-21T18:36:24.890586+00:00",
+  "generatedAt": "2026-10-21T23:17:06.707418+00:00",
+  "lastSuccessAt": "2026-10-21T23:17:06.707418+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-21T18:36:24.890586+00:00"
+      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 11,
-      "updatedAt": "2026-10-21T18:36:24.890586+00:00"
+      "count": 10,
+      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-21T18:36:24.890586+00:00"
+      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 7,
-      "updatedAt": "2026-10-21T18:36:24.890586+00:00"
+      "count": 5,
+      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-21T18:36:24.890586+00:00"
+      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
     }
   ],
   "deals": [
@@ -1429,28 +1429,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-f5eed0c02f8bb7468c",
-      "title": "tigertones 2 Monate gratis für 250 McDonald's-Punkte: Hörspiele und Hörbücher für Kinder (bis 27.10.)",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/tigertones-2-monate-gratis-fuer-250-mcdonalds-punkte-hoerspiele-und-hoerbuecher-fuer-kinder-bis-27-10/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/tigertones-2-monate-gratis-fuer-250-mcdonalds-punkte-hoerspiele-und-hoerbuecher-fuer-kinder-bis-27-10/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/tigertones-1x1-1-300x300.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-20T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-67e3886cb9e02a5a0a",
       "title": "🚗 Verivox: Kfz Versicherung wechseln + 60€ BestChoice-/Amazon.de-Gutschein",
       "kind": "Coupons",
@@ -1591,57 +1569,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-21T15:49:33+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c5a5461b562da40436",
-      "title": "🔥 70€ Bonus für die kostenlose Florin+ Mastercard",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/FLORIN_70_Bonusangebot-600x314.jpg",
-      "stores": [
-        "Rossmann",
-        "Netto",
-        "Amazon"
-      ],
-      "facts": [
-        "Für den 50€ BestChoice-Gutschein von Florin+: Nur für Neukunden , ab 18 Jahren und mit Wohnsitz in Deutschland . Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen. Karte nach Erhalt aktivieren . Innerhalb von 28 Tagen nach Aktivierung mindestens 150€ Umsatz machen (nicht b",
-        "Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen."
-      ],
-      "purchasePeriod": "Aktionszeitraum 01.10.2026 bis 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-21T12:34:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-23fd176083f1ed398e",
-      "title": "ING Extra-Konto Sparplan: 15€ Wunschgutschein gratis zum Weltspartag",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/ing-extra-konto-sparplan-15-euro-wunschgutschein/1612000",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/ing-extra-konto-sparplan-15-euro-wunschgutschein/1612000",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/ing-sparplan-weltspartag-wunschgutschein-600x600.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-21T12:11:46+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
