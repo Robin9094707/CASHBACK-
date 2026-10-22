@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T17:08:08.332475+00:00",
-  "lastSuccessAt": "2026-10-22T17:08:08.332475+00:00",
+  "generatedAt": "2026-10-22T21:33:26.864557+00:00",
+  "lastSuccessAt": "2026-10-22T21:33:26.864557+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-22T17:08:08.332475+00:00"
+      "updatedAt": "2026-10-22T21:33:26.864557+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-22T17:08:08.332475+00:00"
+      "updatedAt": "2026-10-22T21:33:26.864557+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-22T17:08:08.332475+00:00"
+      "count": 4,
+      "updatedAt": "2026-10-22T21:33:26.864557+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-22T17:08:08.332475+00:00"
+      "updatedAt": "2026-10-22T21:33:26.864557+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-22T17:08:08.332475+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-22T21:33:26.864557+00:00"
     }
   ],
   "deals": [
@@ -1204,8 +1204,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-784e205501e583d429",
+      "title": "Ich hab eine Freundin, die ist Abgeordnete & Ich mische mich ein - und du? - 2 Pixi-Bücher gratis bestellen",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/ich-hab-eine-freundin-die-ist-abgeordnete-ich-mische-mich-ein-und-du-2-pixi-buecher-gratis-bestellen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/ich-hab-eine-freundin-die-ist-abgeordnete-ich-mische-mich-ein-und-du-2-pixi-buecher-gratis-bestellen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/image014-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-b7c081715a7066250b",
-      "title": "Gratis Mütze für das Erste Kassenbon hochladen ab 10 Euro bei Krombacher +",
+      "title": "Gratis Mütze für das erstmalige Hochladen eines Kassenbons ab 10 Euro bei Krombacher +",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
       "url": "https://www.dealdoktor.de/user-deals/gratis-muetze-fuer-das-erste-kassebon-hochladen-ab-10-euro-bei-kromacher/",
@@ -1362,22 +1384,44 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-a0fd7d88fbf154cc0b",
-      "title": "Kostenlose Disney Malvorlagen zu Halloween!",
+      "id": "public-e48dfa274ae6a5c6e2",
+      "title": "💥 Die Top Deals des Tages – z.B. Google Pixel 10a 5G + 50GB Vodafone Allnet eff. GRATIS",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/kostenlose-disney-malvorlagen-zu-halloween/",
+      "url": "https://www.dealdoktor.de/top-deal-des-tages/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/kostenlose-disney-malvorlagen-zu-halloween/",
+      "sourceUrl": "https://www.dealdoktor.de/top-deal-des-tages/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Disney-Halloween-Mickey-Mouse-in-Front-of-Haunted-Castle-with-Jack-Lanterns-Coloring-Page-300x300.jpg",
+      "image": "",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-21T00:00:00+02:00",
+      "published": "2026-10-22T19:30:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-377e5744797ff458ce",
+      "title": "Eff. GRATIS: Samsung Galaxy S26 (256GB) für 49,99€ + 50GB Vodafone Allnet Flat für 24,99€/Monat (mit Tab A11 für 29,99€) + 0€ Anschlussgebühren (Klarmobil Vodafone)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/samsung-galaxy-s26-klarmobil-vodafone/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/samsung-galaxy-s26-klarmobil-vodafone/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/08/km-SEA-Demand-Gen-PMax-1200x628-261013-S26-Tablet-02-750x393.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-22T18:30:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1453,6 +1497,32 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-22T16:01:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ad75acd1db3e0e4205",
+      "title": "5€ Gutschein + Prämien fürs Scannen von Kassenbons mit YouGov Shopper",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.kostenlos.de/yougov-bonus-deal",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/yougov-bonus-deal",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/YouGov_Shopper__5_BestChoice-Gutschein-750x300.jpeg",
+      "stores": [],
+      "facts": [
+        "Bonus-Deal: 5€ BestChoice-Gutschein für die YouGov Shopper App 💶 5€ BestChoice-Gutschein von Kostenlos.de nach dem ersten gescannten Einkauf ✅ Kostenlose Teilnahme ✅ 50 Startpunkte von YouGov ✅ 15 Punkte pro Woche fürs Scannen ✅ Prämien wie Aral-Gutscheine, Thalia Geschenkkarten oder ein Apple iPad ",
+        "✅ Kostenlose Teilnahme",
+        "Kostenlos für YouGov Shopper registrieren"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-14T09:43:25+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
