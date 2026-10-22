@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T23:17:06.707418+00:00",
-  "lastSuccessAt": "2026-10-21T23:17:06.707418+00:00",
+  "generatedAt": "2026-10-22T04:40:31.521785+00:00",
+  "lastSuccessAt": "2026-10-22T04:40:31.521785+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 45,
-      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
+      "updatedAt": "2026-10-22T04:40:31.521785+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
+      "updatedAt": "2026-10-22T04:40:31.521785+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-22T04:40:31.521785+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
+      "updatedAt": "2026-10-22T04:40:31.521785+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-21T23:17:06.707418+00:00"
+      "updatedAt": "2026-10-22T04:40:31.521785+00:00"
     }
   ],
   "deals": [
@@ -1204,6 +1204,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-b3af18f8598fce911a",
+      "title": "EDEKA Zöllick Coupon-Aktion (Rostock): Gratis 1 Kinder Produkt und 1 Tafel Ritter Sport",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/user-deals/edeka-zoellick-coupon-aktion-rostock-gratis-1-kinder-produkt-und-1-tafel-ritter-sport/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/edeka-zoellick-coupon-aktion-rostock-gratis-1-kinder-produkt-und-1-tafel-ritter-sport/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/edeka-300x300.jpg",
+      "stores": [
+        "EDEKA"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-a0fd7d88fbf154cc0b",
       "title": "Kostenlose Disney Malvorlagen zu Halloween!",
       "kind": "Gratisartikel",
@@ -1407,22 +1431,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-a39efa78a1645723d2",
-      "title": "👑 Gala 6 Ausgaben kostenlos - nur 7,95€ Versand",
+      "id": "public-e2dba385e534373e65",
+      "title": "Eff. GRATIS: Fairphone 6+ (256GB) für 229€ + GRATIS Fairbuds 2 + 50GB 5G Allnet Flat für 20€/Monat + 15€ Anschlussgebühr (congstar Allnet Flat S)",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/probeabo-gala/",
+      "url": "https://www.dealdoktor.de/fairphone-6-plus-congstar-allnet-flat-s/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/probeabo-gala/",
+      "sourceUrl": "https://www.dealdoktor.de/fairphone-6-plus-congstar-allnet-flat-s/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2025/01/Beitragsbilder_Nicole_59-300x300.png",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Fairphone_6_Plus_Handytarif-750x392.png",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-20T00:00:00+02:00",
+      "published": "2026-10-21T17:39:10+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
