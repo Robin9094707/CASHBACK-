@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T00:39:09.225650+00:00",
-  "lastSuccessAt": "2026-10-23T00:39:09.225650+00:00",
+  "generatedAt": "2026-10-23T07:29:04.441748+00:00",
+  "lastSuccessAt": "2026-10-23T07:29:04.441748+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 45,
-      "updatedAt": "2026-10-23T00:39:09.225650+00:00"
+      "count": 44,
+      "updatedAt": "2026-10-23T07:29:04.441748+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 8,
-      "updatedAt": "2026-10-23T00:39:09.225650+00:00"
+      "count": 9,
+      "updatedAt": "2026-10-23T07:29:04.441748+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-23T00:39:09.225650+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-23T07:29:04.441748+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-23T00:39:09.225650+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-23T07:29:04.441748+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-23T00:39:09.225650+00:00"
+      "updatedAt": "2026-10-23T07:29:04.441748+00:00"
     }
   ],
   "deals": [
@@ -652,31 +652,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-4515",
-      "title": "Kühne Spice it up - GELD ZURÜCK",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://kassenbon-aktion.de/spice-it-up",
-      "conditionsUrl": "https://kassenbon-aktion.de/spice-it-up",
-      "image": "uploads/spice_it_up_8987bafacc.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum: 01.04.-31.12.2026",
-        "Teilnahmeschluss: 31.12.2026"
-      ],
-      "purchasePeriod": "Aktionszeitraum: 01.04.-31.12.2026",
-      "purchaseEnd": "2026-12-31",
-      "deadline": "2026-12-31",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-04-15T13:07:36.119Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-6541",
       "title": "2x TUC kaufen, 1x Geld zurück",
       "kind": "Cashback",
@@ -1204,6 +1179,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-d77d71a7808db6c5f4",
+      "title": "Air Wick gratis testen 😀🍃",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/air-wick-gratis-testen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/air-wick-gratis-testen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/08/IMG_2090-300x300.jpeg",
+      "stores": [
+        "Rossmann"
+      ],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum: 14.09.2026 bis 08.11.2026",
+      "purchaseEnd": "2026-11-08",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-23T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-784e205501e583d429",
       "title": "Ich hab eine Freundin, die ist Abgeordnete & Ich mische mich ein - und du? - 2 Pixi-Bücher gratis bestellen",
       "kind": "Gratisartikel",
@@ -1457,22 +1456,24 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-5065edd9199aba31c1",
-      "title": "Die Weinbörse: 20€ Extra-Gutschein auf alle Weine ab 50€ MBW",
+      "id": "public-7672f81937847d886b",
+      "title": "congstar Allnet Flat: 15 % Rabatt + ab 23.10. ohne Bereitstellung – 125 GB für 21,25€/Monat",
       "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/die-weinboerse_-20-extra-gutschein/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/die-weinboerse_-20-extra-gutschein/",
+      "reward": "15 %",
+      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/congstar-allnet-flat-15-prozent-rabatt-dd15pp-125gb-telekom/1608270",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/congstar-allnet-flat-15-prozent-rabatt-dd15pp-125gb-telekom/1608270",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/02/Rotweinpaket-683x400.png",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/congstar-allnet-flat-15-prozent-rabatt-dd15pp-600x400.jpg",
       "stores": [],
-      "facts": [],
+      "facts": [
+        "⏱️ Aktionszeitraum: Code bis 02.11.2026, 0€ Bereitstellung vom 23.10. bis 02.11.2026"
+      ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-22T16:33:00+00:00",
+      "published": "2026-10-23T06:45:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
