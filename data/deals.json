@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T16:14:01.556835+00:00",
-  "lastSuccessAt": "2026-10-25T16:14:01.556835+00:00",
+  "generatedAt": "2026-10-25T19:03:30.456654+00:00",
+  "lastSuccessAt": "2026-10-25T19:03:30.456654+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 43,
-      "updatedAt": "2026-10-25T16:14:01.556835+00:00"
+      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-10-25T16:14:01.556835+00:00"
+      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-10-25T16:14:01.556835+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-10-25T16:14:01.556835+00:00"
+      "count": 1,
+      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-10-25T16:14:01.556835+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
     }
   ],
   "deals": [
@@ -170,10 +170,7 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "DealDoktor"
-      ]
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6367",
@@ -1154,6 +1151,50 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-6e9530e82358d6fa31",
+      "title": "gratis mini Reiskocher zu Einkauf bei Reishunger ab 69€ MBW",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/dd26b2b5c173082e29b13938853efdc231d25fd99c4d671d65b55c8c581fd8a3-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-25T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-9e31561ad4f8eb870f",
+      "title": "gratis Vöslauer Pfirsich plus Zink zu Halloween Bestellung bei Dean & David 🎃",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-voeslauer-pfirsich-plus-zink-zu-halloween-bestellung-bei-dean-david/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-voeslauer-pfirsich-plus-zink-zu-halloween-bestellung-bei-dean-david/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/872f2229d2e2224d30c255d1196bacac9c788921ea0960c54263acc21051e404-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-25T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-86e759ebb722697afb",
       "title": "Gratis Optisana Sport Balm rot oder weiß in der Lidl App!",
       "kind": "Gratisartikel",
@@ -1400,24 +1441,26 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-2338e3857361655988",
-      "title": "Rewe Familienkalender 2027 - jetzt gratis in Rewe-Märkten sichern! 📆",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/rewe-familienkalender-2027/",
+      "id": "public-55f2e919f23067c858",
+      "title": "Nintendo Switch 2 (austauschbarer Akku) für 0,95€ + 50GB 5G/LTE Telekom Allnet für 29,99€/Monat + 110€ Wechselbonus + 100€ Cashback (freenet Telekom)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.dealdoktor.de/nintendo-switch-2-austauschbarer-akku-freenet-telekom/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/rewe-familienkalender-2027/",
+      "sourceUrl": "https://www.dealdoktor.de/nintendo-switch-2-austauschbarer-akku-freenet-telekom/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/b2ca2453e887372d39551fff975d4cb8a5932c0a8dca51336de03cd7198fc8e0-300x300.jpg",
-      "stores": [
-        "REWE"
+      "image": "",
+      "stores": [],
+      "facts": [
+        "Nintendo Switch 2 (austauschbarer Akku) für 0,95€ + 50GB 5G/LTE Telekom Allnet für 29,99€/Monat ℹ️ Wert des Gaming-Pakets: 495€ 🔁 110€ Wechselbonus 👉 nach Portierung innerhalb von 30 Tagen SMS mit „Bonus“ an 22234 senden gilt nicht für Rufnummernmitnahme von klarmobil zu freenet 🤑 100€ Cashback 💵 Ge",
+        "🤑 100€ Cashback",
+        "–  100€ Cashback"
       ],
-      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-23T00:00:00+02:00",
+      "amountCents": 10000,
+      "published": "2026-10-25T16:21:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1477,78 +1520,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-0ebf17c8c5e2e8b890",
-      "title": "ROSSMANN Spielwaren-Aktion: 20% Rabatt auf LEGO, Brettspiele & Stofftiere",
-      "kind": "Coupons",
-      "reward": "20 %",
-      "url": "https://www.monsterdealz.de/hobby-freizeit/spielwaren/rossmann-spielwaren-rabatt-20-prozent/1613368",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/hobby-freizeit/spielwaren/rossmann-spielwaren-rabatt-20-prozent/1613368",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/rossmann-20-prozent-spielwaren-600x400.jpg",
-      "stores": [
-        "Rossmann"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-25T10:55:51+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-d8b6528111228eedf1",
-      "title": "Stark Hantel App kostenlos: Dumbbell-Workout für Android bei Google Play",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/stark-hantel-app-kostenlos-google-play/1613379",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/stark-hantel-app-kostenlos-google-play/1613379",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/stark-hantel-app-kostenlos-600x600.jpg",
-      "stores": [],
-      "facts": [
-        "🔒 Bleibt die App nach der Aktion kostenlos für mich? Ja, wer sie im Aktionszeitraum lädt, behält sie dauerhaft in seinem Google-Konto."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-25T10:33:54+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-7672f81937847d886b",
-      "title": "congstar Allnet Flat: 15 % Rabatt + ab 23.10. ohne Bereitstellung – 125 GB für 21,25€/Monat",
-      "kind": "Coupons",
-      "reward": "15 %",
-      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/congstar-allnet-flat-15-prozent-rabatt-dd15pp-125gb-telekom/1608270",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/congstar-allnet-flat-15-prozent-rabatt-dd15pp-125gb-telekom/1608270",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/congstar-allnet-flat-15-prozent-rabatt-dd15pp-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "⏱️ Aktionszeitraum: Code bis 02.11.2026, 0€ Bereitstellung vom 23.10. bis 02.11.2026"
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-25T10:00:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-9a605dd37584ac9c4b",
       "title": "⏰😎 250€ Bonus für kostenloses Tide Geschäftskonto",
       "kind": "Gratisartikel",
@@ -1569,7 +1540,7 @@
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-25T09:48:00+00:00",
+      "published": "2026-10-25T17:48:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1621,35 +1592,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-22T15:00:31+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-9e0d9833daabfe26d0",
-      "title": "Alpro Socken gratis: Zugabe beim Kauf von 2 Alpro Produkten",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.kostenlos.de/alpro-socken",
-      "source": "Kostenlos.de",
-      "sourceUrl": "https://www.kostenlos.de/alpro-socken",
-      "conditionsUrl": "",
-      "image": "https://www.kostenlos.de/app/uploads/2026/10/Gratis_alpro_Socken-750x302.jpeg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum: bis 31.10.2026 bzw. nur solange der Vorrat von 3.000 Sockenpaaren reicht",
-        "Teilnahmeberechtigt sind alle ab 18 Jahren mit Wohnsitz in Deutschland.",
-        "Nur eine Teilnahme pro WhatsApp-Account. Derselbe Kassenbon darf nicht mehrfach hochgeladen werden.",
-        "Lieferung: Die Socken kommen innerhalb von 4 Wochen nach Eingang eurer Teilnahme per Post, sofern alle Daten stimmen.",
-        "Eure Daten: Die Kontaktdaten werden laut Teilnahmebedingungen nur zur Abwicklung der Aktion genutzt, solange ihr keinem Marketing-Opt-in zustimmt.",
-        "Alpro WhatsApp Kanal öffnen und die Teilnahmebedingungen sowie Datenschutzbestimmungen akzeptieren"
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-24T11:00:43+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
