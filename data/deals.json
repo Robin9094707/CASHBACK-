@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T19:03:30.456654+00:00",
-  "lastSuccessAt": "2026-10-25T19:03:30.456654+00:00",
+  "generatedAt": "2026-10-25T22:31:56.503465+00:00",
+  "lastSuccessAt": "2026-10-25T22:31:56.503465+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 43,
-      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
+      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
+      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
+      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
+      "count": 3,
+      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-25T19:03:30.456654+00:00"
+      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
     }
   ],
   "deals": [
@@ -1514,6 +1514,59 @@
       "deadline": "",
       "amountCents": 5000,
       "published": "2026-10-25T13:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-9620139cb2597a92fb",
+      "title": "*TOP SIM-ONLY* Unbegrenzt GB 5G + Alles-Flat im Vodafone-Netz für 14,99€/Monat (dank 240€ Cashback)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/unbegrenzt-gb-5g-alles-flat-im-vodafone-netz/1600809",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/unbegrenzt-gb-5g-alles-flat-im-vodafone-netz/1600809",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/logitelsimonly-600x156.jpg",
+      "stores": [],
+      "facts": [
+        "💰 Bonus: 240€ LogiTel Cashback",
+        "– 240€ LogiTel Cashback",
+        "= 14,99€/Monat für den reinen Tarif nach Abzug des Cashbacks"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 24000,
+      "published": "2026-10-25T20:11:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ca00d29ea9d829200b",
+      "title": "Deutsche Bank BestKonto: 200€ Reisegutschein für Neukunden und Upgrades",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/deutsche-bank-bestkonto-200-euro-reisegutschein/1601436",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/deutsche-bank-bestkonto-200-euro-reisegutschein/1601436",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/deutsche-bank-bestkonto-200-euro-reisegutschein-600x400.jpg",
+      "stores": [
+        "Netto"
+      ],
+      "facts": [
+        "👤 Teilnahme: Neukunden ab 18 Jahren sowie Bestandskunden mit Upgrade auf das BestKonto",
+        "💰 Brauche ich einen Geldeingang? Nein. Die Teilnahmebedingungen verlangen keinen Mindest-Geldeingang, nur eine gültige E-Mail-Adresse bei der Bank und ein aktives Konto bis zum Erhalt des Gutscheins."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-25T19:22:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
