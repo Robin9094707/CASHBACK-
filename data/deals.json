@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T22:31:56.503465+00:00",
-  "lastSuccessAt": "2026-10-25T22:31:56.503465+00:00",
+  "generatedAt": "2026-10-26T04:43:00.561996+00:00",
+  "lastSuccessAt": "2026-10-26T04:43:00.561996+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 43,
-      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
+      "count": 42,
+      "updatedAt": "2026-10-26T04:43:00.561996+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
+      "count": 12,
+      "updatedAt": "2026-10-26T04:43:00.561996+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
+      "updatedAt": "2026-10-26T04:43:00.561996+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
+      "updatedAt": "2026-10-26T04:43:00.561996+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-25T22:31:56.503465+00:00"
+      "updatedAt": "2026-10-26T04:43:00.561996+00:00"
     }
   ],
   "deals": [
@@ -539,33 +539,6 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-08-30T22:02:00.002Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-5891",
-      "title": "100% Cashback auf eine Flasche Lipton Sensations!",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://lipton-sensations-gratis.de/",
-      "conditionsUrl": "https://lipton-sensations-gratis.de/tnb",
-      "image": "uploads/Deals/lipton_1cea8d15c3.jpg",
-      "stores": [],
-      "facts": [
-        "Kaufzeitraum: 17.08.2026 bis 25.10.2026",
-        "Einlösezeitraum: 17.08.2026 bis 08.11.2026",
-        "Aktionsprodukte: Lipton Sensations Strawberry Swirl 1 Liter, Lipton Sensations Watermelon Waves 1 Liter, Lipton Sensations Peach Paradise 1 Liter",
-        "Limit: Pro Tag sind insgesamt maximal 1.200 Teilnahmen möglich. Insgesamt ist die Aktion auf 100.800 Teilnahmen im gesamten Aktions- bzw. Einsendezeitraum begrenzt. Der maximal zu erstattende Kaufpreis für ein Aktions-Produkt beträgt 2,99€ exkl. Pfand."
-      ],
-      "purchasePeriod": "Kaufzeitraum: 17.08.2026 bis 25.10.2026",
-      "purchaseEnd": "2026-10-25",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-08-21T05:47:29.083Z",
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
@@ -1304,28 +1277,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-af5315bd48ac632828",
-      "title": "Lipton Sensations gratis testen - maximal 2,99€ Cashback sichern! 😀",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/lipton-sensations-gratis-testen-maximal-299-e-cashback-sichern/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/lipton-sensations-gratis-testen-maximal-299-e-cashback-sichern/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/08/1784116924515liptonheadermobile538x522px-300x300.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "Aktionszeitraum Kaufzeitraum: 17.08.2026 bis 25.10.2026",
-      "purchaseEnd": "2026-10-25",
-      "deadline": "",
-      "amountCents": 299,
-      "published": "2026-10-24T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
