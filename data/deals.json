@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T22:10:52.004044+00:00",
-  "lastSuccessAt": "2026-10-27T22:10:52.004044+00:00",
+  "generatedAt": "2026-10-28T01:19:02.292223+00:00",
+  "lastSuccessAt": "2026-10-28T01:19:02.292223+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 43,
-      "updatedAt": "2026-10-27T22:10:52.004044+00:00"
+      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 13,
-      "updatedAt": "2026-10-27T22:10:52.004044+00:00"
+      "count": 14,
+      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-27T22:10:52.004044+00:00"
+      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-27T22:10:52.004044+00:00"
+      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-27T22:10:52.004044+00:00"
+      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
     }
   ],
   "deals": [
@@ -224,7 +224,10 @@
       "verified": false,
       "cities": [],
       "category": "Haushalt",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
+      "otherSources": [
+        "DealDoktor"
+      ]
     },
     {
       "id": "sparwelt-6312",
@@ -1313,28 +1316,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-f5eed0c02f8bb7468c",
-      "title": "tigertones 2 Monate gratis für 250 McDonald's-Punkte: Hörspiele und Hörbücher für Kinder (bis 27.10.)",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/tigertones-2-monate-gratis-fuer-250-mcdonalds-punkte-hoerspiele-und-hoerbuecher-fuer-kinder-bis-27-10/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/tigertones-2-monate-gratis-fuer-250-mcdonalds-punkte-hoerspiele-und-hoerbuecher-fuer-kinder-bis-27-10/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/tigertones-1x1-1-300x300.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-27T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-da0aa769d163e62737",
       "title": "VICHY Dercos Anti-Schuppen Shampoo Probe gratis (Gewinnspiel)! 🌹😊",
       "kind": "Gratisartikel",
@@ -1442,6 +1423,28 @@
       "verified": false,
       "cities": [],
       "category": "Drogerie",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-6e9530e82358d6fa31",
+      "title": "gratis mini Reiskocher zu Einkauf bei Reishunger ab 69€ MBW",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/dd26b2b5c173082e29b13938853efdc231d25fd99c4d671d65b55c8c581fd8a3-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-25T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
