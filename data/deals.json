@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T01:19:02.292223+00:00",
-  "lastSuccessAt": "2026-10-28T01:19:02.292223+00:00",
+  "generatedAt": "2026-10-28T08:26:43.676288+00:00",
+  "lastSuccessAt": "2026-10-28T08:26:43.676288+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 43,
-      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
+      "updatedAt": "2026-10-28T08:26:43.676288+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 14,
-      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
+      "updatedAt": "2026-10-28T08:26:43.676288+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
+      "count": 1,
+      "updatedAt": "2026-10-28T08:26:43.676288+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
+      "updatedAt": "2026-10-28T08:26:43.676288+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-28T01:19:02.292223+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-28T08:26:43.676288+00:00"
     }
   ],
   "deals": [
@@ -1155,6 +1155,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-e3c44ffcb7ab3371f9",
+      "title": "GRATIS: Football Manager 27 fünf Tage kostenlos spielen (PC/Mac, 29.10. bis 03.11.), Karriere später weiterspielen",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-football-manager-27-fuenf-tage-kostenlos-spielen-pc-mac-29-10-bis-03-11-karriere-spaeter-weiterspielen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-football-manager-27-fuenf-tage-kostenlos-spielen-pc-mac-29-10-bis-03-11-karriere-spaeter-weiterspielen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/fm27-1x1-1-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-28T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-269c873e6510901422",
       "title": "gratis Artikel und Coupons in der myce App deines Einkaufszentrum",
       "kind": "Coupons",
@@ -1426,22 +1448,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-6e9530e82358d6fa31",
-      "title": "gratis mini Reiskocher zu Einkauf bei Reishunger ab 69€ MBW",
+      "id": "public-377e5744797ff458ce",
+      "title": "Eff. GRATIS: Samsung Galaxy S26 (256GB) für 49,99€ + 50GB Vodafone Allnet Flat für 24,99€/Monat (mit Tab A11 für 29,99€) + 0€ Anschlussgebühren (Klarmobil Vodafone)",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "url": "https://www.dealdoktor.de/samsung-galaxy-s26-klarmobil-vodafone/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-mini-reiskocher-zu-einkauf-bei-reishunger-ab-69e-mbw/",
+      "sourceUrl": "https://www.dealdoktor.de/samsung-galaxy-s26-klarmobil-vodafone/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/dd26b2b5c173082e29b13938853efdc231d25fd99c4d671d65b55c8c581fd8a3-300x300.jpg",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/08/km-SEA-Demand-Gen-PMax-1200x628-261013-S26-Tablet-02-750x393.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-25T00:00:00+02:00",
+      "published": "2026-10-28T07:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1508,6 +1530,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-27T16:27:28+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-629f4c7f8b5e9d9637",
+      "title": "LG-Lautsprecher & Soundbars bei MediaMarkt reduziert + Chance auf 50€ Gutschein 🔊",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.kostenlos.de/lg-sound_mediamarkt-gewinnspiel",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/lg-sound_mediamarkt-gewinnspiel",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/10/50_MediaMarkt-Gutschein_gewinnen-750x300.png",
+      "stores": [],
+      "facts": [
+        "Teilnahmezeitraum: bis 30.10.2026"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-25T14:15:03+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
