@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T19:36:57.136700+00:00",
-  "lastSuccessAt": "2026-10-29T19:36:57.136700+00:00",
+  "generatedAt": "2026-10-29T23:55:24.965595+00:00",
+  "lastSuccessAt": "2026-10-29T23:55:24.965595+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 43,
-      "updatedAt": "2026-10-29T19:36:57.136700+00:00"
+      "updatedAt": "2026-10-29T23:55:24.965595+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 12,
-      "updatedAt": "2026-10-29T19:36:57.136700+00:00"
+      "count": 13,
+      "updatedAt": "2026-10-29T23:55:24.965595+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-10-29T19:36:57.136700+00:00"
+      "count": 2,
+      "updatedAt": "2026-10-29T23:55:24.965595+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-10-29T19:36:57.136700+00:00"
+      "updatedAt": "2026-10-29T23:55:24.965595+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-10-29T19:36:57.136700+00:00"
+      "updatedAt": "2026-10-29T23:55:24.965595+00:00"
     }
   ],
   "deals": [
@@ -1152,6 +1152,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-e5e75d097c20f304af",
+      "title": "Soundcore Lautsprecher gratis in der Magenta App",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/soundcore-lautsprecher-gratis-in-der-magenta-app/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/soundcore-lautsprecher-gratis-in-der-magenta-app/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/5267c6a8abb594ec80ce4c69b220a9b09f3beeb60c774e1a617f5ca013f08071-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-29T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-0bfdb5e7c0ceb43bab",
       "title": "Green Mountain gratis probieren",
       "kind": "Gratisartikel",
@@ -1421,6 +1443,32 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-55f2e919f23067c858",
+      "title": "Nintendo Switch 2 (austauschbarer Akku) für 0,95€ + 50GB 5G/LTE Telekom Allnet für 29,99€/Monat + 110€ Wechselbonus + 100€ Cashback (freenet Telekom)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.dealdoktor.de/nintendo-switch-2-austauschbarer-akku-freenet-telekom/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/nintendo-switch-2-austauschbarer-akku-freenet-telekom/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [],
+      "facts": [
+        "Nintendo Switch 2 (austauschbarer Akku) für 0,95€ + 50GB 5G/LTE Telekom Allnet für 29,99€/Monat ℹ️ Wert des Gaming-Pakets: 495€ 🔁 110€ Wechselbonus 👉 nach Portierung innerhalb von 30 Tagen SMS mit „Bonus“ an 22234 senden gilt nicht für Rufnummernmitnahme von klarmobil zu freenet 🤑 100€ Cashback 💵 Ge",
+        "🤑 100€ Cashback",
+        "–  100€ Cashback"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 10000,
+      "published": "2026-10-29T20:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-76767c3e32f7918b27",
       "title": "Eff. GRATIS und 69€ Ersparnis! 🚀 Fairphone (Gen. 6+) (256GB) + Fairbuds 2 für 99€ + 50GB 5G Telekom Allnet Flat für 29,99€/Monat + 150€ Wechselbonus (freenet Telekom)",
       "kind": "Gratisartikel",
@@ -1437,6 +1485,28 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-29T17:15:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-10-29T21:11:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1461,30 +1531,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-10-29T19:29:58+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-6ddac0a1791519873f",
-      "title": "Sorry We’re Closed kostenlos im Epic Games Store – Survival-Horror-Spiel für PC",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sorry-were-closed-kostenlos-epic-games-store/1613428",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/sorry-were-closed-kostenlos-epic-games-store/1613428",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/sorry-were-closed-epic-games-kostenlos-600x600.jpg",
-      "stores": [],
-      "facts": [
-        "💾 Darf ich das Spiel nach der Aktion behalten? Ja. Was ihr im Aktionszeitraum einlöst, bleibt dauerhaft in eurer Epic-Bibliothek."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-29T16:00:46+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
