@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T23:22:12.294137+00:00",
-  "lastSuccessAt": "2026-10-31T23:22:12.294137+00:00",
+  "generatedAt": "2026-11-01T05:58:33.908851+00:00",
+  "lastSuccessAt": "2026-11-01T05:58:33.908851+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 40,
-      "updatedAt": "2026-10-31T23:22:12.294137+00:00"
+      "count": 38,
+      "updatedAt": "2026-11-01T05:58:33.908851+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 12,
-      "updatedAt": "2026-10-31T23:22:12.294137+00:00"
+      "count": 13,
+      "updatedAt": "2026-11-01T05:58:33.908851+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-10-31T23:22:12.294137+00:00"
+      "updatedAt": "2026-11-01T05:58:33.908851+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-10-31T23:22:12.294137+00:00"
+      "updatedAt": "2026-11-01T05:58:33.908851+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-10-31T23:22:12.294137+00:00"
+      "updatedAt": "2026-11-01T05:58:33.908851+00:00"
     }
   ],
   "deals": [
@@ -408,33 +408,6 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6029",
-      "title": "Always Ultra Big Packs kaufen, 100 % Cashback erhalten!",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.for-me-online.de/always-cashback",
-      "conditionsUrl": "https://www.for-me-online.de/teilnahmebedingungen",
-      "image": "uploads/Deals/Always_03_09_2026_943dca2f6f.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 01.09.2026 bis 31.10.2026",
-        "Teilnahmeschluss: 11.11.2026",
-        "Aktionsprodukt: Always Ultra Secure Night Extra Big Pack, Always Ultra Day Big Pack",
-        "Limit: 100 % Cashback. Für die Teilnahme müssen der vollständige Kaufbeleg sowie die Verpackung des teilnehmenden Produkts mit sichtbarem Barcode gemeinsam hochgeladen werden. Zusätzlich muss die 13-stellige EAN-Nummer des Produkts angegeben werden."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 01.09.2026 bis 31.10.2026",
-      "purchaseEnd": "2026-10-31",
-      "deadline": "2026-11-11",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-09-03T13:24:56.863Z",
-      "verified": false,
-      "cities": [],
-      "category": "Drogerie",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1019,34 +992,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-5517",
-      "title": "Bis zu 20€ Cashback auf Vileda Produkte",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://vileda-cashback.de/",
-      "conditionsUrl": "https://vileda-cashback.de/media/germany/Teilnahmebedingungen_Cashback_Herbst_2026_v4/4fa2e13553ede732e9fdf0448403cb0e.pdf",
-      "image": "uploads/Deals/vileda_b13aebf19f.jpg",
-      "stores": [],
-      "facts": [
-        "Kaufzeitraum: 01.07.2026 bis 31.10.2026",
-        "Einlösezeitraum: 01.07.2026 bis 15.11.2026",
-        "Aktionsprodukte: Die vollständige Liste würde leider unseren Deal sprengen: Alle teilnehmenden Vileda Produkte samt EAN findet ihr im [Anhang der Teilnahmebedingungen](https://vileda-cashback.de/media/germany/TeilnahmebedingungenCashbackHerbst2026v4/4fa2e13553ede732e9fdf0448403cb0e.pdf) ab Seite 5.",
-        "Teilnahmehäufigkeit: Mehrfachteilnahmen sind zulässig. Pro Teilnahme darf nur ein Kassenbon eingereicht werden. Jeder Kassenbon darf nur einmal verwendet werden. Der maximale Cashback-Betrag einer Teilnahme beträgt: 73€ pro Person.",
-        "Wichtig: Bei Bodenreinigungsprodukten ist eine bestimmte Kaufkombination nötig, dazu erfolgt die 20€-Erstattung bei Dampfreiniger und Bügeltisch nur bei einem Kauf in bestimmten Märkten. Beachtet vor dem Kauf den §3 auf Seite 1 der Teilnahmebedingungen."
-      ],
-      "purchasePeriod": "Kaufzeitraum: 01.07.2026 bis 31.10.2026",
-      "purchaseEnd": "2026-10-31",
-      "deadline": "",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-07-09T15:09:40.921Z",
-      "verified": false,
-      "cities": [],
-      "category": "Haushalt",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-6237",
       "title": "Dreh & Gewinn-Aktion mit FELIX Little Extras: Prämie oder Geld zurück",
       "kind": "Gratis testen",
@@ -1072,6 +1017,54 @@
       "cities": [],
       "category": "Tierbedarf",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
+    {
+      "id": "public-382e3ee44e9a9c2687",
+      "title": "Lindani (Linda-Apotheken): Gratis Traubenzucker im November für eure Kleinen",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/lindani-linda-apotheken-gratis-traubenzucker-im-november-fuer-eure-kleinen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/lindani-linda-apotheken-gratis-traubenzucker-im-november-fuer-eure-kleinen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Lindani-300x300.jpg",
+      "stores": [
+        "Apotheke"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-01T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-bca7be9072fc18e3c2",
+      "title": "Gratis ein Brot aus dem Backshop (ab 25 Euro Einkaufswert) in der Lidl App!",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-ein-brot-aus-dem-backshop-ab-25-euro-einkaufswert-in-der-lidl-app/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-ein-brot-aus-dem-backshop-ab-25-euro-einkaufswert-in-der-lidl-app/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/464985a2020d9f27d37c4d282c9a35b5d2489f9818a35ff0fa9a27d97d65062e-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-01T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
       "id": "public-92de5629bfabff6cf1",
@@ -1308,28 +1301,6 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/soundcore-lautsprecher-gratis-in-der-magenta-app/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/10/5267c6a8abb594ec80ce4c69b220a9b09f3beeb60c774e1a617f5ca013f08071-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-10-29T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-89654b4e249e7d3113",
-      "title": "Gratis bei Unicef Mal - und Rätselbuch frei Haus als Print  oder als download",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-bei-unicef-mal-und-raetselbuch-frei-haus-als-print-oder-als-download/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-bei-unicef-mal-und-raetselbuch-frei-haus-als-print-oder-als-download/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/2764889_1-300x300.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
