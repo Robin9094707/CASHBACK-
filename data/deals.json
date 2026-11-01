@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T18:54:34.114941+00:00",
-  "lastSuccessAt": "2026-11-01T18:54:34.114941+00:00",
+  "generatedAt": "2026-11-01T23:34:08.924733+00:00",
+  "lastSuccessAt": "2026-11-01T23:34:08.924733+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 38,
-      "updatedAt": "2026-11-01T18:54:34.114941+00:00"
+      "count": 37,
+      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-01T18:54:34.114941+00:00"
+      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-01T18:54:34.114941+00:00"
+      "count": 3,
+      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-11-01T18:54:34.114941+00:00"
+      "count": 4,
+      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-01T18:54:34.114941+00:00"
+      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
     }
   ],
   "deals": [
@@ -492,33 +492,6 @@
       "verified": false,
       "cities": [],
       "category": "Drogerie",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-5962",
-      "title": "endori gratis testen!",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://endori-gratis-testen.de/",
-      "conditionsUrl": "https://endori-gratis-testen.de/tnb",
-      "image": "uploads/Deals/endori_ee2af2ea0f.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 31.08.2026 bis 01.11.2026",
-        "Aktionsprodukte: endori veganes Hack 200g, endori veganer Best Burger 200g, endori vegane Protein Gemüse Sticks 180g, endori vegane chicken sticks Paprika 180g, endori vegane chicken sticks mit Käse-Alternative 180g, endori vegane chicken sticks mit Chili Käse-Alternative 180g.",
-        "Wichtig: endori Maxipacks und XXL Packs sind nicht Teil der Aktion.",
-        "Limit: Die Aktion ist auf max. 20.000 Einlösungen insgesamt begrenzt. Den Zählerstand findet ihr auf der Aktionsseite."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 31.08.2026 bis 01.11.2026",
-      "purchaseEnd": "2026-11-01",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-09-01T05:56:21.652Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1022,6 +995,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-a152e77fffa72005df",
+      "title": "📰 [Kaufland App] Gratis Leseproben von Tageszeitungen & Zeitschriften",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/kaufland-app-gratis-leseproben-von-tageszeitungen-zeitschriften/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/kaufland-app-gratis-leseproben-von-tageszeitungen-zeitschriften/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/64abb1164817f67314d291c86e97bb965d42e8f4449533384c37d3868a753bab-300x300.jpg",
+      "stores": [
+        "Kaufland"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-01T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-c197c07c40095f53ae",
       "title": "SimplyV gratis testen! 😀 333 Einlösungen täglich!",
       "kind": "Gratis testen",
@@ -1250,24 +1247,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-92de5629bfabff6cf1",
-      "title": "Gratis bei diska nächste Woche [ab 02.11. -  07.11.",
+      "id": "public-4a5ce290840d850fd1",
+      "title": "Mit Kombi-Vorteil eff. GRATIS: Apple iPhone 18 Pro Max (256GB) für 849,95€ + 70GB LTE/5G Vodafone Allnet für 34,99€/Monat + 120€ Startguthaben (Vodafone Smart Lite)",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-bei-diska-naechste-woche-ab-02-11-07-11/",
+      "url": "https://www.dealdoktor.de/apple-iphone-18-pro-max-vodafone-smart-lite/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-bei-diska-naechste-woche-ab-02-11-07-11/",
+      "sourceUrl": "https://www.dealdoktor.de/apple-iphone-18-pro-max-vodafone-smart-lite/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/page-01-1-300x300.jpg",
-      "stores": [
-        "EDEKA"
-      ],
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/Apple_iPhone_18_Pro_Max_Handytarif-750x400.png",
+      "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-10-31T00:00:00+02:00",
+      "published": "2026-11-01T19:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1304,7 +1299,7 @@
       "source": "DealDoktor",
       "sourceUrl": "https://www.dealdoktor.de/die-weinboerse_-20-extra-gutschein/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/02/Rotweinpaket-683x400.png",
+      "image": "https://www.dealdoktor.de/app/uploads/2025/10/app_download.png",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
@@ -1312,6 +1307,32 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-01T16:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-9410341f4d7df58623",
+      "title": "Vodafone GigaZuhause 300 Glasfaser bei MediaMarkt: 350€ Cashback + 0€ Anschluss (effektiv 24,57€/Monat)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/vodafone-gigazuhause-300-glasfaser-cashback/1617159",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/vodafone-gigazuhause-300-glasfaser-cashback/1617159",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/vodafone-gigazuhause-300-glasfaser-cashback-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "💰 Bonus: 350€ Cashback aufs Vertragskonto – alternativ 350€ Geschenkkarte oder Sachprämie für 1€ Zuzahlung",
+        "– 350€ Cashback",
+        "💸 Wann wird das Cashback ausgezahlt? Ihr löst den Prämiencode auf vorteile.mediamarkt.de ein, sobald eure zweite Vodafone-Rechnung vorliegt. Die Einlösung muss innerhalb von 12 Wochen nach Vertragsaktivierung erfolgen, ausgezahlt wird aufs Vertragskonto."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 35000,
+      "published": "2026-11-01T20:44:48+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1385,86 +1406,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c5a5461b562da40436",
-      "title": "🔥 70€ Bonus für die kostenlose Florin+ Mastercard",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/florin-mastercard-bonus/1610646",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/FLORIN_70_Bonusangebot-600x314.jpg",
-      "stores": [
-        "Rossmann",
-        "Netto",
-        "Amazon"
-      ],
-      "facts": [
-        "Für den 50€ BestChoice-Gutschein von Florin+: Nur für Neukunden , ab 18 Jahren und mit Wohnsitz in Deutschland . Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen. Karte nach Erhalt aktivieren . Innerhalb von 28 Tagen nach Aktivierung mindestens 150€ Umsatz machen (nicht b",
-        "Die Karteneröffnung muss im Aktionszeitraum 01.10.2026 bis 15.11.2026 liegen."
-      ],
-      "purchasePeriod": "Aktionszeitraum 01.10.2026 bis 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-01T10:22:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-cd9e74094b4db1fa96",
-      "title": "IKEA Family Sonntagsangebot: 20% Rabatt auf über 600 Artikel (nur heute)",
-      "kind": "Coupons",
-      "reward": "20 %",
-      "url": "https://www.monsterdealz.de/haushalt-garten/ikea-family-sonntagsangebot-20-prozent/1616963",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/ikea-family-sonntagsangebot-20-prozent/1616963",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/ikea-family-sonntagsangebot-20-prozent-600x400.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-01T10:06:52+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-ccda650719823f3d58",
-      "title": "Jacobs Weihnachten Cashback: 2 Kaffee kaufen, das günstigere gratis",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/cashback/jacobs-weihnachten-cashback/1616965",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/cashback/jacobs-weihnachten-cashback/1616965",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/jacobs-weihnachten-cashback-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "🏪 Produkt: Jacobs Weihnachtsprodukte – 2 kaufen, das günstigere per Cashback gratis",
-        "📦 Versand: entfällt – Kauf im Handel, Teilnahme online",
-        "💡 Besonderheit: Cashback für das günstigere Produkt – Kassenbon hochladen, IBAN angeben",
-        "☕ Wie funktioniert das Jacobs Weihnachten Cashback? Ihr kauft zwei Jacobs-Weihnachtsprodukte, ladet den Kassenbon hoch und bekommt den Preis des günstigeren Produkts erstattet.",
-        "📅 Bis wann läuft das Jacobs Cashback? Bis zum 24.12.2026 oder bis 20.000 Einlösungen erreicht sind – je nachdem, was zuerst eintritt.",
-        "👤 Wie oft kann ich am Jacobs Cashback teilnehmen? Einmal pro Person und Bankkonto."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-01T10:06:40+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     }
   ]
