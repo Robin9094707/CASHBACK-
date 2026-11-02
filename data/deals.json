@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T23:34:08.924733+00:00",
-  "lastSuccessAt": "2026-11-01T23:34:08.924733+00:00",
+  "generatedAt": "2026-11-02T05:57:59.821627+00:00",
+  "lastSuccessAt": "2026-11-02T05:57:59.821627+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,38 +9,67 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 37,
-      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
+      "updatedAt": "2026-11-02T05:57:59.821627+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
+      "updatedAt": "2026-11-02T05:57:59.821627+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
+      "updatedAt": "2026-11-02T05:57:59.821627+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
+      "updatedAt": "2026-11-02T05:57:59.821627+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-01T23:34:08.924733+00:00"
+      "updatedAt": "2026-11-02T05:57:59.821627+00:00"
     }
   ],
   "deals": [
+    {
+      "id": "sparwelt-6652",
+      "title": "Dove Refill-Set gratis testen bei dm",
+      "kind": "Gratis testen",
+      "source": "SPARWELT",
+      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
+      "url": "https://refill-set-gratis-testen.de/",
+      "conditionsUrl": "https://refill-set-gratis-testen.de/teilnahmebedingungen",
+      "image": "uploads/dove_d2b174fc2c.jpg",
+      "stores": [
+        "dm"
+      ],
+      "facts": [
+        "Kaufzeitraum: 02.11.2026 - 15.11.2026",
+        "Teilnahmeschluss: 15.11.2026",
+        "Aktionsprodukt: Dove Refill Starter Kit Deo No. 44 Blüten- & rote Früchte Duft, Dove Refill Starter Kit Anti-Transpirant No. 1 Original, Dove Refill Starter Kit Anti-Transpirant No. 4 Veilchen- & Tonkabohnenduft",
+        "Limit: Die Aktion ist auf 3.500 Teilnahmen begrenzt."
+      ],
+      "purchasePeriod": "Kaufzeitraum: 02.11.2026 - 15.11.2026",
+      "purchaseEnd": "2026-11-15",
+      "deadline": "2026-11-15",
+      "reward": "100 %",
+      "amountCents": 0,
+      "published": "2026-11-01T23:02:00.003Z",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
     {
       "id": "sparwelt-6547",
       "title": "Huel Trinkmahlzeit gratis probieren bei REWE",
@@ -965,33 +994,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6237",
-      "title": "Dreh & Gewinn-Aktion mit FELIX Little Extras: Prämie oder Geld zurück",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.purina.de/felix/testen?sv1=affiliate&sv_campaign_id=88787&awc=80230_1789808902_c67ba725c53860f52058c1cd6140f4f8",
-      "conditionsUrl": "https://www.purina.de/felix/testen/teilnahmebedingungen",
-      "image": "uploads/Deals/purina_18b0b71d5b.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 21.09. bis 01.11.2026",
-        "Teilnahmeschluss: 15.11.2026",
-        "Aktionsprodukte: FELIX Sauce Time mit Geschmack von Huhn & Lachs 6 x 40 g, FELIX Sauce Time mit Geschmack von Huhn & Truthahn 6 x 40 g, FELIX Soup Time Original mit Rind, Huhn & Lamm 6 x 48 g, FELIX Soup Time Original mit Kabeljau, Thunfisch & Scholle 6 x 48 g, FELIX Soup Time Original mit Rind, Huhn & Thunfisch 6 x 48 g, FELIX Soup Time Tender Str",
-        "Limit: Je Prämie wird 3x verlost. Es wird ein Gesamtbetrag von 72.000 € ausgeschüttet. Falls dieser vor Aktionsende erreicht wird, werden keine weiteren Erstattungen erfolgen."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 21.09. bis 01.11.2026",
-      "purchaseEnd": "2026-11-01",
-      "deadline": "2026-11-15",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-09-21T07:57:20.720Z",
-      "verified": false,
-      "cities": [],
-      "category": "Tierbedarf",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
