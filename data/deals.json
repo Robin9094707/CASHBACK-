@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T21:46:43.988060+00:00",
-  "lastSuccessAt": "2026-11-03T21:46:43.988060+00:00",
+  "generatedAt": "2026-11-04T02:18:27.895011+00:00",
+  "lastSuccessAt": "2026-11-04T02:18:27.895011+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 42,
-      "updatedAt": "2026-11-03T21:46:43.988060+00:00"
+      "updatedAt": "2026-11-04T02:18:27.895011+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 14,
-      "updatedAt": "2026-11-03T21:46:43.988060+00:00"
+      "count": 13,
+      "updatedAt": "2026-11-04T02:18:27.895011+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-03T21:46:43.988060+00:00"
+      "updatedAt": "2026-11-04T02:18:27.895011+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-03T21:46:43.988060+00:00"
+      "updatedAt": "2026-11-04T02:18:27.895011+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-03T21:46:43.988060+00:00"
+      "updatedAt": "2026-11-04T02:18:27.895011+00:00"
     }
   ],
   "deals": [
@@ -1272,28 +1272,6 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/eine-weihnachtsgeschichte-von-charles-dickens-gratis-als-hoerbuch/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/11/weihnachtsgeschichte-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-03T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-e3c44ffcb7ab3371f9",
-      "title": "GRATIS: Football Manager 27 fünf Tage kostenlos spielen (PC/Mac, 29.10. bis 03.11.), Karriere später weiterspielen",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-football-manager-27-fuenf-tage-kostenlos-spielen-pc-mac-29-10-bis-03-11-karriere-spaeter-weiterspielen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-football-manager-27-fuenf-tage-kostenlos-spielen-pc-mac-29-10-bis-03-11-karriere-spaeter-weiterspielen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/fm27-1x1-1-300x300.png",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
