@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T21:47:03.343909+00:00",
-  "lastSuccessAt": "2026-11-07T21:47:03.343909+00:00",
+  "generatedAt": "2026-11-08T01:25:26.674984+00:00",
+  "lastSuccessAt": "2026-11-08T01:25:26.674984+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 42,
-      "updatedAt": "2026-11-07T21:47:03.343909+00:00"
+      "count": 41,
+      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 10,
-      "updatedAt": "2026-11-07T21:47:03.343909+00:00"
+      "count": 11,
+      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-07T21:47:03.343909+00:00"
+      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-11-07T21:47:03.343909+00:00"
+      "count": 6,
+      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-07T21:47:03.343909+00:00"
+      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
     }
   ],
   "deals": [
@@ -997,33 +997,6 @@
       ]
     },
     {
-      "id": "sparwelt-6032",
-      "title": "Reese’s kaufen, Geld zurück erhalten & Gewinnchance sichern!",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://reeses-aktion.de/",
-      "conditionsUrl": "https://reeses-aktion.de/media/germany/Reeses_HALLOWEEN_2026_TCs/b48c4914bad873b5f46538719df81472.pdf",
-      "image": "uploads/Deals/Reeses_03_09_2026_df9fa8c71b.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 01.09.2026 bis 07.11.2026",
-        "Teilnahmeschluss: 07.11.2026",
-        "Aktionsprodukt: Zwei teilnehmende Reese’s Produkte aus dem Aktionssortiment, darunter Peanut Butter Cups, Peanut Butter Pieces, Dipped Peanuts und Block Bars",
-        "Limit: Pro Tag sind maximal 350 Teilnahmen möglich, insgesamt ist die Aktion auf 20.650 Teilnahmen begrenzt. Beim Kauf von zwei Aktionsprodukten wird der günstigere Kaufpreis bis maximal 2,19 € erstattet. Zusätzlich besteht die Chance auf ein VIP-Paket nach Los Angeles im Wert von bis zu 10.000 € sowie auf 50 Reese’s Produktpakete. Eine Teilnahme p"
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 01.09.2026 bis 07.11.2026",
-      "purchaseEnd": "2026-11-07",
-      "deadline": "2026-11-07",
-      "reward": "Cashback",
-      "amountCents": 219,
-      "published": "2026-09-03T13:24:36.675Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-5997",
       "title": "1 Packung nutella Croissant oder nutella Donut kaufen, 1€ Cashback erhalten",
       "kind": "Cashback",
@@ -1129,6 +1102,52 @@
       "cities": [],
       "category": "Weitere",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
+    },
+    {
+      "id": "public-a27b2b4be34fb5a062",
+      "title": "[Vorankündigung] Ab 12.11., 17 Uhr: Knightica GRATIS im Epic Games Store (statt 14,99 €) dauerhaft behalten",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/vorankuendigung-ab-12-11-17-uhr-knightica-gratis-im-epic-games-store-statt-1499-e-dauerhaft-behalten/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/vorankuendigung-ab-12-11-17-uhr-knightica-gratis-im-epic-games-store-statt-1499-e-dauerhaft-behalten/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/knightica-wide-v1-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-08T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-4360f2504a9d643798",
+      "title": "Gratis Mehrweg Brotbeutel in der Lidl App ab 5 Euro MEW",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-mehrweg-brotbeutel-in-der-lidl-app-ab-5-euro-mew/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-mehrweg-brotbeutel-in-der-lidl-app-ab-5-euro-mew/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/6a7626b76ee4cc9c037aa9be9e83f8d89f63ad451451d15684a074abde3baa12-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-08T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
       "id": "public-08a0d3b3b0275feb7b",
@@ -1333,30 +1352,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-25240477ce4ef1abe6",
-      "title": "Abrahams Toast Lachs Gratis Testen",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/abrahams-toast-lachs-gratis-testen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/abrahams-toast-lachs-gratis-testen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/7d2158bd2c2779cb991333723ec7fe4a720003671e39e7e5995b5ed29e228d50-300x300.jpg",
-      "stores": [
-        "EDEKA"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-06T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-9962819e6fbd5f1295",
       "title": "Eff. GRATIS: Samsung 50″ Crystal UHD 4K Smart-TV für 89€ + 50GB 5G Vodafone Allnet Flat für 19,99€/Monat + 150€ Wechselbonus (Klarmobil Vodafone)",
       "kind": "Gratisartikel",
@@ -1420,6 +1415,58 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-07T13:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-9410341f4d7df58623",
+      "title": "Vodafone GigaZuhause 300 Glasfaser bei MediaMarkt: 350€ Cashback + 0€ Anschluss (effektiv 24,57€/Monat)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/vodafone-gigazuhause-300-glasfaser-cashback/1617159",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/festnetzvertraege/vodafone-gigazuhause-300-glasfaser-cashback/1617159",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/vodafone-gigazuhause-300-glasfaser-cashback-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "💰 Bonus: 350€ Cashback aufs Vertragskonto – alternativ 350€ Geschenkkarte oder Sachprämie für 1€ Zuzahlung",
+        "– 350€ Cashback",
+        "💸 Wann wird das Cashback ausgezahlt? Ihr löst den Prämiencode auf vorteile.mediamarkt.de ein, sobald eure zweite Vodafone-Rechnung vorliegt. Die Einlösung muss innerhalb von 12 Wochen nach Vertragsaktivierung erfolgen, ausgezahlt wird aufs Vertragskonto."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 35000,
+      "published": "2026-11-07T20:58:48+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-59249e1ed7cfe3bb30",
+      "title": "Advanzia Mastercard Gold: gebührenfrei + 50€ Bonus* + gratis Reiseversicherung",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/advanzia/1144451",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/advanzia/1144451",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/06/advanzia-mastercard-gold-thumb-badge.jpg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "Amazon Visa Kreditkarte: 50€ Startguthaben plus dauerhaftes Cashback – ein Heimspiel für Amazon-Vielbesteller, allerdings ohne klassische Reiseversicherung."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-07T20:55:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1525,28 +1572,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-07T15:45:24+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-5471ddd7464f3e6db0",
-      "title": "Offenbach: kostenloser ÖPNV und gratis Parken an den Adventssamstagen",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/offenbach-kostenloser-oepnv-parken-adventssamstage/1619873",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/offenbach-kostenloser-oepnv-parken-adventssamstage/1619873",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/offenbach-kostenloser-oepnv-parken-advent-600x400.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-07T14:55:13+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
