@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T01:25:26.674984+00:00",
-  "lastSuccessAt": "2026-11-08T01:25:26.674984+00:00",
+  "generatedAt": "2026-11-08T08:57:25.520260+00:00",
+  "lastSuccessAt": "2026-11-08T08:57:25.520260+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 41,
-      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
+      "updatedAt": "2026-11-08T08:57:25.520260+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
+      "updatedAt": "2026-11-08T08:57:25.520260+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
+      "updatedAt": "2026-11-08T08:57:25.520260+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 6,
-      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
+      "count": 5,
+      "updatedAt": "2026-11-08T08:57:25.520260+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-08T01:25:26.674984+00:00"
+      "updatedAt": "2026-11-08T08:57:25.520260+00:00"
     }
   ],
   "deals": [
@@ -1104,6 +1104,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-6f0ba0c30b4628791d",
+      "title": "Call of Duty: Modern Warfare 4 DMZ kostenlos testen bis 11.11., 19 Uhr",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/call-of-duty-modern-warfare-4-dmz-kostenlos-testen-bis-11-11-19-uhr/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/call-of-duty-modern-warfare-4-dmz-kostenlos-testen-bis-11-11-19-uhr/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/dmz-wide-v1-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-08T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-a27b2b4be34fb5a062",
       "title": "[Vorankündigung] Ab 12.11., 17 Uhr: Knightica GRATIS im Epic Games Store (statt 14,99 €) dauerhaft behalten",
       "kind": "Gratisartikel",
@@ -1330,22 +1352,25 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-f614633dc4b28e4bd7",
-      "title": "GRATIS: Die hässlichste Postkarte der Heilsarmee – gedruckt und an den Empfänger geschickt",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-die-haesslichste-postkarte-der-heilsarmee-gedruckt-und-an-den-empfaenger-geschickt/",
+      "id": "public-8d5609b90d49fe5f6b",
+      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-die-haesslichste-postkarte-der-heilsarmee-gedruckt-und-an-den-empfaenger-geschickt/",
+      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/heilsarmee-wide-v4-300x300.png",
+      "image": "",
       "stores": [],
-      "facts": [],
+      "facts": [
+        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
+        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
+      ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-07T00:00:00+02:00",
+      "published": "2026-11-08T08:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1374,31 +1399,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-8d5609b90d49fe5f6b",
-      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
-      "conditionsUrl": "",
-      "image": "",
-      "stores": [],
-      "facts": [
-        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
-        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-07T14:30:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-b8995355678de5d846",
       "title": "🌺 10 Ausgaben GartenFlora für 16,95€ + 5€ BestChoice-Gutschein",
       "kind": "Coupons",
@@ -1415,6 +1415,28 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-07T13:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ce819c77708ba2c488",
+      "title": "2 Player Quiz Pro: Wissensquiz Party-Spiel-App für Android gratis",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/2-player-quiz-pro-wissensquiz-gratis/1620005",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/2-player-quiz-pro-wissensquiz-gratis/1620005",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/2-player-quiz-pro-wissensquiz-app-600x600.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-08T06:22:47+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1524,54 +1546,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-07T17:22:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-51d950c72d8aea2760",
-      "title": "Samsung GU75M80H 75-Zoll Mini-LED-Fernseher + GTA 6 gratis für 799€",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/elektronik-computer/tv-fernsehen/samsung-gu75m80h-75-zoll-mini-led-gta-6-gratis/1619860",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/tv-fernsehen/samsung-gu75m80h-75-zoll-mini-led-gta-6-gratis/1619860",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/samsung-gu75m80h-mini-led-75-zoll-600x600.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-07T15:46:06+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-85f48cea7f0a750da6",
-      "title": "Lidl Plus: verlängerte Rückgabefrist für Weihnachtsbestellungen kostenlos",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/lidl-plus-verlaengerte-rueckgabefrist-weihnachten/1619863",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/lidl-plus-verlaengerte-rueckgabefrist-weihnachten/1619863",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/lidl-plus-verlaengerte-rueckgabefrist-weihnachten-600x400.jpg",
-      "stores": [
-        "Lidl"
-      ],
-      "facts": [
-        "🚚 Rücksendebedingungen: Rückgabe bis 31.01.2027 für Bestellungen im Aktionszeitraum"
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-07T15:45:24+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
