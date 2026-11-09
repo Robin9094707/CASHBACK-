@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T22:01:13.969643+00:00",
-  "lastSuccessAt": "2026-11-08T22:01:13.969643+00:00",
+  "generatedAt": "2026-11-09T01:43:02.723146+00:00",
+  "lastSuccessAt": "2026-11-09T01:43:02.723146+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 41,
-      "updatedAt": "2026-11-08T22:01:13.969643+00:00"
+      "count": 38,
+      "updatedAt": "2026-11-09T01:43:02.723146+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-11-08T22:01:13.969643+00:00"
+      "updatedAt": "2026-11-09T01:43:02.723146+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-08T22:01:13.969643+00:00"
+      "updatedAt": "2026-11-09T01:43:02.723146+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-11-08T22:01:13.969643+00:00"
+      "updatedAt": "2026-11-09T01:43:02.723146+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-08T22:01:13.969643+00:00"
+      "updatedAt": "2026-11-09T01:43:02.723146+00:00"
     }
   ],
   "deals": [
@@ -339,32 +339,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-6326",
-      "title": "Kraft Käse gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.kraft-kaese-gratistesten.de/",
-      "conditionsUrl": "https://www.kraft-kaese-gratistesten.de/terms",
-      "image": "uploads/Deals/kraft_fad1cc37a5.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 28.09. – 08.11.2026",
-        "Aktionsprodukte: Kraft Käse Creme 150 g, Kraft Burger Scheiben 175 g, Kraft Toast Scheiben 175 g, Kraft Snack Würfel 130 g.",
-        "Limit: Die Aktion ist auf insgesamt 35.000 Teilnahmen (Kontigent) im gesamten Aktionszeitraum begrenzt und gilt nur, solange das Kontigent reicht. Das wöchentliche Einlöse-Kontingent im Zeitraum von 28.09. bis 04.10.2026 beträgt 10.000 Einlösungen. In dem Zeitraum von 05.10. bis 08.11.2026 liegt das wöchentliche Kontingent bei jeweils 5.000 Einlösu"
-      ],
-      "purchasePeriod": "Limit: Die Aktion ist auf insgesamt 35.000 Teilnahmen (Kontigent) im gesamten Aktionszeitraum begrenzt und gilt nur, solange das Kontigent reicht. Das wöchentliche Einlöse-Kontingent im Zeitraum von 28.09. bis 04.10.2026 beträgt 10.000 Einlösungen. In dem Zeitraum von 05.10. bis 08.11.2026 liegt das wöchentliche Kontingent bei jeweils 5.000 Einlösungen.",
-      "purchaseEnd": "2026-11-08",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 269,
-      "published": "2026-09-29T06:40:56.498Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-6311",
       "title": "Gratis testen: Oral-B Pro 3D White Clinical Intensive Whitening",
       "kind": "Gratis testen",
@@ -388,33 +362,6 @@
       "verified": false,
       "cities": [],
       "category": "Drogerie",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6180",
-      "title": "Air Wick gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://gratis.testen.airwick.de/",
-      "conditionsUrl": "https://jolt-assets.s3.eu-central-1.amazonaws.com/template/airwick-gratis-testen/terms.pdf",
-      "image": "uploads/Deals/airwick_3986509d38.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 14.09.2026 - 08.11.2026",
-        "Teilnahmeschluss: 08.11.2026",
-        "Aktionsprodukte: Air Wick Starter-Sets und Einzelgerät-Nachfüller-Kombinationen. Alle Produkte sind samt EAN-Codes in den Teilnahmebedingungen aufgeführt.",
-        "Limit: Pro Tag werden maximal 1000 Teilnahmen akzeptiert, der Zähler wird täglich um 9 Uhr MEZ"
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 14.09.2026 - 08.11.2026",
-      "purchaseEnd": "2026-11-08",
-      "deadline": "2026-11-08",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-09-15T06:01:15.654Z",
-      "verified": false,
-      "cities": [],
-      "category": "Haushalt",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -575,33 +522,6 @@
       "verified": false,
       "cities": [],
       "category": "Drogerie",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-5914",
-      "title": "Arla Skyr - gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://arla-skyr-promotion.de/terms",
-      "conditionsUrl": "https://arla-skyr-promotion.de/terms",
-      "image": "uploads/arla_c2afa21f8f.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum: 31.08. – 08.11.2026",
-        "Teilnahmeschluss: 08.11.2026, 23:59 Uhr",
-        "Aktionsprodukte: Arla® Skyr Drink Natur, Arla® Skyr Drink Erdbeere Himbeere und Arla® Skyr Drink Pfirsich Maracuja",
-        "Limit: Die Aktion ist auf 555 Teilnahmen täglich begrenzt."
-      ],
-      "purchasePeriod": "Aktionszeitraum: 31.08. – 08.11.2026",
-      "purchaseEnd": "2026-11-08",
-      "deadline": "2026-11-08",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-08-30T22:02:00.002Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
@@ -1151,7 +1071,7 @@
     },
     {
       "id": "public-3596ea59a568a57359",
-      "title": "Florette Geld-zurück-Aktion: 100 % Frische-Zufriedenheit oder Kaufpreis sichern!",
+      "title": "Florette Geld-zurück-Aktion: 100 % Frische-Zufriedenheit oder Kaufpreis sichern! - ab 19.10.2026",
       "kind": "Gratis testen",
       "reward": "100 %",
       "url": "https://www.dealdoktor.de/user-deals/florette-geld-zurueck-aktion-100-frische-zufriedenheit-oder-kaufpreis-sichern/",
