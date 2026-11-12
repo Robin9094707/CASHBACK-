@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T17:52:33.690233+00:00",
-  "lastSuccessAt": "2026-11-11T17:52:33.690233+00:00",
+  "generatedAt": "2026-11-12T00:39:16.008818+00:00",
+  "lastSuccessAt": "2026-11-12T00:39:16.008818+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 40,
-      "updatedAt": "2026-11-11T17:52:33.690233+00:00"
+      "updatedAt": "2026-11-12T00:39:16.008818+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 11,
-      "updatedAt": "2026-11-11T17:52:33.690233+00:00"
+      "count": 9,
+      "updatedAt": "2026-11-12T00:39:16.008818+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-11T17:52:33.690233+00:00"
+      "updatedAt": "2026-11-12T00:39:16.008818+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-11-11T17:52:33.690233+00:00"
+      "count": 1,
+      "updatedAt": "2026-11-12T00:39:16.008818+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-11T17:52:33.690233+00:00"
+      "updatedAt": "2026-11-12T00:39:16.008818+00:00"
     }
   ],
   "deals": [
@@ -1078,28 +1078,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "public-35ce3e1c1212c6b0c3",
-      "title": "AOK Bayern (lokal): Gratis Sportbeutel für dich",
-      "kind": "Lokal",
-      "reward": "Lokaler Hinweis",
-      "url": "https://www.dealdoktor.de/user-deals/aok-bayern-lokal-gratis-sportbeutel-fuer-dich/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/aok-bayern-lokal-gratis-sportbeutel-fuer-dich/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/AOK-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-11T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-0a8ea4322758c55763",
       "title": "Hörspiel der Kultreihe Professor van Dusen gratis beim Deutschlandfunk!",
       "kind": "Gratisartikel",
@@ -1109,28 +1087,6 @@
       "sourceUrl": "https://www.dealdoktor.de/user-deals/hoerspiel-der-kultreihe-professor-van-dusen-gratis-beim-deutschlandfunk/",
       "conditionsUrl": "",
       "image": "https://www.dealdoktor.de/app/uploads/2026/11/professor-van-dusen-cover-100-1920x640-1-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-11T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-13760c65988647429e",
-      "title": "Magenta Moments Mittwoch: am Glücksrad drehen und 5€ Gutschein (ab 15€ Einkaufswert) für Nordsee erhalten",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/user-deals/magenta-moments-mittwoch-am-gluecksrad-drehen-und-5e-gutschein-ab-15e-einkaufswert-fuer-nordsee-erhalten/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/magenta-moments-mittwoch-am-gluecksrad-drehen-und-5e-gutschein-ab-15e-einkaufswert-fuer-nordsee-erhalten/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_5623-300x300.jpeg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
@@ -1210,31 +1166,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-0f1402cdd3f4adae5e",
-      "title": "granini MIX-IT gratis testen! 🍹",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/granini-mix-it-gratis-testen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/granini-mix-it-gratis-testen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/18458cb4e09dde72f6b363d4785f0db1b84d41b2c01aae462ab6e12d0876e2eb-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-10T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen",
-      "otherSources": [
-        "Kostenlos.de"
-      ]
-    },
-    {
       "id": "public-247d04b6667f252fbc",
       "title": "AXE Fine Fragrance Body Wash gratis testen dank Zufriedenheitsgarantie! 😀",
       "kind": "Gratis testen",
@@ -1308,6 +1239,53 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-ea5cbb060ac94424e2",
+      "title": "🎮 [PlayStation Plus] 3 Monate YouTube Premium kostenlos testen",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/playstation-plus-3-monate-youtube-premium-kostenlos-testen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/playstation-plus-3-monate-youtube-premium-kostenlos-testen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/youtube-premium-ps-plus_1080x1080-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-09T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-8d5609b90d49fe5f6b",
+      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [],
+      "facts": [
+        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
+        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-11T18:15:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-b67b8405e3d69b8796",
       "title": "Bergfreunde Black Week: Bis zu 50% Rabatt auf Jacken, Stiefel & mehr – z.B. Lowe Trekkingrucksack für 81,33€ (statt 101€)",
       "kind": "Coupons",
@@ -1330,24 +1308,22 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-11a0eb7d4e96f90963",
-      "title": "💛 Lidl: 11% Rabatt auf alles im Onlineshop",
-      "kind": "Coupons",
-      "reward": "11 %",
-      "url": "https://www.dealdoktor.de/lidl-single-day/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/lidl-single-day/",
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ *KNALLER* Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2025/11/Lidl_Singles_Day.png",
-      "stores": [
-        "Lidl"
-      ],
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-11T16:15:00+00:00",
+      "published": "2026-11-11T21:11:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1428,6 +1404,35 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-11T11:39:52+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ed77a848151873a2ee",
+      "title": "granini MIX-IT gratis testen",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.kostenlos.de/granini-mix-it-gratis-testen",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/granini-mix-it-gratis-testen",
+      "conditionsUrl": "",
+      "image": "https://www.kostenlos.de/app/uploads/2026/11/granini_Mix-it_gratis_testen-750x300.jpg",
+      "stores": [],
+      "facts": [
+        "Aktionszeitraum: 09.11. – 13.12.2026",
+        "Kontingent: max. 7.500 Erstattungen",
+        "Zu den Teilnahmebedingungen",
+        "Wie lange kann man granini MIX-IT gratis testen? Ihr könnt granini MIX-IT vom 09. November bis spätestens 13. Dezember 2026 kostenlos probieren. Achtung: Die Aktion endet vorzeitig, sobald das knappe Kontingent von 7.500 Erstattungen aufgebraucht ist.",
+        "Ihr könnt granini MIX-IT vom 09. November bis spätestens 13. Dezember 2026 kostenlos probieren. Achtung: Die Aktion endet vorzeitig, sobald das knappe Kontingent von 7.500 Erstattungen aufgebraucht ist.",
+        "Wann erhalte ich mein Geld zurück? Sollte das Geld nicht innerhalb von 30 Tagen nach der Teilnahmebestätigung auf eurem Konto sein, könnt ihr euch beim Support melden."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-11T11:19:15+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
