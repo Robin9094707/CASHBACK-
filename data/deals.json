@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T01:03:22.171721+00:00",
-  "lastSuccessAt": "2026-11-13T01:03:22.171721+00:00",
+  "generatedAt": "2026-11-13T09:28:55.370750+00:00",
+  "lastSuccessAt": "2026-11-13T09:28:55.370750+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 40,
-      "updatedAt": "2026-11-13T01:03:22.171721+00:00"
+      "updatedAt": "2026-11-13T09:28:55.370750+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-13T01:03:22.171721+00:00"
+      "updatedAt": "2026-11-13T09:28:55.370750+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-13T01:03:22.171721+00:00"
+      "count": 1,
+      "updatedAt": "2026-11-13T09:28:55.370750+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-13T01:03:22.171721+00:00"
+      "updatedAt": "2026-11-13T09:28:55.370750+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-13T01:03:22.171721+00:00"
+      "updatedAt": "2026-11-13T09:28:55.370750+00:00"
     }
   ],
   "deals": [
@@ -65,10 +65,7 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "DealDoktor"
-      ]
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-6711",
@@ -1078,6 +1075,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-71532332009a9a8ee7",
+      "title": "Rügenwalder Mühle – Vegane Mühlen Chunks gratis testen (bis zu 3,29 € Cashback)",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/ruegenwalder-muehle-vegane-muehlen-chunks-gratis-testen-bis-zu-329-e-cashback/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/ruegenwalder-muehle-vegane-muehlen-chunks-gratis-testen-bis-zu-329-e-cashback/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8077-300x300.jpeg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum: 04.01.2027 bis 28.02.2027",
+      "purchaseEnd": "2027-02-28",
+      "deadline": "",
+      "amountCents": 329,
+      "published": "2026-11-13T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-d9b87e5c8b6071b521",
       "title": "Geld und Geldpolitik: Sichere dir ein Gratisexemplar",
       "kind": "Gratisartikel",
@@ -1320,44 +1339,71 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-d00b2af851a32a0267",
-      "title": "AliExpress 11.11 Sale 2026: Alle Gutscheine bis 120€ und unsere Top-Deals",
+      "id": "public-67e3886cb9e02a5a0a",
+      "title": "🚗 Verivox: Kfz Versicherung wechseln + 60€ BestChoice-/Amazon.de-Gutschein",
       "kind": "Coupons",
       "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/aliexpress-11-11-sale-2026/",
+      "url": "https://www.dealdoktor.de/verivox-kfz-bonus-deal/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/aliexpress-11-11-sale-2026/",
+      "sourceUrl": "https://www.dealdoktor.de/verivox-kfz-bonus-deal/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/realme-16-1-4.jpg",
-      "stores": [],
-      "facts": [],
+      "image": "https://www.dealdoktor.de/app/uploads/2026/08/Bildschirmfoto_2026-10-02_um_08.29.03-721x400.jpg",
+      "stores": [
+        "Rossmann",
+        "Amazon"
+      ],
+      "facts": [
+        "Während der Registrierung nicht auf anderen Seiten surfen (sonst kann es sein, dass euch euer Bonus nicht richtig zugeordnet werden kann)"
+      ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-12T19:30:00+00:00",
+      "published": "2026-11-13T09:17:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-b67b8405e3d69b8796",
-      "title": "Bergfreunde Black Week: Bis zu 50% Rabatt auf Jacken, Stiefel & mehr – z.B. Lowe Trekkingrucksack für 81,33€ (statt 101€)",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.dealdoktor.de/bergfreunde-black-week/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/bergfreunde-black-week/",
+      "id": "public-0263a40c2b087ad1df",
+      "title": "*GRATIS* LEGO Magazine für Kinder (5-9 Jahre)",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/abo-zeitschriften-magazine/lego-magazin/1352658",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/abo-zeitschriften-magazine/lego-magazin/1352658",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2023/11/Bergfreunde_Black_Week-750x286.jpg",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/lego-magazine-gratis-abo-kinder-600x600.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-12T18:32:00+00:00",
+      "published": "2026-11-13T09:12:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ *KNALLER* Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-13T08:57:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1404,54 +1450,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-12T19:00:27+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-6e51e7691622bd71a7",
-      "title": "Tineco Black Friday: 11 Nass-Trockensauger & Akkusauger mit Rabattcode – z.B. FLOOR ONE S7 Stretch Ultra für 215,26€",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/tineco-black-friday-rabattcode/1622583",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/tineco-black-friday-rabattcode/1622583",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/tineco-black-friday-2026-sammeldeal-600x400.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-12T15:09:08+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-b978bd416ffa85c42b",
-      "title": "FlexiSpot Black Friday: Bürostühle & Schreibtische mit bis zu 50 % Rabatt",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.monsterdealz.de/haushalt-garten/flexispot-black-friday-buerostuehle-schreibtische/1622530",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/flexispot-black-friday-buerostuehle-schreibtische/1622530",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/flexispot-black-friday-2026-600x400.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-12T14:47:57+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
