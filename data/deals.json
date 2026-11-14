@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T23:30:30.831406+00:00",
-  "lastSuccessAt": "2026-11-13T23:30:30.831406+00:00",
+  "generatedAt": "2026-11-14T06:17:49.761645+00:00",
+  "lastSuccessAt": "2026-11-14T06:17:49.761645+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 40,
-      "updatedAt": "2026-11-13T23:30:30.831406+00:00"
+      "updatedAt": "2026-11-14T06:17:49.761645+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
-      "count": 12,
-      "updatedAt": "2026-11-13T23:30:30.831406+00:00"
+      "count": 10,
+      "updatedAt": "2026-11-14T06:17:49.761645+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-13T23:30:30.831406+00:00"
+      "updatedAt": "2026-11-14T06:17:49.761645+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-13T23:30:30.831406+00:00"
+      "updatedAt": "2026-11-14T06:17:49.761645+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-13T23:30:30.831406+00:00"
+      "updatedAt": "2026-11-14T06:17:49.761645+00:00"
     }
   ],
   "deals": [
@@ -1075,6 +1075,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-86ef6b920533e6eaef",
+      "title": "CeraVe Intensive Feuchtigkeitscreme Probe gratis (Gewinnspiel)! 😊",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/cerave-intensive-feuchtigkeitscreme-probe-gratis-gewinnspiel/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/cerave-intensive-feuchtigkeitscreme-probe-gratis-gewinnspiel/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/a23ec17a21d8c7f66a2492d2f7acf8d834d154ea359e6a3d74fa43b081991401-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-14T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-87979851a661bcf7db",
       "title": "VICHY DERCO Vitalshampoo mit Aminexil® Shampoo Probe gratis (Gewinnspiel)! 🌹😊",
       "kind": "Gratisartikel",
@@ -1273,72 +1295,6 @@
       "deadline": "",
       "amountCents": 329,
       "published": "2026-11-13T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-d9b87e5c8b6071b521",
-      "title": "Geld und Geldpolitik: Sichere dir ein Gratisexemplar",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/geld-und-geldpolitik-sichere-dir-ein-gratisexemplar/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/geld-und-geldpolitik-sichere-dir-ein-gratisexemplar/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/geld-und-geldpolitik-2026.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-13T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-dfb119594aa9c26488",
-      "title": "Call of Duty Codes von Monster Dose gratis In-Game-Belohnungen Token",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/call-of-duty-codes-von-monster-dose-gratis-in-game-belohnungen-token/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/call-of-duty-codes-von-monster-dose-gratis-in-game-belohnungen-token/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/067e8edcb7b9133dd3b284e8d3f838de54d5b572bb552ec655da39e520369f08-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-12T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-45dd9a176b439613ec",
-      "title": "Neues gratis Hörbuch bei der Baumhausbande!!",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/neues-gratis-hoerbuch-bei-der-baumhausbande/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/neues-gratis-hoerbuch-bei-der-baumhausbande/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/thumbnail_hoerbuch_weihnachtszwoelf.1088x612-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-12T00:00:00+02:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
