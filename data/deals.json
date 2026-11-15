@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T01:53:03.775816+00:00",
-  "lastSuccessAt": "2026-11-15T01:53:03.775816+00:00",
+  "generatedAt": "2026-11-15T09:20:44.463071+00:00",
+  "lastSuccessAt": "2026-11-15T09:20:44.463071+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 40,
-      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
+      "updatedAt": "2026-11-15T09:20:44.463071+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
+      "updatedAt": "2026-11-15T09:20:44.463071+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
+      "count": 1,
+      "updatedAt": "2026-11-15T09:20:44.463071+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
+      "updatedAt": "2026-11-15T09:20:44.463071+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
+      "updatedAt": "2026-11-15T09:20:44.463071+00:00"
     }
   ],
   "deals": [
@@ -1351,6 +1351,52 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-c3c08c9b642a971b2e",
+      "title": "Claude Code in Action: kostenloser Online-Kurs der Anthropic Academy mit Zertifikat",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/claude-code-in-action-kurs-kostenlos/1623351",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/claude-code-in-action-kurs-kostenlos/1623351",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/claude-code-in-action-kurs-600x400.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-15T08:44:57+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-b9d767d7d32521d82b",
+      "title": "Xiaomi 18 Pro reservieren: 5 % Gutschein, Mi Points und Gratis-Zugabe zum Launch",
+      "kind": "Coupons",
+      "reward": "5 %",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/xiaomi-18-pro-reservieren-gutschein/1623394",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/xiaomi-18-pro-reservieren-gutschein/1623394",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/xiaomi-18-pro-reservierung-gutschein-600x400.jpg",
+      "stores": [],
+      "facts": [
+        "1️⃣ Die Xiaomi-Launch-Seite öffnen und mit eurem Mi-Konto einloggen (oder kostenlos registrieren)."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-15T07:44:55+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-bfde81f7f3c79b8204",
       "title": "eBay Re-Store Gutschein: 10 % Rabatt auf Technik & Haushaltsgeräte (max. 50€)",
       "kind": "Coupons",
@@ -1369,55 +1415,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-14T20:00:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-bbbb827b8207f5347e",
-      "title": "⏰ XTB Gratis-Aktie: kostenlose Porsche-Aktie für Neukunden ab 50€ Einzahlung",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/xtb-gratis-porsche-aktie/1621964",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/xtb-gratis-porsche-aktie/1621964",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/xtb-gratis-porsche-aktie-neukunden-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "💡 Besonderheit: Teilnahmebedingungen in der XTB-App bestätigen und 50€ einzahlen – beides binnen 7 Tagen ( Aktionsbedingungen bei XTB )",
-        "2️⃣ In der XTB Mobile App den Teilnahmebedingungen zustimmen."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-14T16:56:40+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-6d3463830fd04c6beb",
-      "title": "*TOP* 🛡️ ROLAND Rechtsschutz: 20 % Rabatt auf Premium ab 18,48€/Monat",
-      "kind": "Coupons",
-      "reward": "20 %",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/versicherungen/roland-rechtsschutz/1508491",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/versicherungen/roland-rechtsschutz/1508491",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/werbebanner-koe-20261113_werbebanner-750x300-1-600x240.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-14T16:44:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
