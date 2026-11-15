@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T20:41:49.539537+00:00",
-  "lastSuccessAt": "2026-11-14T20:41:49.539537+00:00",
+  "generatedAt": "2026-11-15T01:53:03.775816+00:00",
+  "lastSuccessAt": "2026-11-15T01:53:03.775816+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 40,
-      "updatedAt": "2026-11-14T20:41:49.539537+00:00"
+      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-14T20:41:49.539537+00:00"
+      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-14T20:41:49.539537+00:00"
+      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-11-14T20:41:49.539537+00:00"
+      "count": 3,
+      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-14T20:41:49.539537+00:00"
+      "updatedAt": "2026-11-15T01:53:03.775816+00:00"
     }
   ],
   "deals": [
@@ -1078,6 +1078,28 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-7b7f65bb1c82599b37",
+      "title": "gratis 3 Iglo TK Gerichte beim Kauf von Bosch Airfryer",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-3-iglo-tk-gerichte-beim-kauf-von-bosch-airfryer/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-3-iglo-tk-gerichte-beim-kauf-von-bosch-airfryer/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/62e5324d79f4c4457b2a97f8f85456126124b78669b54774604a3eb9720ac353-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-14T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-8f280b599188039002",
       "title": "[Vorankündigung] Alien: Isolation und Mark of the Deep ab 19.11. gratis im Epic Games Store (statt 59,49 €)",
       "kind": "Gratisartikel",
@@ -1113,6 +1135,28 @@
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-14T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-d68645f39e90485e49",
+      "title": "Kaba „Tatzen sammeln“: Gratis Prämien (Tasse, Kuschelbär, Socken, Hoodie u.a.) durch Sammeltatzen sichern",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/kaba-tatzen-sammeln-gratis-praemien-tasse-kuschelbaer-socken-hoodie-u-a-durch-sammeltatzen-sichern/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/kaba-tatzen-sammeln-gratis-praemien-tasse-kuschelbaer-socken-hoodie-u-a-durch-sammeltatzen-sichern/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/90ccba4f861438fe8c2cffb85dfa4f6a351104dfd096f0ec6cae363a0c7cfcb9-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum (01.07.2026 bis 30.06.2027",
+      "purchaseEnd": "2027-06-30",
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-14T00:00:00+02:00",
@@ -1282,52 +1326,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-a39efa78a1645723d2",
-      "title": "👑 Gala 6 Ausgaben kostenlos - nur 7,95€ Versand",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/probeabo-gala/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/probeabo-gala/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2025/01/Beitragsbilder_Nicole_59-300x300.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-13T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-7d6e51a59bd87f99e8",
-      "title": "Edeka [Südwest?] Challenge- Kaufe 5 Maggi Cups und erhalte die neuen Sorten ( eine davon ) Spicy Carbonara oder Smoky Mac and Cheese gratis dazu",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/edeka-suedwest-challenge-kaufe-5-maggi-cups-und-erhalte-die-neuen-sorten-eine-davon-spicy-carbonara-oder-smoky-mac-and-cheese-gratis-dazu/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/edeka-suedwest-challenge-kaufe-5-maggi-cups-und-erhalte-die-neuen-sorten-eine-davon-spicy-carbonara-oder-smoky-mac-and-cheese-gratis-dazu/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/006bc1809289960192d6b76eb5ed8e47ab2a8966c6a97fb0b3e3569a8c074574-300x300.jpg",
-      "stores": [
-        "EDEKA"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-13T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-8d5609b90d49fe5f6b",
       "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
       "kind": "Coupons",
@@ -1420,35 +1418,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-14T16:44:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-d5931a00195bc0ad02",
-      "title": "💥 Magenta TV Gutscheincode: Streaming-Bundles ab effektiv 7,21€/Monat + bis zu 70€ Cashback – Netflix, Disney & mehr zum Bestpreis",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.monsterdealz.de/medien-streaming/magentatv/1380470",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/magentatv/1380470",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/10/magentatv-megastream-70-euro-cashback-600x400.jpg",
-      "stores": [],
-      "facts": [
-        "💶 Cashback: 25€ bis 70€ über LogiTel – 70€ gibt es aktuell auf den MegaStream",
-        "📺 MagentaTV MegaStream – effektiv 19,58€/Monat (mit 70€ Aktions-Cashback)",
-        "🎁 Bonus: 25€ bis 70€ Cashback – erste Telekom-Rechnung bei Logitel einreichen",
-        "3️⃣ Den Cashback nach den Vorgaben von LogiTel beantragen – je nach Paket gibt es 25€ bis 70€ zurück aufs Konto.",
-        "❓ Gibt es aktuell einen Magenta TV Gutscheincode? Einen klassischen Code zum Einlösen bietet die Telekom nur selten an. Günstiger fahrt ihr mit den laufenden Aktions-Bundles ab effektiv 7,21€/Monat plus Cashback.",
-        "❓ Funktioniert ein Magenta TV Rabattcode oder Magenta TV Gutschein Code? Aktuell ist kein Rabattcode nötig – der Vorteil steckt in den 6 Freimonaten plus 25€ bis 70€ Cashback über LogiTel."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 7000,
-      "published": "2026-11-14T16:03:44+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
