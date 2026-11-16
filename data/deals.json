@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T22:46:27.424904+00:00",
-  "lastSuccessAt": "2026-11-15T22:46:27.424904+00:00",
+  "generatedAt": "2026-11-16T06:23:42.892980+00:00",
+  "lastSuccessAt": "2026-11-16T06:23:42.892980+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 40,
-      "updatedAt": "2026-11-15T22:46:27.424904+00:00"
+      "count": 36,
+      "updatedAt": "2026-11-16T06:23:42.892980+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-11-15T22:46:27.424904+00:00"
+      "updatedAt": "2026-11-16T06:23:42.892980+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 5,
-      "updatedAt": "2026-11-15T22:46:27.424904+00:00"
+      "updatedAt": "2026-11-16T06:23:42.892980+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-11-15T22:46:27.424904+00:00"
+      "count": 5,
+      "updatedAt": "2026-11-16T06:23:42.892980+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 0,
-      "updatedAt": "2026-11-15T22:46:27.424904+00:00"
+      "updatedAt": "2026-11-16T06:23:42.892980+00:00"
     }
   ],
   "deals": [
@@ -230,35 +230,6 @@
       "cities": [],
       "category": "Weitere",
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6379",
-      "title": "BiFi TASTY BITES gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.bifi-promotion.de/",
-      "conditionsUrl": "https://www.bifi-promotion.de/tnb",
-      "image": "uploads/Gratis_generisch/Geld_zurueck_2bf5e3f4d3.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 05.10.2026 bis 15.11.2026",
-        "Aktionsprodukte: BiFi Tasty Bites Hungarian Paprika Salami Stick 50g, BiFi Tasty Bites Italian Parmesan Thyme Chicken 50g.",
-        "Limit: Limitiert auf 333 Erstattungen täglich. Erstattung nur für ein Produkt. Nur eine Teilnahme pro Kaufbeleg, Person und Bankverbindung möglich."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 05.10.2026 bis 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-10-05T06:39:01.772Z",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "DealDoktor"
-      ]
     },
     {
       "id": "sparwelt-6370",
@@ -551,35 +522,6 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
-      "id": "sparwelt-6652",
-      "title": "Dove Refill-Set gratis testen bei dm",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://refill-set-gratis-testen.de/",
-      "conditionsUrl": "https://refill-set-gratis-testen.de/teilnahmebedingungen",
-      "image": "uploads/Gratis_generisch/Geld_zurueck_2bf5e3f4d3.jpg",
-      "stores": [
-        "dm"
-      ],
-      "facts": [
-        "Kaufzeitraum: 02.11.2026 - 15.11.2026",
-        "Teilnahmeschluss: 15.11.2026",
-        "Aktionsprodukt: Dove Refill Starter Kit Deo No. 44 Blüten- & rote Früchte Duft, Dove Refill Starter Kit Anti-Transpirant No. 1 Original, Dove Refill Starter Kit Anti-Transpirant No. 4 Veilchen- & Tonkabohnenduft",
-        "Limit: Die Aktion ist auf 3.500 Teilnahmen begrenzt."
-      ],
-      "purchasePeriod": "Kaufzeitraum: 02.11.2026 - 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "2026-11-15",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-11-01T23:02:00.003Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
       "id": "sparwelt-6776",
       "title": "Ferrero-Produkte für mind. 6€ kaufen und 3€ Cashback sichern",
       "kind": "Cashback",
@@ -706,32 +648,6 @@
       "reward": "Cashback",
       "amountCents": 0,
       "published": "2026-10-19T07:10:58.931Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6449",
-      "title": "2 Lorenz Aktionsprodukte kaufen, 1 x Geld zurück",
-      "kind": "Cashback",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.lorenz-aktion.de/",
-      "conditionsUrl": "https://www.lorenz-aktion.de/teilnahmebedingungen",
-      "image": "uploads/Gratis_generisch/Cashback_Rabatt_cd38c34a76.jpg",
-      "stores": [],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 28.09.2026 bis 15.11.2026",
-        "Aktionsprodukte: Als Aktionsprodukte gelten alle Produkte der Marke Lorenz, Großpackungen, Kartonware oder Produkt-Bundles sind von der Aktion ausgenommen.",
-        "Limit: Die Anzahl der zulässigen Teilnahmen an der Aktion ist auf ein Gesamtkontingent von maximal 49.000 Teilnahmen beschränkt."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 28.09.2026 bis 15.11.2026",
-      "purchaseEnd": "2026-11-15",
-      "deadline": "",
-      "reward": "Cashback",
-      "amountCents": 0,
-      "published": "2026-10-08T08:46:17.460Z",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -965,10 +881,7 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht",
-      "otherSources": [
-        "SPARWELT"
-      ]
+      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
       "id": "sparwelt-5874",
@@ -1258,6 +1171,28 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-0648b935580b709377",
+      "title": "Jetzt wieder BiFi Tasty Bites Gratis testen [neue Aktion]! 😀",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/jetzt-wieder-bifi-bites-gratis-testen-neue-aktion/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/jetzt-wieder-bifi-bites-gratis-testen-neue-aktion/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/10/e70c19a461fa8cc4dc4c18cf15df0c40d92042d8b847785f0847a0684273ba23-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-14T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-86ef6b920533e6eaef",
       "title": "CeraVe Intensive Feuchtigkeitscreme Probe gratis (Gewinnspiel)! 😊",
       "kind": "Gratisartikel",
@@ -1393,6 +1328,28 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-15T14:12:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-e772e1c05d42af80ac",
+      "title": "zooplus Black Week: bis zu 40% Rabatt auf Eigenmarken-Futter und Zubehör",
+      "kind": "Coupons",
+      "reward": "40 %",
+      "url": "https://www.monsterdealz.de/shopping/zooplus-black-week-2026-bis-40-prozent/1616596",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/zooplus-black-week-2026-bis-40-prozent/1616596",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/10/zooplus-black-friday-phase-2-600x400.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-15T23:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
