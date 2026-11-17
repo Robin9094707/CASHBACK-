@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T18:29:40.545414+00:00",
-  "lastSuccessAt": "2026-11-16T18:29:40.545414+00:00",
+  "generatedAt": "2026-11-17T02:54:51.175968+00:00",
+  "lastSuccessAt": "2026-11-17T02:54:51.175968+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 36,
-      "updatedAt": "2026-11-16T18:29:40.545414+00:00"
+      "updatedAt": "2026-11-17T02:54:51.175968+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-11-16T18:29:40.545414+00:00"
+      "updatedAt": "2026-11-17T02:54:51.175968+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-16T18:29:40.545414+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-17T02:54:51.175968+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-16T18:29:40.545414+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-17T02:54:51.175968+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-16T18:29:40.545414+00:00"
+      "updatedAt": "2026-11-17T02:54:51.175968+00:00"
     }
   ],
   "deals": [
@@ -1252,7 +1252,7 @@
       "source": "DealDoktor",
       "sourceUrl": "https://www.dealdoktor.de/comdirect-pure-depot-bonus-deal/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Bildschirmfoto_2026-11-02_um_11.43.53-750x307.jpg",
+      "image": "https://www.dealdoktor.de/app/uploads/2025/10/app_download.png",
       "stores": [
         "Rossmann",
         "Amazon"
@@ -1269,25 +1269,24 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-8d5609b90d49fe5f6b",
-      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
+      "id": "public-0818a5a5b68b4d60b7",
+      "title": "FlexiSpot Laufband Walking Pad mit 7 % Steigung für 99,99€ (mit Coupon)",
       "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "reward": "7 %",
+      "url": "https://www.monsterdealz.de/hobby-freizeit/drohnen-fahrraeder-sport/flexispot-laufband-walking-pad-fuer-13299e/1488367",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/hobby-freizeit/drohnen-fahrraeder-sport/flexispot-laufband-walking-pad-fuer-13299e/1488367",
       "conditionsUrl": "",
-      "image": "",
-      "stores": [],
-      "facts": [
-        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
-        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/flexispot-walking-pad-laufband-7-prozent-steigung-600x600.jpg",
+      "stores": [
+        "Amazon"
       ],
+      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-16T17:15:00+00:00",
+      "published": "2026-11-16T20:10:14+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1312,52 +1311,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-16T16:35:40+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-b3890b3fb60b46d836",
-      "title": "*TIPP* Google Play Guthaben 50€ als Digitalcode für 50€ + 5€ MediaMarkt-Coupon gratis",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/gutscheine-rabatte/google-play-guthaben-50-euro-mediamarkt-coupon/1625040",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/gutscheine-rabatte/google-play-guthaben-50-euro-mediamarkt-coupon/1625040",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/google-play-guthaben-50-euro-mediamarkt-coupon-600x600.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-16T14:12:06+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-ddfed7675ae7a5cc49",
-      "title": "💳 Bis zu 5.000 PAYBACK Punkte (50€) für die kostenlose Amex",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/payback-amex-kreditkarte/848336",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/payback-amex-kreditkarte/848336",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/payback-amex-kreditkarte-5000-punkte-600x400.jpg",
-      "stores": [
-        "dm"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-16T13:37:24+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
