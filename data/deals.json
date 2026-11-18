@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T22:19:37.891238+00:00",
-  "lastSuccessAt": "2026-11-17T22:19:37.891238+00:00",
-  "status": "ok",
+  "generatedAt": "2026-11-18T07:23:22.825200+00:00",
+  "lastSuccessAt": "2026-11-18T07:23:22.825200+00:00",
+  "status": "partial",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
-      "status": "ok",
-      "count": 36,
-      "updatedAt": "2026-11-17T22:19:37.891238+00:00"
+      "status": "error",
+      "count": 0,
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 7,
-      "updatedAt": "2026-11-17T22:19:37.891238+00:00"
+      "updatedAt": "2026-11-18T07:23:22.825200+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-17T22:19:37.891238+00:00"
+      "updatedAt": "2026-11-18T07:23:22.825200+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-17T22:19:37.891238+00:00"
+      "updatedAt": "2026-11-18T07:23:22.825200+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 3,
-      "updatedAt": "2026-11-17T22:19:37.891238+00:00"
+      "updatedAt": "2026-11-18T07:23:22.825200+00:00"
     }
   ],
   "deals": [
@@ -991,6 +991,32 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-e8c70ae338a8840383",
+      "title": "100 % Cashback auf tetesept Kreatin + Magnesium – bei Rossmann, dm & Müller",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8204-300x300.jpeg",
+      "stores": [
+        "dm",
+        "Rossmann",
+        "Müller"
+      ],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum: Kaufzeitraum: 16.11.2026 – 13.12.2026",
+      "purchaseEnd": "2026-12-13",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-18T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-3446bcf132cf89458c",
       "title": "Rewe Nikolausstiefel Aktion 2026! Bastelvorlage abholen & ausmalen, abgeben und kostenlos gefüllt bekommen! Ab 16.11.2026! 🎅",
       "kind": "Gratisartikel",
@@ -1072,32 +1098,6 @@
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-16T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-e8c70ae338a8840383",
-      "title": "100 % Cashback auf tetesept Kreatin + Magnesium – bei Rossmann, dm & Müller",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8204-300x300.jpeg",
-      "stores": [
-        "dm",
-        "Rossmann",
-        "Müller"
-      ],
-      "facts": [],
-      "purchasePeriod": "Aktionszeitraum: Kaufzeitraum: 16.11.2026 – 13.12.2026",
-      "purchaseEnd": "2026-12-13",
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-16T00:00:00+02:00",
