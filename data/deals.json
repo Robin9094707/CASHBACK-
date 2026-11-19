@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T00:20:37.172529+00:00",
-  "lastSuccessAt": "2026-11-19T00:20:37.172529+00:00",
+  "generatedAt": "2026-11-19T10:17:25.159771+00:00",
+  "lastSuccessAt": "2026-11-19T10:17:25.159771+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-19T00:20:37.172529+00:00"
+      "updatedAt": "2026-11-19T10:17:25.159771+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-11-19T00:20:37.172529+00:00"
+      "updatedAt": "2026-11-19T10:17:25.159771+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-19T00:20:37.172529+00:00"
+      "count": 0,
+      "updatedAt": "2026-11-19T10:17:25.159771+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-19T00:20:37.172529+00:00"
+      "count": 7,
+      "updatedAt": "2026-11-19T10:17:25.159771+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 4,
-      "updatedAt": "2026-11-19T00:20:37.172529+00:00"
+      "updatedAt": "2026-11-19T10:17:25.159771+00:00"
     }
   ],
   "deals": [
@@ -1199,15 +1199,59 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-fee2d6746f4e2b7f72",
-      "title": "🔥 Amazon Retourenkauf: 15% Zusatz-Rabatt auf ausgewählte Artikel der Kategorie Rücksendung (ehemals Amazon Warehouse)",
+      "id": "public-e14189e6589b1766f4",
+      "title": "Schiesser Black Week: 22 % Rabatt auf alles – direkt im Shop abgezogen",
+      "kind": "Coupons",
+      "reward": "22 %",
+      "url": "https://www.monsterdealz.de/mode-beauty/kleidung-schuhe/schiesser-black-week-22-prozent-rabatt/1621386",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/mode-beauty/kleidung-schuhe/schiesser-black-week-22-prozent-rabatt/1621386",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/schiesser-black-week-22-prozent-rabatt-600x400.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-19T08:27:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-f3310d2b59f4df7423",
+      "title": "Teppich.de Gutschein: bis zu 60 % Rabatt zur Black Week + exklusiver 43%-Code",
+      "kind": "Coupons",
+      "reward": "60 %",
+      "url": "https://www.monsterdealz.de/haushalt-garten/mobel/teppich-de/1461342",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/mobel/teppich-de/1461342",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/teppich-de-gutschein-black-week-600x400.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-19T06:45:24+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-ea8d16b8c54e4f0616",
+      "title": "Amazon Retourenkauf: 15% Rabatt auf ausgewählte Retouren an der Kasse",
       "kind": "Coupons",
       "reward": "15 %",
-      "url": "https://www.dealdoktor.de/amazon-retourenkauf/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/amazon-retourenkauf/",
+      "url": "https://www.monsterdealz.de/shopping/amazon-retourenkauf/1123750",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/shopping/amazon-retourenkauf/1123750",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2024/11/Andere_Verkaeufer_bei_Amazon.jpg",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/amazon-retourenkauf-15-prozent-black-week-2026-600x400.jpg",
       "stores": [
         "Amazon"
       ],
@@ -1216,29 +1260,53 @@
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-18T22:01:00+00:00",
+      "published": "2026-11-19T05:38:31+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-6d9d17fbbaa8d7d694",
-      "title": "Eff. GRATIS: Google Pixel 11 (256GB) für 99,95€ + 250GB Vodafone LTE/5G Allnet für 22,49€/Monat + 10€ Wechselbonus (otelo Allnet-Flat Classic Plus)",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/google-pixel-11-otelo-allnet-flat-classic-plus/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/google-pixel-11-otelo-allnet-flat-classic-plus/",
+      "id": "public-e081cfae37dead6866",
+      "title": "Cyberport Black Week 2026: über 950 Technik-Deals mit bis zu 60 % Rabatt",
+      "kind": "Coupons",
+      "reward": "60 %",
+      "url": "https://www.monsterdealz.de/elektronik-computer/computer-notebooks-tablets/cyberport-black-week/1381911",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/computer-notebooks-tablets/cyberport-black-week/1381911",
       "conditionsUrl": "",
-      "image": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/cyberport-black-week-2026-600x400.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-18T17:30:00+00:00",
+      "published": "2026-11-19T05:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-50906ffd5942ec1672",
+      "title": "SharkNinja Black Week: 48h Flash Sale + 10 % Newsletter-Rabatt on top auf Ninja & Shark",
+      "kind": "Coupons",
+      "reward": "10 %",
+      "url": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/sharkninja-black-week-10-prozent-newsletter-rabatt/1623555",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/haushalt-garten/haushaltsgeraete/sharkninja-black-week-10-prozent-newsletter-rabatt/1623555",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/sharkninja-black-week-10-prozent-newsletter-600x400.jpg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-19T04:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1289,28 +1357,25 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-19ba72e75f69d105a1",
-      "title": "🔥 *KRACHER* Verivox Zahnzusatzversicherung 100€ Bonus + gratis happybrush Zahnbürste 🦷",
+      "id": "public-e72e59de3ff501ed1c",
+      "title": "GTA 6 Flair für Discord: Vice-City-Design kostenlos aktivieren",
       "kind": "Gratisartikel",
       "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/verivox-zahnzusatzversicherung-bonus/1626541",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/verivox-zahnzusatzversicherung-bonus/1626541",
+      "url": "https://www.kostenlos.de/gta-6-discord",
+      "source": "Kostenlos.de",
+      "sourceUrl": "https://www.kostenlos.de/gta-6-discord",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/verivox-zahnzusatzversicherung-100-euro-bonus-600x338.jpg",
-      "stores": [
-        "Rossmann",
-        "Amazon"
-      ],
+      "image": "https://www.kostenlos.de/app/uploads/2026/11/GTA-Design_bei_Discord-750x300.jpg",
+      "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-18T21:11:00+00:00",
+      "published": "2026-11-19T08:23:22+00:00",
       "verified": false,
       "cities": [],
-      "category": "Drogerie",
+      "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
@@ -1391,30 +1456,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-f553534a0000141041",
-      "title": "100€ Gutschein für neue Zahnzusatzversicherung über Verivox + gratis Zahnbürste",
-      "kind": "Coupons",
-      "reward": "Coupons",
-      "url": "https://www.kostenlos.de/verivox-zahnzusatz",
-      "source": "Kostenlos.de",
-      "sourceUrl": "https://www.kostenlos.de/verivox-zahnzusatz",
-      "conditionsUrl": "",
-      "image": "https://www.kostenlos.de/app/uploads/2026/11/Verivox_Zahnzusatzversicherung-750x300.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-18T11:00:48+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Drogerie",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     }
   ]
