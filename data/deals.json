@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T20:32:02.259163+00:00",
-  "lastSuccessAt": "2026-11-19T20:32:02.259163+00:00",
+  "generatedAt": "2026-11-20T03:10:18.433023+00:00",
+  "lastSuccessAt": "2026-11-20T03:10:18.433023+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-19T20:32:02.259163+00:00"
+      "updatedAt": "2026-11-20T03:10:18.433023+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 13,
-      "updatedAt": "2026-11-19T20:32:02.259163+00:00"
+      "updatedAt": "2026-11-20T03:10:18.433023+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-19T20:32:02.259163+00:00"
+      "count": 4,
+      "updatedAt": "2026-11-20T03:10:18.433023+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-11-19T20:32:02.259163+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-20T03:10:18.433023+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-19T20:32:02.259163+00:00"
+      "updatedAt": "2026-11-20T03:10:18.433023+00:00"
     }
   ],
   "deals": [
@@ -966,6 +966,50 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-a07bb7585de2832f16",
+      "title": "Saarland: Kostenlos Bus und Bahn an den Adventssamstagen",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/saarland-kostenlos-bus-und-bahn-an-den-adventssamstagen/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/saarland-kostenlos-bus-und-bahn-an-den-adventssamstagen/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/busweihnachten-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-20T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Lebensmittel",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-db8e016cf877de1f37",
+      "title": "gratis 1 kg Clementinen zu Obst und Gemüse Box Bestellung bei Rübenretter",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/da26d38f0f278d9d82c3766f4bf5c0c171cc2b682e51205894928ac2b62365b5-300x300.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-19T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-e684ca2aa4742e3144",
       "title": "Bis zu 2 Bahnland Bayern Kalender 2027 gratis bestellen",
       "kind": "Gratisartikel",
@@ -1029,28 +1073,6 @@
       "verified": false,
       "cities": [],
       "category": "Lebensmittel",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-db8e016cf877de1f37",
-      "title": "gratis 1 kg Clementinen zu Obst und Gemüse Box Bestellung bei Rübenretter",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/da26d38f0f278d9d82c3766f4bf5c0c171cc2b682e51205894928ac2b62365b5-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-19T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
@@ -1213,26 +1235,28 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-e8c70ae338a8840383",
-      "title": "100 % Cashback auf tetesept Kreatin + Magnesium – bei Rossmann, dm & Müller",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
+      "id": "public-04204541302ce89247",
+      "title": "Apple iPhone 18 Pro Max (256GB) für 879€ + 90GB LTE/5G Allnet für 39,95€/Monat + 240€ Cashback (Telekom Magenta Mobil S)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.dealdoktor.de/apple-iphone-18-pro-max-telekom-magenta-mobil-s/",
       "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/100-cashback-auf-tetesept-kreatin-magnesium-bei-rossmann-dm-mueller/",
+      "sourceUrl": "https://www.dealdoktor.de/apple-iphone-18-pro-max-telekom-magenta-mobil-s/",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8204-300x300.jpeg",
-      "stores": [
-        "dm",
-        "Rossmann",
-        "Müller"
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Apple_iPhone_18_Pro_Max_Handytarif-750x347.png",
+      "stores": [],
+      "facts": [
+        "Apple iPhone 18 Pro Max (256GB) für 879€ + 90GB LTE/5G Allnet für 39,95€/Monat Wert des Handys: 1.569€ 240€ Cashback Gesamtkosten: 1.642,70€ (mit Bonus) => eff. 3,07€/Monat",
+        "240€ Cashback",
+        "Voraussetzung: Neuen Vertrag im Aktionszeitraum abschließen.",
+        "Ablauf: Registrierung über die MeinMagenta App oder telekom.de/cashback-einloesen .",
+        "– 240€ Cashback"
       ],
-      "facts": [],
-      "purchasePeriod": "Aktionszeitraum: Kaufzeitraum: 16.11.2026 – 13.12.2026",
-      "purchaseEnd": "2026-12-13",
+      "purchasePeriod": "",
+      "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-18T00:00:00+02:00",
+      "amountCents": 24000,
+      "published": "2026-11-19T20:27:03+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1266,6 +1290,35 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-470ce69394d048adbf",
+      "title": "Honor Magic8 Pro (512GB) für 169€ + 90GB 5G/LTE Telekom Allnet für 39,95€/Monat + 240€ Cashback (Telekom Magentamobil S)",
+      "kind": "Cashback",
+      "reward": "Cashback",
+      "url": "https://www.dealdoktor.de/honor-magic8-pro-telekom-magentamobil-s/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/honor-magic8-pro-telekom-magentamobil-s/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/07/Honor_Magic8_Pro_Handytarif-1-750x350.png",
+      "stores": [],
+      "facts": [
+        "Honor Magic8 Pro (512GB) für 169€ + 90GB 5G/LTE Telekom Allnet für 39,95€/Monat 📱 Handywert: 923€ 💶 240€ Cashback 💾 Speicher: 512GB Gesamtkosten über 24 Monate: 932,70€ (inkl. Bonus) 👉 eff. 0,40€/Monat Händler: Gomibo",
+        "💶 240€ Cashback",
+        "Voraussetzung: Neuen Vertrag im Aktionszeitraum abschließen.",
+        "Ablauf: Registrierung über die MeinMagenta App oder telekom.de/cashback-einloesen .",
+        "– 240€ Cashback",
+        "Alte Aktionen anzeigen Honor Magic8 Pro (512GB) für 119€ + 30GB 5G/LTE Telekom Allnet für 39,95€/Monat 📱 Handywert: 778€ 💶 240€ Cashback 💾 Speicher: 512GB Gesamtkosten über 24 Monate: 882,70€ (inkl. Bonus) 👉 eff. 4,36€/Monat Händler: Gomibo Honor Magic8 Pro (512GB) für 159€ + 30GB 5G/LTE Telekom All"
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 24000,
+      "published": "2026-11-19T19:47:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-b67b8405e3d69b8796",
       "title": "Bergfreunde Black Week: Bis zu 50% Rabatt auf Jacken, Stiefel & mehr – z.B. Lowe Trekkingrucksack für 75,93€ (statt 101€)",
       "kind": "Coupons",
@@ -1288,27 +1341,44 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-75bb35edf7b3b5e89a",
-      "title": "Epson EcoTank ET-2959 Tintentank-Multifunktionsdrucker für 219,99€ (169,99€ mit Cashback)",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.monsterdealz.de/elektronik-computer/computer-notebooks-tablets/epson-ecotank-et-2959-tintentankdrucker/1627744",
+      "id": "public-c2f1e95889a1edf18f",
+      "title": "Mustang Black Week: 30 % Rabatt auf Jeans & Mode mit Gutscheincode",
+      "kind": "Coupons",
+      "reward": "30 %",
+      "url": "https://www.monsterdealz.de/mode-beauty/kleidung-schuhe/mustang-black-week-30-prozent-gutschein/1626611",
       "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/computer-notebooks-tablets/epson-ecotank-et-2959-tintentankdrucker/1627744",
+      "sourceUrl": "https://www.monsterdealz.de/mode-beauty/kleidung-schuhe/mustang-black-week-30-prozent-gutschein/1626611",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/epson-ecotank-et-2959-tintentankdrucker-600x600.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [
-        "💡 Besonderheit: 50€ Epson-Cashback laut Aktionsgrafik auf der Amazon-Produktseite – Kauf bis 31.01.2027, Antrag innerhalb von 30 Tagen nach dem Kauf",
-        "💸 Wie bekomme ich das Epson-Cashback? Ihr registriert den Kauf innerhalb von 30 Tagen online bei Epson und ladet Kaufbeleg und ein Foto der Seriennummer hoch."
-      ],
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/mustang-black-week-30-prozent-gutschein-600x400.jpg",
+      "stores": [],
+      "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-19T18:29:27+00:00",
+      "published": "2026-11-19T23:01:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-fe876071938262dd1b",
+      "title": "⏰ *KNALLER* Consorsbank Depot eröffnen & gratis Apple Aktie sichern + 3,80% Zinsen p.a. auf Tagesgeld (für 5 Monate)",
+      "kind": "Gratisartikel",
+      "reward": "80 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/consorsbank-depot-apple-aktie/1590883",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/09/consorsbanner-600x285.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-19T21:20:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
