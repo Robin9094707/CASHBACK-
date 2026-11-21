@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T21:47:29.128012+00:00",
-  "lastSuccessAt": "2026-11-20T21:47:29.128012+00:00",
+  "generatedAt": "2026-11-21T03:11:56.302809+00:00",
+  "lastSuccessAt": "2026-11-21T03:11:56.302809+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-20T21:47:29.128012+00:00"
+      "updatedAt": "2026-11-21T03:11:56.302809+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-20T21:47:29.128012+00:00"
+      "updatedAt": "2026-11-21T03:11:56.302809+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-20T21:47:29.128012+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-21T03:11:56.302809+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-20T21:47:29.128012+00:00"
+      "updatedAt": "2026-11-21T03:11:56.302809+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-20T21:47:29.128012+00:00"
+      "updatedAt": "2026-11-21T03:11:56.302809+00:00"
     }
   ],
   "deals": [
@@ -1277,30 +1277,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-20T20:28:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-2188af98a7b71f3e33",
-      "title": "eBay: 50% Gutschein auf Keter Schränke – z.B. Regalschrank Titan 80 x 44 x 182cm für 90€ (statt 151€)",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.dealdoktor.de/keter-schraenke/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/keter-schraenke/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/s-l1600-2-646x400.webp",
-      "stores": [
-        "eBay"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-20T19:25:13+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
