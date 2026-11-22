@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T20:30:29.411413+00:00",
-  "lastSuccessAt": "2026-11-21T20:30:29.411413+00:00",
+  "generatedAt": "2026-11-22T02:12:12.318356+00:00",
+  "lastSuccessAt": "2026-11-22T02:12:12.318356+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-21T20:30:29.411413+00:00"
+      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-11-21T20:30:29.411413+00:00"
+      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-21T20:30:29.411413+00:00"
+      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-11-21T20:30:29.411413+00:00"
+      "count": 1,
+      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-21T20:30:29.411413+00:00"
+      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
     }
   ],
   "deals": [
@@ -963,6 +963,54 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-3d6a953675d07827b6",
+      "title": "Gratis Optisana Nahrungsergänzung Loadup+Elektrolyte in der App",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-optisana-nahrungsergaenzung-loadupelektrolyte-in-der-app-2/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-optisana-nahrungsergaenzung-loadupelektrolyte-in-der-app-2/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/30ba1ac59acfd7e0222cd045300f61a089f6ab43180027f5b3c6458647996a84-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-5a675325e30c25203f",
+      "title": "Gratis Sportyfeel Creamy Protein Bar (ab 10 Euro Einkaufswert) in der Lidl App! Evtl. personalisiert",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-sportyfeel-creamy-protein-bar-ab-10-euro-einkaufswert-in-der-lidl-app-evtl-personalisiert-2/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-sportyfeel-creamy-protein-bar-ab-10-euro-einkaufswert-in-der-lidl-app-evtl-personalisiert-2/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/53b9268f7149493b2a6a832896f0f20093a29b377db65005651ee542a816a8b4-300x300.jpg",
+      "stores": [
+        "Lidl"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-a472d333f4a2ec8d8d",
       "title": "GRATIS TESTEN: MyLove-MyLife vegane Produkte – bis zu 8,37€ zurückerhalten! 😀",
       "kind": "Gratis testen",
@@ -1139,50 +1187,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-db8e016cf877de1f37",
-      "title": "gratis 1 kg Clementinen zu Obst und Gemüse Box Bestellung bei Rübenretter",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-1-kg-clementinen-zu-obst-und-gemuese-box-bestellung-bei-ruebenretter/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/da26d38f0f278d9d82c3766f4bf5c0c171cc2b682e51205894928ac2b62365b5-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-19T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-e684ca2aa4742e3144",
-      "title": "Bis zu 2 Bahnland Bayern Kalender 2027 gratis bestellen",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/ab-23-11-bis-zu-2-bahnland-bayern-kalender-2027-gratis-bestellen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/ab-23-11-bis-zu-2-bahnland-bayern-kalender-2027-gratis-bestellen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/10/bbom-04-2025-news3-header-1920x680px-cr-brb-dietmardenger-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-19T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-77ebf71f88e1d8229f",
       "title": "Puma Black Week: Warm-Up Sale mit 25% Extra-Rabatt auf ausgewählte Styles",
       "kind": "Coupons",
@@ -1199,6 +1203,30 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-21T17:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-bba1fb898e6eb072fd",
+      "title": "🔥 waipu.tv Cyber Week: 10 Monate 50 % Rabatt auf alle Jahrespakete, auch mit Stick oder Box",
+      "kind": "Coupons",
+      "reward": "50 %",
+      "url": "https://www.monsterdealz.de/medien-streaming/waipu-tv-cyber-week-50-prozent-rabatt/1625102",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/waipu-tv-cyber-week-50-prozent-rabatt/1625102",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/waipu-tv-cyber-week-banner-600x300.jpg",
+      "stores": [],
+      "facts": [
+        "3️⃣ Registrieren und bestellen – der Rabatt ist im Preis bereits eingerechnet."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-21T21:45:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
