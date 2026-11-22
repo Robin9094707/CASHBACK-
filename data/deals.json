@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T09:43:47.673890+00:00",
-  "lastSuccessAt": "2026-11-22T09:43:47.673890+00:00",
+  "generatedAt": "2026-11-22T17:48:04.456017+00:00",
+  "lastSuccessAt": "2026-11-22T17:48:04.456017+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
+      "updatedAt": "2026-11-22T17:48:04.456017+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
+      "updatedAt": "2026-11-22T17:48:04.456017+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 2,
-      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
+      "count": 1,
+      "updatedAt": "2026-11-22T17:48:04.456017+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 3,
-      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-22T17:48:04.456017+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
+      "updatedAt": "2026-11-22T17:48:04.456017+00:00"
     }
   ],
   "deals": [
@@ -963,6 +963,50 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-b3c611312b3902ad8b",
+      "title": "GRATIS Josera Futterproben für Hunde, Katzen & Pferde + 5€ Gutschein sichern!",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-josera-futterproben-fuer-hunde-katzen-pferde-5e-gutschein-sichern/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-josera-futterproben-fuer-hunde-katzen-pferde-5e-gutschein-sichern/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Screenshot_1-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Tierbedarf",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-a492699d07767153e6",
+      "title": "GRATIS: Porsche 911 GT3 R und Red Bull X2019 mit Sonderlackierung in Gran Turismo 7 für Stream-Zuschauer",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.dealdoktor.de/user-deals/gratis-porsche-911-gt3-r-und-red-bull-x2019-mit-sonderlackierung-in-gran-turismo-7-fuer-stream-zuschauer/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/gratis-porsche-911-gt3-r-und-red-bull-x2019-mit-sonderlackierung-in-gran-turismo-7-fuer-stream-zuschauer/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/gt7-500-300x300.png",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-3d6a953675d07827b6",
       "title": "Gratis Optisana Nahrungsergänzung Loadup+Elektrolyte in der App",
       "kind": "Gratisartikel",
@@ -1143,72 +1187,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-ae5aa0fed9560a268c",
-      "title": "IKEA: Nikolausstiefel gratis befüllen lassen in 11 Einrichtungshäusern + Nikolaus-Aktionen am 5.12.",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/ikea-nikolausstiefel-gratis-befuellen-lassen-in-11-einrichtungshaeusern-nikolaus-aktionen-am-5-12/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/ikea-nikolausstiefel-gratis-befuellen-lassen-in-11-einrichtungshaeusern-nikolaus-aktionen-am-5-12/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/ikea-nikolaus-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-20T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-a07bb7585de2832f16",
-      "title": "Saarland u.a.: Kostenlos Bus und Bahn an den Adventssamstagen",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.dealdoktor.de/user-deals/saarland-kostenlos-bus-und-bahn-an-den-adventssamstagen/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/saarland-kostenlos-bus-und-bahn-an-den-adventssamstagen/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/busweihnachten-300x300.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-20T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Lebensmittel",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-64adc4ad8142beced1",
-      "title": "Jetzt für alle! adidas Black Friday Sale mit bis zu 50% Rabatt auf ausgewählte Artikel 🔥",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.dealdoktor.de/adidas-black-friday/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/adidas-black-friday/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Bildschirmfoto_2026-11-20_um_10.26.52-750x390.jpg",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-22T09:00:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-77ebf71f88e1d8229f",
       "title": "Puma Black Week: Warm-Up Sale mit 25% Extra-Rabatt auf ausgewählte Styles",
       "kind": "Coupons",
@@ -1224,7 +1202,7 @@
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-21T17:00:00+00:00",
+      "published": "2026-11-22T14:00:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1277,30 +1255,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-22T06:31:35+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-bba1fb898e6eb072fd",
-      "title": "🔥 waipu.tv Cyber Week: 10 Monate 50 % Rabatt auf alle Jahrespakete, auch mit Stick oder Box",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.monsterdealz.de/medien-streaming/waipu-tv-cyber-week-50-prozent-rabatt/1625102",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/waipu-tv-cyber-week-50-prozent-rabatt/1625102",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/waipu-tv-cyber-week-banner-600x300.jpg",
-      "stores": [],
-      "facts": [
-        "3️⃣ Registrieren und bestellen – der Rabatt ist im Preis bereits eingerechnet."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-21T21:45:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
