@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T02:12:12.318356+00:00",
-  "lastSuccessAt": "2026-11-22T02:12:12.318356+00:00",
+  "generatedAt": "2026-11-22T09:43:47.673890+00:00",
+  "lastSuccessAt": "2026-11-22T09:43:47.673890+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
+      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 10,
-      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
+      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
+      "count": 2,
+      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
+      "count": 3,
+      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-22T02:12:12.318356+00:00"
+      "updatedAt": "2026-11-22T09:43:47.673890+00:00"
     }
   ],
   "deals": [
@@ -1187,6 +1187,28 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-64adc4ad8142beced1",
+      "title": "Jetzt für alle! adidas Black Friday Sale mit bis zu 50% Rabatt auf ausgewählte Artikel 🔥",
+      "kind": "Coupons",
+      "reward": "50 %",
+      "url": "https://www.dealdoktor.de/adidas-black-friday/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/adidas-black-friday/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Bildschirmfoto_2026-11-20_um_10.26.52-750x390.jpg",
+      "stores": [],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T09:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-77ebf71f88e1d8229f",
       "title": "Puma Black Week: Warm-Up Sale mit 25% Extra-Rabatt auf ausgewählte Styles",
       "kind": "Coupons",
@@ -1203,6 +1225,58 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-21T17:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-3399913b80f6acc936",
+      "title": "Mark of the Deep kostenlos im Epic Games Store – Piraten-Action gratis für PC",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/mark-of-the-deep-kostenlos-epic-games/1624249",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/rabatte-gewinnspiele-preisfehler/kostenloses/mark-of-the-deep-kostenlos-epic-games/1624249",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/mark-of-the-deep-epic-games-gratis-600x600.jpg",
+      "stores": [],
+      "facts": [
+        "🏴‍☠️ Ist Mark of the Deep wirklich kostenlos? Ja, im Aktionszeitraum könnt ihr das Spiel im Epic Games Store für 0€ einsammeln."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T08:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-b184ea23fa9c66f99b",
+      "title": "N26 Aura Premiumkonto: 3 % Cashback, 2,25 % Zinsen & Lounges für 55€/Monat",
+      "kind": "Cashback",
+      "reward": "3 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/n26-aura-premiumkonto/1629080",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/n26-aura-premiumkonto/1629080",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/n26-aura-premiumkonto-600x400.jpg",
+      "stores": [
+        "Amazon"
+      ],
+      "facts": [
+        "💡 Besonderheit: 3 % Cashback auf berechtigte Kartenzahlungen, bis zu 20 € im Monat",
+        "💳 Cashback: 3 % auf berechtigte Kartenzahlungen, gedeckelt bei 20 € im Monat, automatisch monatlich gutgeschrieben",
+        "💳 Wie funktioniert das Cashback bei N26 Aura? Ihr bekommt 3 % auf berechtigte Kartenzahlungen zurück, höchstens 20 € im Monat. N26 rechnet automatisch ab und zahlt monatlich aufs Konto aus."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-22T06:31:35+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
