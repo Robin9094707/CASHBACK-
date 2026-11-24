@@ -1,43 +1,43 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T20:11:19.073470+00:00",
-  "lastSuccessAt": "2026-11-23T20:11:19.073470+00:00",
+  "generatedAt": "2026-11-24T04:46:04.844615+00:00",
+  "lastSuccessAt": "2026-11-24T04:46:04.844615+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 36,
-      "updatedAt": "2026-11-23T20:11:19.073470+00:00"
+      "count": 35,
+      "updatedAt": "2026-11-24T04:46:04.844615+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 11,
-      "updatedAt": "2026-11-23T20:11:19.073470+00:00"
+      "updatedAt": "2026-11-24T04:46:04.844615+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-11-23T20:11:19.073470+00:00"
+      "count": 3,
+      "updatedAt": "2026-11-24T04:46:04.844615+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
       "count": 2,
-      "updatedAt": "2026-11-23T20:11:19.073470+00:00"
+      "updatedAt": "2026-11-24T04:46:04.844615+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 6,
-      "updatedAt": "2026-11-23T20:11:19.073470+00:00"
+      "updatedAt": "2026-11-24T04:46:04.844615+00:00"
     }
   ],
   "deals": [
@@ -174,34 +174,6 @@
       "reward": "100 %",
       "amountCents": 0,
       "published": "2026-10-26T08:51:50.381Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
-    {
-      "id": "sparwelt-6542",
-      "title": "Gratis testen: BILLY BOY SKYN Hautnah extra feucht bei dm",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.bb-cashback.de/",
-      "conditionsUrl": "https://www.bb-aktion.de/teilnahmebedingungen",
-      "image": "uploads/Gratis_generisch/Geld_zurueck_2bf5e3f4d3.jpg",
-      "stores": [
-        "dm"
-      ],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 12.10.-23.11.2026",
-        "Aktionsprodukt: BILLY BOY SKYN Hautnah extra Feucht 8er Kondompackung (EAN: 4008600448716) aus einer teilnehmenden dm Filiale.",
-        "Limit: Die Aktion ist auf insgesamt 3.000 Teilnahmen begrenzt. Pro Woche werden jeweils am Montag 500 neue Kontingente freigeschaltet."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 12.10.-23.11.2026",
-      "purchaseEnd": "2026-11-23",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 0,
-      "published": "2026-10-26T08:51:04.624Z",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1222,6 +1194,33 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
+      "id": "public-e48dfa274ae6a5c6e2",
+      "title": "💥 Die TOP Deals des Tages – z.B. Decathlon Black Week mit bis zu 50% Rabatt",
+      "kind": "Coupons",
+      "reward": "50 %",
+      "url": "https://www.dealdoktor.de/top-deal-des-tages/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/top-deal-des-tages/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [
+        "dm",
+        "Rossmann",
+        "Netto",
+        "Müller"
+      ],
+      "facts": [],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-23T20:30:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-e654286e371d495630",
       "title": "🎮 *ENDET* PS5 Slim Digital Edition für 99,95€ + 50GB 5G/LTE Telekom Allnet für 34,99€/Monat + 150€ Cashback + 150€ Wechselbonus (freenet Telekom Allnet Flat)",
       "kind": "Cashback",
@@ -1251,33 +1250,6 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-e48dfa274ae6a5c6e2",
-      "title": "💥 Die TOP Deals des Tages – z.B. Decathlon Black Week mit bis zu 50% Rabatt",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.dealdoktor.de/top-deal-des-tages/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/top-deal-des-tages/",
-      "conditionsUrl": "",
-      "image": "",
-      "stores": [
-        "dm",
-        "Rossmann",
-        "Netto",
-        "Müller"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-23T19:00:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
       "id": "public-ce5dcd19156d68dc28",
       "title": "15% Gutschein auf Bosch Professional Werkzeug 🔧👨‍🔧 z.B. Akkuschrauber, Bohrhämmer & vieles mehr",
       "kind": "Coupons",
@@ -1296,28 +1268,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-23T18:55:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-be0ebe1a2a4d2eff76",
-      "title": "Christ Black Week: Bis zu 50% Rabatt auf Schmuck, Uhren & Co. – z.B. Cluse Damenuhr für 88,95€ (statt 105€)",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.dealdoktor.de/christ-black-week/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/christ-black-week/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Christ_Black_Week_-750x325.png",
-      "stores": [],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-23T18:30:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
