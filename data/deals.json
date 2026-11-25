@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T17:38:47.078437+00:00",
-  "lastSuccessAt": "2026-11-24T17:38:47.078437+00:00",
+  "generatedAt": "2026-11-25T02:23:14.320422+00:00",
+  "lastSuccessAt": "2026-11-25T02:23:14.320422+00:00",
   "status": "ok",
   "sources": [
     {
@@ -9,35 +9,35 @@
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
       "count": 35,
-      "updatedAt": "2026-11-24T17:38:47.078437+00:00"
+      "updatedAt": "2026-11-25T02:23:14.320422+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 12,
-      "updatedAt": "2026-11-24T17:38:47.078437+00:00"
+      "updatedAt": "2026-11-25T02:23:14.320422+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 0,
-      "updatedAt": "2026-11-24T17:38:47.078437+00:00"
+      "count": 3,
+      "updatedAt": "2026-11-25T02:23:14.320422+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 4,
-      "updatedAt": "2026-11-24T17:38:47.078437+00:00"
+      "count": 0,
+      "updatedAt": "2026-11-25T02:23:14.320422+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-11-24T17:38:47.078437+00:00"
+      "count": 0,
+      "updatedAt": "2026-11-25T02:23:14.320422+00:00"
     }
   ],
   "deals": [
@@ -1213,123 +1213,75 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-ea8d16b8c54e4f0616",
-      "title": "Amazon Retourenkauf: 15% Rabatt auf ausgewählte Retouren an der Kasse",
+      "id": "public-dae46baf05d2677bd2",
+      "title": "🛁 MEGABAD Black Weeks: 10% Extra-Rabatt mit Code auf schon reduzierte Badartikel – z. B. GROHE Euphoria SmartControl für 584,99€",
       "kind": "Coupons",
-      "reward": "15 %",
-      "url": "https://www.monsterdealz.de/shopping/amazon-retourenkauf/1123750",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/shopping/amazon-retourenkauf/1123750",
+      "reward": "10 %",
+      "url": "https://www.dealdoktor.de/megabad-black-weeks/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/megabad-black-weeks/",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/amazon-retourenkauf-15-prozent-black-week-2026-600x400.jpg",
-      "stores": [
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-24T17:21:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-c96cd98e304c5c5d80",
-      "title": "⏰ *KNALLER* 300€ Bonus für das kostenlose Openbank BestGiro",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/openbank-bestgiro-bonus/1629036",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/bonusdeals/openbank-bestgiro-bonus/1629036",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/openbank-bestgiro-300-euro-bonus-dealbild-600x315.jpg",
-      "stores": [
-        "Rossmann",
-        "Amazon"
-      ],
-      "facts": [],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-24T16:13:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-45cadbeeeaaf8f949e",
-      "title": "*TOP* 50% Rabatt auf waipu.tv inkl. Netflix – bereits ab 10€/Monat (statt 19,99€)",
-      "kind": "Coupons",
-      "reward": "50 %",
-      "url": "https://www.monsterdealz.de/medien-streaming/50-rabatt-auf-waipu-tv-inkl-netflix/1412712",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/medien-streaming/50-rabatt-auf-waipu-tv-inkl-netflix/1412712",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/03/1200x600-50-prozent-netflix-05-05-2026-600x300.jpg",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/grohe-euphoria-smartcontrol-system-310-duo-chrom-26507000-400x400.jpg",
       "stores": [],
       "facts": [],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
       "amountCents": 0,
-      "published": "2026-11-24T14:45:00+00:00",
+      "published": "2026-11-24T20:05:24+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-8ff88ac8bc016cf1e2",
-      "title": "Vodafone GigaZuhause 600 Glasfaser (600/300 Mbit/s) bei LogiTel: 255€ Cashback + 0€ Anschluss (effektiv 31,24€/Monat)",
+      "id": "public-8d5609b90d49fe5f6b",
+      "title": "WhatsApp-Gutschein-Drops: Jeden Tag ein BestChoice-Gutschein – bis Ende November",
+      "kind": "Coupons",
+      "reward": "Coupons",
+      "url": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/whatsapp-gutschein-drops/",
+      "conditionsUrl": "",
+      "image": "",
+      "stores": [],
+      "facts": [
+        "Codewort eintragen: Im täglichen Drop-Beitrag findet ihr das Codewort des Tages und den Link zum Teilnahmeformular. Tragt dort eure E-Mail-Adresse und das Codewort bis 23:59 Uhr ein, fertig.",
+        "🍀 Auslosung: Am nächsten Morgen losen wir unter allen Teilnahmen mit dem richtigen Codewort aus."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-24T19:10:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-04204541302ce89247",
+      "title": "Apple iPhone 18 Pro Max (256GB) für 879€ + 90GB LTE/5G Allnet für 39,95€/Monat + 240€ Cashback (Telekom Magenta Mobil S)",
       "kind": "Cashback",
       "reward": "Cashback",
-      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/vodafone-gigazuhause-600-glasfaser-255-cashback/1630884",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/vodafone-gigazuhause-600-glasfaser-255-cashback/1630884",
+      "url": "https://www.dealdoktor.de/apple-iphone-18-pro-max-telekom-magenta-mobil-s/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/apple-iphone-18-pro-max-telekom-magenta-mobil-s/",
       "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/vodafone-gigazuhause-600-glasfaser-255-cashback-600x400.jpg",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Apple_iPhone_18_Pro_Max_Handytarif-750x347.png",
       "stores": [],
       "facts": [
-        "💰 Bonus: 255€ LogiTel Cashback auf das im Bestellprozess angegebene Konto",
-        "– 255€ LogiTel Cashback",
-        "💸 Wann wird das Cashback ausgezahlt? Ihr ladet die erste Vodafone-Rechnung innerhalb von 12 Wochen über das LogiTel-Kontaktformular hoch. Ausgezahlt wird, sobald die Provision von Vodafone bei LogiTel eingegangen ist, und dann innerhalb von 4 Wochen."
+        "Apple iPhone 18 Pro Max (256GB) für 879€ + 90GB LTE/5G Allnet für 39,95€/Monat Wert des Handys: 1.569€ 240€ Cashback Gesamtkosten: 1.642,70€ (mit Bonus) => eff. 3,07€/Monat",
+        "240€ Cashback",
+        "Voraussetzung: Neuen Vertrag im Aktionszeitraum abschließen.",
+        "Ablauf: Registrierung über die MeinMagenta App oder telekom.de/cashback-einloesen .",
+        "– 240€ Cashback"
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 25500,
-      "published": "2026-11-24T14:00:18+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-f265cafad621be6a00",
-      "title": "CHECK24 BlackTrikot gratis: So bekommt ihr das Trikot zu ausgewählten BlackDeals",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.kostenlos.de/check24-blacktrikot",
-      "source": "Kostenlos.de",
-      "sourceUrl": "https://www.kostenlos.de/check24-blacktrikot",
-      "conditionsUrl": "",
-      "image": "https://www.kostenlos.de/app/uploads/2026/11/Gratis_Black_Trikot_Check24-750x300.jpg",
-      "stores": [],
-      "facts": [
-        "Kredit: bis zu 400€ Cashback – noch 10.038 Trikots",
-        "Nur einmal pro Person: Mehrfachteilnahmen sind nicht erlaubt. Mitmachen dürft ihr ab 18 Jahren mit Adresse in Deutschland.",
-        "Kombinierbar: Cashback, Gutscheine oder Anbieterboni, die im Angebot stehen, bekommt ihr zusätzlich zum Trikot."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-24T13:00:51+00:00",
+      "amountCents": 24000,
+      "published": "2026-11-24T18:30:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
