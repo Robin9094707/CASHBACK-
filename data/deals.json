@@ -1,76 +1,46 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T22:41:19.100543+00:00",
-  "lastSuccessAt": "2026-11-27T22:41:19.100543+00:00",
+  "generatedAt": "2026-11-28T07:44:08.947810+00:00",
+  "lastSuccessAt": "2026-11-28T07:44:08.947810+00:00",
   "status": "ok",
   "sources": [
     {
       "name": "SPARWELT",
       "url": "https://www.sparwelt.de/gratis/cashback",
       "status": "ok",
-      "count": 36,
-      "updatedAt": "2026-11-27T22:41:19.100543+00:00"
+      "count": 35,
+      "updatedAt": "2026-11-28T07:44:08.947810+00:00"
     },
     {
       "name": "DealDoktor",
       "url": "https://www.dealdoktor.de/themenwelten/gratis/",
       "status": "ok",
       "count": 8,
-      "updatedAt": "2026-11-27T22:41:19.100543+00:00"
+      "updatedAt": "2026-11-28T07:44:08.947810+00:00"
     },
     {
       "name": "DealDoktor RSS",
       "url": "https://www.dealdoktor.de/feed/",
       "status": "ok",
-      "count": 1,
-      "updatedAt": "2026-11-27T22:41:19.100543+00:00"
+      "count": 0,
+      "updatedAt": "2026-11-28T07:44:08.947810+00:00"
     },
     {
       "name": "MonsterDealz",
       "url": "https://www.monsterdealz.de/feed/",
       "status": "ok",
-      "count": 5,
-      "updatedAt": "2026-11-27T22:41:19.100543+00:00"
+      "count": 6,
+      "updatedAt": "2026-11-28T07:44:08.947810+00:00"
     },
     {
       "name": "Kostenlos.de",
       "url": "https://www.kostenlos.de/feed/",
       "status": "ok",
       "count": 1,
-      "updatedAt": "2026-11-27T22:41:19.100543+00:00"
+      "updatedAt": "2026-11-28T07:44:08.947810+00:00"
     }
   ],
   "deals": [
-    {
-      "id": "sparwelt-6869",
-      "title": "CESAR®gratis testen",
-      "kind": "Gratis testen",
-      "source": "SPARWELT",
-      "sourceUrl": "https://www.sparwelt.de/gratis/cashback",
-      "url": "https://www.promomo-cesar.de/",
-      "conditionsUrl": "https://promomo-cesar.de/terms",
-      "image": "uploads/Gratis_generisch/Geld_zurueck_2bf5e3f4d3.jpg",
-      "stores": [
-        "REWE",
-        "Kaufland"
-      ],
-      "facts": [
-        "Aktionszeitraum/Kaufzeitraum: 16.11. bis 27.12.2026",
-        "Aktionsprodukte: CESAR® Trocken für kleine Hunde Huhn & Lachs 1,4kg, CESAR® Trocken für kleine Hunde Rind & Geflügel 1,4kg",
-        "Teilnehmende Händler: K+K, Globus, Familia, V-Markt, Kaufland, Futterhaus, Rewe",
-        "Limit: Die Gesamt-Teilnehmerzahl ist auf 6.000 Teilnahmen im Gesamt-Zeitraum und 1.000 Teilnahmen pro Aktionswoche limitiert. Der Zähler wird Montags um 00:00 Uhr zurückgesetzt."
-      ],
-      "purchasePeriod": "Aktionszeitraum/Kaufzeitraum: 16.11. bis 27.12.2026",
-      "purchaseEnd": "2026-12-27",
-      "deadline": "",
-      "reward": "100 %",
-      "amountCents": 679,
-      "published": "2026-11-18T10:33:09.385Z",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
-    },
     {
       "id": "sparwelt-6906",
       "title": "Pedigree DENTASTIX gratis testen!",
@@ -990,6 +960,30 @@
       "evidence": "Metadaten aus öffentlicher Cashback-Übersicht"
     },
     {
+      "id": "public-518a8dc535eeaecdad",
+      "title": "Frosch Spülmaschinen\\-Gel All in 1 – gratis testen ab 01.12.2026",
+      "kind": "Gratis testen",
+      "reward": "100 %",
+      "url": "https://www.dealdoktor.de/user-deals/frosch-spuelmaschinen-gel-all-in-1-gratis-testen-ab-01-12-2026/",
+      "source": "DealDoktor",
+      "sourceUrl": "https://www.dealdoktor.de/user-deals/frosch-spuelmaschinen-gel-all-in-1-gratis-testen-ab-01-12-2026/",
+      "conditionsUrl": "",
+      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8642-300x300.jpeg",
+      "stores": [
+        "dm"
+      ],
+      "facts": [],
+      "purchasePeriod": "Aktionszeitraum: 01.12.2026 bis 31.12.2026",
+      "purchaseEnd": "2026-12-31",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-28T00:00:00+02:00",
+      "verified": false,
+      "cities": [],
+      "category": "Haushalt",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
       "id": "public-26a38a6f39ca379bae",
       "title": "Dm glückskind: Gratis Buch \"Polli und der große Wunsch\"",
       "kind": "Gratisartikel",
@@ -1055,30 +1049,6 @@
       "verified": false,
       "cities": [],
       "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-518a8dc535eeaecdad",
-      "title": "Frosch Spülmaschinen\\-Gel All in 1 – gratis testen ab 01.12.2026",
-      "kind": "Gratis testen",
-      "reward": "100 %",
-      "url": "https://www.dealdoktor.de/user-deals/frosch-spuelmaschinen-gel-all-in-1-gratis-testen-ab-01-12-2026/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/user-deals/frosch-spuelmaschinen-gel-all-in-1-gratis-testen-ab-01-12-2026/",
-      "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/IMG_8642-300x300.jpeg",
-      "stores": [
-        "dm"
-      ],
-      "facts": [],
-      "purchasePeriod": "Aktionszeitraum: 01.12.2026 bis 31.12.2026",
-      "purchaseEnd": "2026-12-31",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-27T00:00:00+02:00",
-      "verified": false,
-      "cities": [],
-      "category": "Haushalt",
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
@@ -1177,26 +1147,48 @@
       "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
     },
     {
-      "id": "public-8d88381573111b89ea",
-      "title": "Tarif-Schnäppchen 😍 Xiaomi Redmi Note 17 Pro (256GB) für 1€ mit 35GB 5G Allnet für 9,99€ mtl. + 30€ Wechselbonus + 50€ Cashback (o2 Super Select S)",
-      "kind": "Cashback",
-      "reward": "Cashback",
-      "url": "https://www.dealdoktor.de/xiaomi-redmi-note-17-pro-o2-super-select-s/",
-      "source": "DealDoktor",
-      "sourceUrl": "https://www.dealdoktor.de/xiaomi-redmi-note-17-pro-o2-super-select-s/",
+      "id": "public-04e31861b1d1130caa",
+      "title": "⏰ ING Black Weeks: alle Aktionen mit bis zu 200€ Prämie, 150€ Gutschein & 4% Zinsen",
+      "kind": "Coupons",
+      "reward": "4 %",
+      "url": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/ing-black-weeks/1617409",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/finanzen-sparen/girokonto-tagesgeld/ing-black-weeks/1617409",
       "conditionsUrl": "",
-      "image": "https://www.dealdoktor.de/app/uploads/2026/11/Bildschirmfoto_2026-11-27_um_06.54.13.png",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/Black-600x240.jpg",
       "stores": [],
       "facts": [
-        "Xiaomi Redmi Note 17 Pro (256GB) für 1€ mit o2 Super Select S 📱 Xiaomi Redmi Note 17 Pro mit 256GB für 1€ Zuzahlung 📶 35GB 5G/LTE im o2-Netz mit bis zu 50 Mbit/s, Allnet- und SMS-Flat 💸 9,99€ im Monat bei 24 Monaten Laufzeit 🎁 30€ Wechselbonus bei Rufnummernmitnahme und 50€ Cashback aufs Bankkonto 🧾",
-        "🎁 30€ Wechselbonus bei Rufnummernmitnahme und 50€ Cashback aufs Bankkonto",
-        "– 50€ Cashback (vorteile.mediamarkt.de)"
+        "➕ Kann ich mehrere ING-Prämien kombinieren? Die Teilnahmebedingungen von Girokonto, Depot und Extra-Konto schließen sich gegenseitig nicht aus. Nur die Geschäftskonto-Gutschrift schließt parallele ING-Prämienaktionen aus."
       ],
       "purchasePeriod": "",
       "purchaseEnd": "",
       "deadline": "",
-      "amountCents": 5000,
-      "published": "2026-11-27T20:23:00+00:00",
+      "amountCents": 0,
+      "published": "2026-11-28T07:00:00+00:00",
+      "verified": false,
+      "cities": [],
+      "category": "Weitere",
+      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
+    },
+    {
+      "id": "public-44c6ff2587dfc3d667",
+      "title": "Diese 15 Handytarife lohnen sich jetzt wirklich: Black-Friday-Tarife ab 6,99€ & Handys effektiv fast gratis",
+      "kind": "Gratisartikel",
+      "reward": "Gratisartikel",
+      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/top-10-handytarife-black-friday-2026/1633881",
+      "source": "MonsterDealz",
+      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/top-10-handytarife-black-friday-2026/1633881",
+      "conditionsUrl": "",
+      "image": "https://www.monsterdealz.de/app/uploads/2026/11/1200x600_iPhone_18_Pro-600x300.png",
+      "stores": [],
+      "facts": [
+        "Muss ich für die Boni etwas tun? Ja: Wechselbonus und Cashback müsst ihr meist selbst beantragen, etwa per SMS oder über eine Aktionsseite. Die Schritte stehen in den Einzelbeiträgen."
+      ],
+      "purchasePeriod": "",
+      "purchaseEnd": "",
+      "deadline": "",
+      "amountCents": 0,
+      "published": "2026-11-27T22:59:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
@@ -1270,30 +1262,6 @@
       "deadline": "",
       "amountCents": 0,
       "published": "2026-11-27T19:30:00+00:00",
-      "verified": false,
-      "cities": [],
-      "category": "Weitere",
-      "evidence": "Öffentlicher Aktionsbericht; Teilnahmebedingungen beim Anbieter prüfen"
-    },
-    {
-      "id": "public-44c6ff2587dfc3d667",
-      "title": "Diese 15 Handytarife lohnen sich jetzt wirklich: Black-Friday-Tarife ab 6,99€ & Handys effektiv fast gratis",
-      "kind": "Gratisartikel",
-      "reward": "Gratisartikel",
-      "url": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/top-10-handytarife-black-friday-2026/1633881",
-      "source": "MonsterDealz",
-      "sourceUrl": "https://www.monsterdealz.de/elektronik-computer/handy-smartphone-iphone-vertrag/top-10-handytarife-black-friday-2026/1633881",
-      "conditionsUrl": "",
-      "image": "https://www.monsterdealz.de/app/uploads/2026/11/1200x600_iPhone_18_Pro-600x300.png",
-      "stores": [],
-      "facts": [
-        "Muss ich für die Boni etwas tun? Ja: Wechselbonus und Cashback müsst ihr meist selbst beantragen, etwa per SMS oder über eine Aktionsseite. Die Schritte stehen in den Einzelbeiträgen."
-      ],
-      "purchasePeriod": "",
-      "purchaseEnd": "",
-      "deadline": "",
-      "amountCents": 0,
-      "published": "2026-11-27T18:29:00+00:00",
       "verified": false,
       "cities": [],
       "category": "Weitere",
